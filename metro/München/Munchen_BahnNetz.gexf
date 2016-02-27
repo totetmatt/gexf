@@ -1,0 +1,2841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-02-27">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="latitude" title="Latitude" type="double"></attribute>
+      <attribute id="bahn" title="Bahn" type="string"></attribute>
+      <attribute id="longitude" title="Longitude" type="double"></attribute>
+      <attribute id="lines" title="lines" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Heimeranplatz" label="Heimeranplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.133333"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.533611"></attvalue>
+          <attvalue for="lines" value="S20-S27-S7-U4-U5"></attvalue>
+        </attvalues>
+        <viz:size value="25.625"></viz:size>
+        <viz:position x="-214.13484" y="-37.17103"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Hauptbahnhof" label="Hauptbahnhof">
+        <attvalues>
+          <attvalue for="latitude" value="48.140833"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.555"></attvalue>
+          <attvalue for="lines" value="S1-S2-S27-S3-S4-S6-S7-S8-U1-U2-U4-U5-U7"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-7.7586136" y="71.25279"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Pasing" label="Pasing">
+        <attvalues>
+          <attvalue for="latitude" value="48.1499"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4615"></attvalue>
+          <attvalue for="lines" value="S20-S3-S4-S6-S8"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-909.9127" y="202.37723"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Harras" label="Harras">
+        <attvalues>
+          <attvalue for="latitude" value="48.116944"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.539722"></attvalue>
+          <attvalue for="lines" value="S27-S7-U6"></attvalue>
+        </attvalues>
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="-155.17159" y="-274.09332"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Marienplatz" label="Marienplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.137222"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.575278"></attvalue>
+          <attvalue for="lines" value="S1-S2-S3-S4-S6-S7-S8-U3-U6"></attvalue>
+        </attvalues>
+        <viz:size value="36.875"></viz:size>
+        <viz:position x="187.89786" y="19.044895"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Karlsplatz (Stachus)" label="Karlsplatz (Stachus)">
+        <attvalues>
+          <attvalue for="latitude" value="48.139167"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.565833"></attvalue>
+          <attvalue for="lines" value="S1-S2-S3-S4-S6-S7-S8-U4-U5"></attvalue>
+        </attvalues>
+        <viz:size value="36.875"></viz:size>
+        <viz:position x="96.76584" y="47.17013"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Sendlinger Tor" label="Sendlinger Tor">
+        <attvalues>
+          <attvalue for="latitude" value="48.133333"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.566389"></attvalue>
+          <attvalue for="lines" value="U1-U2-U3-U6-U7"></attvalue>
+        </attvalues>
+        <viz:size value="21.875"></viz:size>
+        <viz:position x="102.130516" y="-37.17103"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Mittersendling" label="Mittersendling">
+        <attvalues>
+          <attvalue for="latitude" value="48.1078"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5364"></attvalue>
+          <attvalue for="lines" value="S20-S27-S7"></attvalue>
+        </attvalues>
+        <viz:size value="18.125"></viz:size>
+        <viz:position x="-187.2246" y="-406.2198"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Ostbahnhof" label="Ostbahnhof">
+        <attvalues>
+          <attvalue for="latitude" value="48.126944"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.604722"></attvalue>
+          <attvalue for="lines" value="S1-S2-S3-S4-S6-S7-S8-U5"></attvalue>
+        </attvalues>
+        <viz:size value="31.25"></viz:size>
+        <viz:position x="471.99442" y="-129.52823"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Odeonsplatz" label="Odeonsplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.1425"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.5775"></attvalue>
+          <attvalue for="lines" value="U3-U4-U5-U6"></attvalue>
+        </attvalues>
+        <viz:size value="18.125"></viz:size>
+        <viz:position x="209.3373" y="95.37001"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Donnersbergerbrucke" label="Donnersbergerbrucke">
+        <attvalues>
+          <attvalue for="latitude" value="48.1427"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5363"></attvalue>
+          <attvalue for="lines" value="S1-S2-S27-S3-S4-S6-S7-S8"></attvalue>
+        </attvalues>
+        <viz:size value="33.125"></viz:size>
+        <viz:position x="-188.18945" y="98.237816"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Laim" label="Laim">
+        <attvalues>
+          <attvalue for="latitude" value="48.1444"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5037"></attvalue>
+          <attvalue for="lines" value="S1-S2-S3-S4-S6-S8"></attvalue>
+        </attvalues>
+        <viz:size value="25.625"></viz:size>
+        <viz:position x="-502.7373" y="122.83876"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Giesing" label="Giesing">
+        <attvalues>
+          <attvalue for="latitude" value="48.110278"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.596389"></attvalue>
+          <attvalue for="lines" value="S3-S7-U2-U7"></attvalue>
+        </attvalues>
+        <viz:size value="18.125"></viz:size>
+        <viz:position x="391.59174" y="-370.424"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Innsbrucker Ring" label="Innsbrucker Ring">
+        <attvalues>
+          <attvalue for="latitude" value="48.120373"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.619504"></attvalue>
+          <attvalue for="lines" value="U2-U5-U7"></attvalue>
+        </attvalues>
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="614.6217" y="-224.51135"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Schwanthalerhohe" label="Schwanthalerhohe">
+        <attvalues>
+          <attvalue for="latitude" value="48.133889"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.541111"></attvalue>
+          <attvalue for="lines" value="U4-U5"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-141.76952" y="-29.15499"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Hackerbrucke" label="Hackerbrucke">
+        <attvalues>
+          <attvalue for="latitude" value="48.142"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5483"></attvalue>
+          <attvalue for="lines" value="S1-S2-S27-S3-S4-S6-S7-S8"></attvalue>
+        </attvalues>
+        <viz:size value="33.125"></viz:size>
+        <viz:position x="-72.40495" y="88.11411"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Theresienwiese" label="Theresienwiese">
+        <attvalues>
+          <attvalue for="latitude" value="48.133333"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.55"></attvalue>
+          <attvalue for="lines" value="U4-U5"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-56.00215" y="-37.17103"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Westkreuz" label="Westkreuz">
+        <attvalues>
+          <attvalue for="latitude" value="48.149"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.444"></attvalue>
+          <attvalue for="lines" value="S6-S8"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-1078.7651" y="189.35117"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Leuchtenbergring" label="Leuchtenbergring">
+        <attvalues>
+          <attvalue for="latitude" value="48.1342"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.616"></attvalue>
+          <attvalue for="lines" value="S2-S4-S6-S8"></attvalue>
+        </attvalues>
+        <viz:size value="18.125"></viz:size>
+        <viz:position x="580.8126" y="-24.663244"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Westendstrasse" label="Westendstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.134647"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.520259"></attvalue>
+          <attvalue for="lines" value="U4-U5"></attvalue>
+        </attvalues>
+        <viz:size value="8.75"></viz:size>
+        <viz:position x="-342.9644" y="-18.202042"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="St.-Martin-Strasse" label="St.-Martin-Strasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.1185"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5958"></attvalue>
+          <attvalue for="lines" value="S3-S7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="385.90866" y="-251.60004"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Max-Weber-Platz" label="Max-Weber-Platz">
+        <attvalues>
+          <attvalue for="latitude" value="48.135556"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.597778"></attvalue>
+          <attvalue for="lines" value="U4-U5"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="404.99377" y="-5.0377727"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Implerstrasse" label="Implerstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.120087"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.548446"></attvalue>
+          <attvalue for="lines" value="U3-U6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-70.99625" y="-228.6576"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Hirschgarten" label="Hirschgarten">
+        <attvalues>
+          <attvalue for="latitude" value="48.1436"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5191"></attvalue>
+          <attvalue for="lines" value="S1-S2-S3-S4-S6-S8"></attvalue>
+        </attvalues>
+        <viz:size value="25.625"></viz:size>
+        <viz:position x="-354.14722" y="111.26388"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Konigsplatz" label="Konigsplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.145011"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.563298"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="72.306366" y="131.68405"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Stiglmaierplatz" label="Stiglmaierplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.147606"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.556973"></attvalue>
+          <attvalue for="lines" value="U1-U7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="11.278286" y="169.20741"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Karl-Preis-Platz" label="Karl-Preis-Platz">
+        <attvalues>
+          <attvalue for="latitude" value="48.117963"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.608662"></attvalue>
+          <attvalue for="lines" value="U2-U7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="510.01035" y="-259.3397"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Moosach" label="Moosach">
+        <attvalues>
+          <attvalue for="latitude" value="48.180278"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.507222"></attvalue>
+          <attvalue for="lines" value="S1-U3"></attvalue>
+        </attvalues>
+        <viz:size value="8.75"></viz:size>
+        <viz:position x="-468.75458" y="641.80817"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Leienfelsstrasse" label="Leienfelsstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.1545"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4283"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1230.2499" y="268.8896"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Langwied" label="Langwied">
+        <attvalues>
+          <attvalue for="latitude" value="48.1629"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4327"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1187.7955" y="390.40857"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Isartor" label="Isartor">
+        <attvalues>
+          <attvalue for="latitude" value="48.1343"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.583"></attvalue>
+          <attvalue for="lines" value="S1-S2-S3-S4-S6-S7-S8"></attvalue>
+        </attvalues>
+        <viz:size value="29.375"></viz:size>
+        <viz:position x="262.40518" y="-23.212065"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Lehel" label="Lehel">
+        <attvalues>
+          <attvalue for="latitude" value="48.139444"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.588056"></attvalue>
+          <attvalue for="lines" value="U4-U5"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="311.18906" y="51.17815"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Trudering" label="Trudering">
+        <attvalues>
+          <attvalue for="latitude" value="48.126111"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.663056"></attvalue>
+          <attvalue for="lines" value="S4-S6-U2"></attvalue>
+        </attvalues>
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="1034.8422" y="-141.58682"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Rosenheimer Platz" label="Rosenheimer Platz">
+        <attvalues>
+          <attvalue for="latitude" value="48.1292"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5931"></attvalue>
+          <attvalue for="lines" value="S1-S2-S3-S4-S6-S7-S8"></attvalue>
+        </attvalues>
+        <viz:size value="29.375"></viz:size>
+        <viz:position x="359.85715" y="-96.9458"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Berg am Laim" label="Berg am Laim">
+        <attvalues>
+          <attvalue for="latitude" value="48.134"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6334"></attvalue>
+          <attvalue for="lines" value="S2-S4-S6"></attvalue>
+        </attvalues>
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="748.7001" y="-27.531052"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Fraunhoferstrasse" label="Fraunhoferstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.129236"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.574288"></attvalue>
+          <attvalue for="lines" value="U1-U2-U7"></attvalue>
+        </attvalues>
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="178.34564" y="-96.42752"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Goetheplatz" label="Goetheplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.12913"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.557675"></attvalue>
+          <attvalue for="lines" value="U3-U6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="18.051678" y="-97.94781"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Siemenswerke" label="Siemenswerke">
+        <attvalues>
+          <attvalue for="latitude" value="48.0945"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5328"></attvalue>
+          <attvalue for="lines" value="S20-S27-S7"></attvalue>
+        </attvalues>
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="-221.95993" y="-598.39734"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Partnachplatz" label="Partnachplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.116953"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.52625"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-285.15897" y="-273.95514"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Scheidplatz" label="Scheidplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.171613"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.573217"></attvalue>
+          <attvalue for="lines" value="U2-U3"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="168.01189" y="516.45386"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Universitat" label="Universitat">
+        <attvalues>
+          <attvalue for="latitude" value="48.150354"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.581371"></attvalue>
+          <attvalue for="lines" value="U3-U6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="246.68744" y="208.9421"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Perlach" label="Perlach">
+        <attvalues>
+          <attvalue for="latitude" value="48.0934"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6311"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="726.50806" y="-614.2912"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Josephsburg" label="Josephsburg">
+        <attvalues>
+          <attvalue for="latitude" value="48.126781"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.634184"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="756.26465" y="-131.91231"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Obermenzing" label="Obermenzing">
+        <attvalues>
+          <attvalue for="latitude" value="48.1641"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4781"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-749.7442" y="407.75363"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Untersbergstrasse" label="Untersbergstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.112582"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.587454"></attvalue>
+          <attvalue for="lines" value="U2-U7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="305.38055" y="-337.116"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Solln" label="Solln">
+        <attvalues>
+          <attvalue for="latitude" value="48.08"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.527"></attvalue>
+          <attvalue for="lines" value="S20-S27-S7"></attvalue>
+        </attvalues>
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="-277.92242" y="-807.81635"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Fasangarten" label="Fasangarten">
+        <attvalues>
+          <attvalue for="latitude" value="48.0923"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6062"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="486.25522" y="-630.1505"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Poccistrasse" label="Poccistrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.125487"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.550326"></attvalue>
+          <attvalue for="lines" value="U3-U6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-52.85667" y="-150.60487"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Kolumbusplatz" label="Kolumbusplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.119196"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.576816"></attvalue>
+          <attvalue for="lines" value="U1-U2-U7"></attvalue>
+        </attvalues>
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="202.73758" y="-241.54544"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Michaelibad" label="Michaelibad">
+        <attvalues>
+          <attvalue for="latitude" value="48.118323"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.631874"></attvalue>
+          <attvalue for="lines" value="U5-U7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="733.9762" y="-254.15688"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Kreillerstrasse" label="Kreillerstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.125833"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.646944"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="879.3822" y="-145.59485"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Neuperlach Sud" label="Neuperlach Sud">
+        <attvalues>
+          <attvalue for="latitude" value="48.088889"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.645278"></attvalue>
+          <attvalue for="lines" value="S7-U5"></attvalue>
+        </attvalues>
+        <viz:size value="8.75"></viz:size>
+        <viz:position x="863.30743" y="-679.45605"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Deisenhofen" label="Deisenhofen">
+        <attvalues>
+          <attvalue for="latitude" value="48.0195"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5835"></attvalue>
+          <attvalue for="lines" value="S20-S27-S3"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="267.22952" y="-1681.0808"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Moosacher St.-Martins-Platz" label="Moosacher St.-Martins-Platz">
+        <attvalues>
+          <attvalue for="latitude" value="48.181944"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.518611"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-358.86542" y="665.92535"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Fasanerie" label="Fasanerie">
+        <attvalues>
+          <attvalue for="latitude" value="48.1972"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.525"></attvalue>
+          <attvalue for="lines" value="S1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-297.21985" y="886.7119"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Munchner Freiheit" label="Munchner Freiheit">
+        <attvalues>
+          <attvalue for="latitude" value="48.161345"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.586414"></attvalue>
+          <attvalue for="lines" value="U3-U6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="295.3459" y="367.91528"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Daglfing" label="Daglfing">
+        <attvalues>
+          <attvalue for="latitude" value="48.1497"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6493"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="902.1145" y="199.47487"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Bonner Platz" label="Bonner Platz">
+        <attvalues>
+          <attvalue for="latitude" value="48.166671"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.578553"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="219.49739" y="444.93146"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Lochham" label="Lochham">
+        <attvalues>
+          <attvalue for="latitude" value="48.1285"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4309"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1205.1631" y="-107.03495"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Neuaubing" label="Neuaubing">
+        <attvalues>
+          <attvalue for="latitude" value="48.1416"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4218"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1292.9663" y="82.34395"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Olympia-Einkaufszentrum" label="Olympia-Einkaufszentrum">
+        <attvalues>
+          <attvalue for="latitude" value="48.182082"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.529852"></attvalue>
+          <attvalue for="lines" value="U1-U3"></attvalue>
+        </attvalues>
+        <viz:size value="8.75"></viz:size>
+        <viz:position x="-250.40431" y="667.9294"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Feldmoching" label="Feldmoching">
+        <attvalues>
+          <attvalue for="latitude" value="48.213525"></attvalue>
+          <attvalue for="bahn" value="Both"></attvalue>
+          <attvalue for="longitude" value="11.541517"></attvalue>
+          <attvalue for="lines" value="S1-U2"></attvalue>
+        </attvalues>
+        <viz:size value="8.75"></viz:size>
+        <viz:position x="-137.85214" y="1123.0814"></viz:position>
+        <viz:color r="252" g="141" b="98"></viz:color>
+      </node>
+      <node id="Prinzregentenplatz" label="Prinzregentenplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.139447"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.607139"></attvalue>
+          <attvalue for="lines" value="U4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="495.31537" y="51.2127"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Gronsdorf" label="Gronsdorf">
+        <attvalues>
+          <attvalue for="latitude" value="48.1184"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6989"></attvalue>
+          <attvalue for="lines" value="S4-S6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="1380.6906" y="-253.05122"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Brudermuhlstrasse" label="Brudermuhlstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.111944"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.548889"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-66.721855" y="-346.34134"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Neufahrn" label="Neufahrn">
+        <attvalues>
+          <attvalue for="latitude" value="48.3215"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6609"></attvalue>
+          <attvalue for="lines" value="S1-S1b"></attvalue>
+        </attvalues>
+        <viz:size value="8.75"></viz:size>
+        <viz:position x="1014.03955" y="2688.1782"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Silberhornstrasse" label="Silberhornstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.11486"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.580523"></attvalue>
+          <attvalue for="lines" value="U2-U7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="238.50533" y="-304.18805"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Giselastrasse" label="Giselastrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.156364"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.584103"></attvalue>
+          <attvalue for="lines" value="U3-U6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="273.0477" y="295.84006"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Riem" label="Riem">
+        <attvalues>
+          <attvalue for="latitude" value="48.1441"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6785"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1183.8568" y="118.48522"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Theresienstrasse" label="Theresienstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.15123"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.564277"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="81.75245" y="221.58807"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Moosfeld" label="Moosfeld">
+        <attvalues>
+          <attvalue for="latitude" value="48.130638"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.670909"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1110.6134" y="-76.14556"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Hohenzollernplatz" label="Hohenzollernplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.161874"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.568636"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="123.811165" y="375.55127"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Flughafen Besucherpark" label="Flughafen Besucherpark">
+        <attvalues>
+          <attvalue for="latitude" value="48.3521"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7642"></attvalue>
+          <attvalue for="lines" value="S1b-S8"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="2010.7511" y="3132.3428"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Petuelring" label="Petuelring">
+        <attvalues>
+          <attvalue for="latitude" value="48.175833"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.565833"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="96.76584" y="577.5071"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Maillingerstrasse" label="Maillingerstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.15"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.545833"></attvalue>
+          <attvalue for="lines" value="U1-U7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-96.20832" y="203.8284"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Milbershofen" label="Milbershofen">
+        <attvalues>
+          <attvalue for="latitude" value="48.180402"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.573153"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="167.39435" y="643.60486"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Aubing" label="Aubing">
+        <attvalues>
+          <attvalue for="latitude" value="48.156"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.413"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1377.8751" y="290.58817"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Lochhausen" label="Lochhausen">
+        <attvalues>
+          <attvalue for="latitude" value="48.176"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4088"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1418.3995" y="579.9257"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Friedenheimer Strasse" label="Friedenheimer Strasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.134997"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.511111"></attvalue>
+          <attvalue for="lines" value="U5"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-431.23074" y="-13.122914"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Westpark" label="Westpark">
+        <attvalues>
+          <attvalue for="latitude" value="48.117946"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.516576"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-378.50055" y="-259.6161"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Grosshesselohe Isartalbahnhof" label="Grosshesselohe Isartalbahnhof">
+        <attvalues>
+          <attvalue for="latitude" value="48.071"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5308"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-241.25735" y="-937.80054"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Untermenzing" label="Untermenzing">
+        <attvalues>
+          <attvalue for="latitude" value="48.1775"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4728"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-800.8823" y="601.6243"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Therese-Giehse-Allee" label="Therese-Giehse-Allee">
+        <attvalues>
+          <attvalue for="latitude" value="48.094764"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.642826"></attvalue>
+          <attvalue for="lines" value="U5"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="839.6488" y="-594.5621"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Furth" label="Furth">
+        <attvalues>
+          <attvalue for="latitude" value="48.0355"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5934"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="362.75174" y="-1450.2396"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Fasanenpark" label="Fasanenpark">
+        <attvalues>
+          <attvalue for="latitude" value="48.0799"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6094"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="517.13104" y="-809.2675"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Candidplatz" label="Candidplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.112029"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.57121"></attvalue>
+          <attvalue for="lines" value="U1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="148.64691" y="-345.13202"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Quiddestrasse" label="Quiddestrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.108305"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.647053"></attvalue>
+          <attvalue for="lines" value="U5-U7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="880.4339" y="-398.92932"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Oberwiesenfeld" label="Oberwiesenfeld">
+        <attvalues>
+          <attvalue for="latitude" value="48.186"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.547682"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-78.36785" y="724.629"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Neubiberg" label="Neubiberg">
+        <attvalues>
+          <attvalue for="latitude" value="48.0758"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6603"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1008.2503" y="-868.48944"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Josephsplatz" label="Josephsplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.15583"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.567187"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="109.830185" y="288.13498"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Dietlindenstrasse" label="Dietlindenstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.167158"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.591096"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="340.52115" y="451.98004"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Eching" label="Eching">
+        <attvalues>
+          <attvalue for="latitude" value="48.3029"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6165"></attvalue>
+          <attvalue for="lines" value="S1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="585.63696" y="2418.328"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Oberschleissheim" label="Oberschleissheim">
+        <attvalues>
+          <attvalue for="latitude" value="48.2573"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5578"></attvalue>
+          <attvalue for="lines" value="S1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="19.257769" y="1757.2122"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Georg-Brauchle-Ring" label="Georg-Brauchle-Ring">
+        <attvalues>
+          <attvalue for="latitude" value="48.177133"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.529202"></attvalue>
+          <attvalue for="lines" value="U1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-256.67596" y="596.3033"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Hasenbergl" label="Hasenbergl">
+        <attvalues>
+          <attvalue for="latitude" value="48.213417"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.555056"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-7.2182856" y="1121.4921"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Olympiazentrum" label="Olympiazentrum">
+        <attvalues>
+          <attvalue for="latitude" value="48.179315"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.555879"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="0.7226006" y="627.8837"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Sauerlach" label="Sauerlach">
+        <attvalues>
+          <attvalue for="latitude" value="47.974"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6548"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="955.18243" y="-2337.1177"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Hallbergmoos" label="Hallbergmoos">
+        <attvalues>
+          <attvalue for="latitude" value="48.3089"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7142"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1528.3156" y="2505.3643"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Englschalking" label="Englschalking">
+        <attvalues>
+          <attvalue for="latitude" value="48.1567"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6484"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="893.4307" y="300.71188"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Haar" label="Haar">
+        <attvalues>
+          <attvalue for="latitude" value="48.1115"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7309"></attvalue>
+          <attvalue for="lines" value="S4-S6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="1689.449" y="-352.768"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Harthaus" label="Harthaus">
+        <attvalues>
+          <attvalue for="latitude" value="48.1332"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3873"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1625.8468" y="-39.105934"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Grafelfing" label="Grafelfing">
+        <attvalues>
+          <attvalue for="latitude" value="48.1201"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4258"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1254.3716" y="-228.48483"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Thalkirchen" label="Thalkirchen">
+        <attvalues>
+          <attvalue for="latitude" value="48.102421"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.546061"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-94.00841" y="-483.96152"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Frankfurter Ring" label="Frankfurter Ring">
+        <attvalues>
+          <attvalue for="latitude" value="48.186669"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.572777"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="163.76645" y="734.3035"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Feldkirchen" label="Feldkirchen">
+        <attvalues>
+          <attvalue for="latitude" value="48.1518"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7319"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1699.0978" y="229.84598"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Neuperlach Zentrum" label="Neuperlach Zentrum">
+        <attvalues>
+          <attvalue for="latitude" value="48.10074"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.646237"></attvalue>
+          <attvalue for="lines" value="U5-U7"></attvalue>
+        </attvalues>
+        <viz:size value="8.75"></viz:size>
+        <viz:position x="872.56055" y="-508.2515"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Rotkreuzplatz" label="Rotkreuzplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.154012"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.533027"></attvalue>
+          <attvalue for="lines" value="U1-U7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-219.76968" y="261.841"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Bohmerwaldplatz" label="Bohmerwaldplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.148132"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.616676"></attvalue>
+          <attvalue for="lines" value="U4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="565.5734" y="139.41714"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Puchheim" label="Puchheim">
+        <attvalues>
+          <attvalue for="latitude" value="48.1721"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3533"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1953.9028" y="523.50244"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Grobenzell" label="Grobenzell">
+        <attvalues>
+          <attvalue for="latitude" value="48.1945"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3747"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1747.4207" y="847.6337"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Taufkirchen" label="Taufkirchen">
+        <attvalues>
+          <attvalue for="latitude" value="48.0517"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6093"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="516.1662" y="-1216.427"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Pullach" label="Pullach">
+        <attvalues>
+          <attvalue for="latitude" value="48.059"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5219"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-327.13083" y="-1111.0437"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Lohhof" label="Lohhof">
+        <attvalues>
+          <attvalue for="latitude" value="48.2882"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5811"></attvalue>
+          <attvalue for="lines" value="S1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="244.07263" y="2205.1428"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Unterschleissheim" label="Unterschleissheim">
+        <attvalues>
+          <attvalue for="latitude" value="48.2739"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5686"></attvalue>
+          <attvalue for="lines" value="S1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="123.463806" y="1997.797"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Unterhaching" label="Unterhaching">
+        <attvalues>
+          <attvalue for="latitude" value="48.0647"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6124"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="546.0772" y="-1028.7756"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Pulling" label="Pulling">
+        <attvalues>
+          <attvalue for="latitude" value="48.3629"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7067"></attvalue>
+          <attvalue for="lines" value="S1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1455.9503" y="3289.1392"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Ottobrunn" label="Ottobrunn">
+        <attvalues>
+          <attvalue for="latitude" value="48.0632"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6785"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1183.8568" y="-1050.4052"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Nordfriedhof" label="Nordfriedhof">
+        <attvalues>
+          <attvalue for="latitude" value="48.172944"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.596723"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="394.81442" y="535.6993"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Westfriedhof" label="Westfriedhof">
+        <attvalues>
+          <attvalue for="latitude" value="48.170429"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.528413"></attvalue>
+          <attvalue for="lines" value="U1-U7"></attvalue>
+        </attvalues>
+        <viz:size value="8.75"></viz:size>
+        <viz:position x="-264.28882" y="499.31613"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Dulferstrasse" label="Dulferstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.21235"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.563431"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="73.589645" y="1106.0474"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Ismaning" label="Ismaning">
+        <attvalues>
+          <attvalue for="latitude" value="48.2257"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6793"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1191.5757" y="1299.3997"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Allach" label="Allach">
+        <attvalues>
+          <attvalue for="latitude" value="48.1897"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4682"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-845.2664" y="778.18445"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Holzapfelkreuth" label="Holzapfelkreuth">
+        <attvalues>
+          <attvalue for="latitude" value="48.1163"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.502135"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-517.8375" y="-283.38782"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Johanneskirchen" label="Johanneskirchen">
+        <attvalues>
+          <attvalue for="latitude" value="48.1677"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.646"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="870.2738" y="459.8233"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Vaterstetten" label="Vaterstetten">
+        <attvalues>
+          <attvalue for="latitude" value="48.1042"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7643"></attvalue>
+          <attvalue for="lines" value="S4-S6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="2011.716" y="-458.2549"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Am Hart" label="Am Hart">
+        <attvalues>
+          <attvalue for="latitude" value="48.195859"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.571972"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="155.99924" y="867.3283"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Gern" label="Gern">
+        <attvalues>
+          <attvalue for="latitude" value="48.162872"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.529068"></attvalue>
+          <attvalue for="lines" value="U1-U7"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-257.9689" y="389.99396"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Germering Unterpfaffenhofen" label="Germering Unterpfaffenhofen">
+        <attvalues>
+          <attvalue for="latitude" value="48.1288"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3641"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1849.6969" y="-102.715965"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Planegg" label="Planegg">
+        <attvalues>
+          <attvalue for="latitude" value="48.1054"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4135"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1373.0508" y="-440.90988"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Heimstetten" label="Heimstetten">
+        <attvalues>
+          <attvalue for="latitude" value="48.1587"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7594"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1964.4373" y="329.6318"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Obersendling" label="Obersendling">
+        <attvalues>
+          <attvalue for="latitude" value="48.098056"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.536111"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-190.01306" y="-547.01874"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Harthof" label="Harthof">
+        <attvalues>
+          <attvalue for="latitude" value="48.204197"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.569592"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="133.03532" y="988.01807"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Unterfohring" label="Unterfohring">
+        <attvalues>
+          <attvalue for="latitude" value="48.1902"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6468"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="877.9928" y="785.4058"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Wettersteinplatz" label="Wettersteinplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.108112"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.575786"></attvalue>
+          <attvalue for="lines" value="U1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="192.79941" y="-401.72803"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Hollriegelkreuth" label="Hollriegelkreuth">
+        <attvalues>
+          <attvalue for="latitude" value="48.0431"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.5094"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-447.7397" y="-1340.5375"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Hohenbrunn" label="Hohenbrunn">
+        <attvalues>
+          <attvalue for="latitude" value="48.0466"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6986"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1377.7959" y="-1290.0226"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Eichenau" label="Eichenau">
+        <attvalues>
+          <attvalue for="latitude" value="48.1794"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3282"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2196.0854" y="629.1276"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Messestadt-West" label="Messestadt-West">
+        <attvalues>
+          <attvalue for="latitude" value="48.133358"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.691148"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1305.8937" y="-36.825512"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Alte Heide" label="Alte Heide">
+        <attvalues>
+          <attvalue for="latitude" value="48.17855"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.602572"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="451.2497" y="616.82715"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Olching" label="Olching">
+        <attvalues>
+          <attvalue for="latitude" value="48.21"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3358"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2122.7551" y="1072.0482"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Karlsfeld" label="Karlsfeld">
+        <attvalues>
+          <attvalue for="latitude" value="48.2112"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4596"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-928.24524" y="1089.3933"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Baldham" label="Baldham">
+        <attvalues>
+          <attvalue for="latitude" value="48.0992"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7869"></attvalue>
+          <attvalue for="lines" value="S4-S6"></attvalue>
+        </attvalues>
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="2229.7766" y="-530.5029"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Geisenbrunn" label="Geisenbrunn">
+        <attvalues>
+          <attvalue for="latitude" value="48.1093"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3243"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2233.7153" y="-384.55573"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Stockdorf" label="Stockdorf">
+        <attvalues>
+          <attvalue for="latitude" value="48.0932"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4007"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1496.5542" y="-617.159"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Grub" label="Grub">
+        <attvalues>
+          <attvalue for="latitude" value="48.1646"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7827"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="2189.252" y="414.97498"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Buchenhain" label="Buchenhain">
+        <attvalues>
+          <attvalue for="latitude" value="48.0313"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4975"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-562.5593" y="-1510.8436"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Wachterhof" label="Wachterhof">
+        <attvalues>
+          <attvalue for="latitude" value="48.0335"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7126"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1512.8778" y="-1479.0905"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Studentenstadt" label="Studentenstadt">
+        <attvalues>
+          <attvalue for="latitude" value="48.183522"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.60771"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="500.82477" y="688.76416"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Aidenbachstrasse" label="Aidenbachstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.097794"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.52551"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-292.29898" y="-550.78485"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Furstenfeldbruck" label="Furstenfeldbruck">
+        <attvalues>
+          <attvalue for="latitude" value="48.1717"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.2621"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2833.8652" y="517.69775"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Poing" label="Poing">
+        <attvalues>
+          <attvalue for="latitude" value="48.1713"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.8098"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="2450.732" y="511.92755"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Zorneding" label="Zorneding">
+        <attvalues>
+          <attvalue for="latitude" value="48.0895"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.8329"></attvalue>
+          <attvalue for="lines" value="S4-S6"></attvalue>
+        </attvalues>
+        <viz:size value="8.75"></viz:size>
+        <viz:position x="2673.617" y="-670.6108"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Gilching Argelsried" label="Gilching Argelsried">
+        <attvalues>
+          <attvalue for="latitude" value="48.1059"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3001"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2467.2144" y="-433.68854"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Gauting" label="Gauting">
+        <attvalues>
+          <attvalue for="latitude" value="48.0706"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3761"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1733.9124" y="-943.57074"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Hohenkirchen Siegertsbrunn" label="Hohenkirchen Siegertsbrunn">
+        <attvalues>
+          <attvalue for="latitude" value="48.0185"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7192"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1576.5592" y="-1695.489"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Freimann" label="Freimann">
+        <attvalues>
+          <attvalue for="latitude" value="48.192007"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.61437"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="565.08514" y="811.5616"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Esting" label="Esting">
+        <attvalues>
+          <attvalue for="latitude" value="48.2122"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3175"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2299.3267" y="1103.8706"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Markt Schwaben" label="Markt Schwaben">
+        <attvalues>
+          <attvalue for="latitude" value="48.1933"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.8618"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="2952.4648" y="830.2887"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Dachau" label="Dachau">
+        <attvalues>
+          <attvalue for="latitude" value="48.2667"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4397"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1120.2545" y="1893.4502"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Baierbrunn" label="Baierbrunn">
+        <attvalues>
+          <attvalue for="latitude" value="48.0185"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4799"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-732.3765" y="-1695.489"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Buchenau" label="Buchenau">
+        <attvalues>
+          <attvalue for="latitude" value="48.1602"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.2244"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-3197.6216" y="351.33038"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Eglharting" label="Eglharting">
+        <attvalues>
+          <attvalue for="latitude" value="48.0823"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.8645"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="2978.516" y="-774.612"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Neugilching" label="Neugilching">
+        <attvalues>
+          <attvalue for="latitude" value="48.099"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.2888"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2576.2446" y="-533.3707"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Starnberg Nord" label="Starnberg Nord">
+        <attvalues>
+          <attvalue for="latitude" value="48.0057"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3474"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2010.8303" y="-1880.0997"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Durrnhaar" label="Durrnhaar">
+        <attvalues>
+          <attvalue for="latitude" value="47.9939"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7366"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1744.4467" y="-2050.2678"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Kieferngarten" label="Kieferngarten">
+        <attvalues>
+          <attvalue for="latitude" value="48.203659"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.613222"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="554.0084" y="980.2439"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Ottenhofen" label="Ottenhofen">
+        <attvalues>
+          <attvalue for="latitude" value="48.2183"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.8798"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="3126.1416" y="1192.2197"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Machtlfinger Strasse" label="Machtlfinger Strasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.097222"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.514722"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-396.38925" y="-559.07733"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Gernlinden" label="Gernlinden">
+        <attvalues>
+          <attvalue for="latitude" value="48.2128"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3012"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2456.6006" y="1112.5776"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Hebertshausen" label="Hebertshausen">
+        <attvalues>
+          <attvalue for="latitude" value="48.2905"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4557"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-965.87524" y="2238.4854"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Hohenschaftlarn" label="Hohenschaftlarn">
+        <attvalues>
+          <attvalue for="latitude" value="47.9913"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4575"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-948.50757" y="-2087.7566"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Schongeising" label="Schongeising">
+        <attvalues>
+          <attvalue for="latitude" value="48.1472"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.1917"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-3513.1343" y="163.33359"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Kirchseeon" label="Kirchseeon">
+        <attvalues>
+          <attvalue for="latitude" value="48.0709"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.8872"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="3197.542" y="-939.2517"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Starnberg" label="Starnberg">
+        <attvalues>
+          <attvalue for="latitude" value="47.996"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3432"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2051.3547" y="-2019.9658"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Wessling" label="Wessling">
+        <attvalues>
+          <attvalue for="latitude" value="48.0774"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.2518"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2933.247" y="-845.37427"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Aying" label="Aying">
+        <attvalues>
+          <attvalue for="latitude" value="47.9688"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7696"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="2062.854" y="-2412.0605"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Frottmaning" label="Frottmaning">
+        <attvalues>
+          <attvalue for="latitude" value="48.21185"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.616762"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="588.1649" y="1098.8259"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="St. Koloman" label="St. Koloman">
+        <attvalues>
+          <attvalue for="latitude" value="48.2438"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.8829"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="3156.0525" y="1561.5793"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Haderner Stern" label="Haderner Stern">
+        <attvalues>
+          <attvalue for="latitude" value="48.118473"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.488725"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-647.2266" y="-251.9801"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Forstenrieder Allee" label="Forstenrieder Allee">
+        <attvalues>
+          <attvalue for="latitude" value="48.094992"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.499402"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-544.20746" y="-591.27966"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Maisach" label="Maisach">
+        <attvalues>
+          <attvalue for="latitude" value="48.2142"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.2557"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2895.617" y="1132.8595"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Rohrmoos" label="Rohrmoos">
+        <attvalues>
+          <attvalue for="latitude" value="48.3338"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4447"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1072.011" y="2866.6733"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Ebenhausen-Schaftlarn" label="Ebenhausen-Schaftlarn">
+        <attvalues>
+          <attvalue for="latitude" value="47.9787"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4537"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-985.17267" y="-2269.3958"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Grafrath" label="Grafrath">
+        <attvalues>
+          <attvalue for="latitude" value="48.1321"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.1532"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-3884.6094" y="-54.999805"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Grafing Bahnhof" label="Grafing Bahnhof">
+        <attvalues>
+          <attvalue for="latitude" value="48.0433"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.9401"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="3707.9585" y="-1337.6697"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Possenhofen" label="Possenhofen">
+        <attvalues>
+          <attvalue for="latitude" value="47.9618"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.3063"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2407.3923" y="-2512.9521"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Steinebach" label="Steinebach">
+        <attvalues>
+          <attvalue for="latitude" value="48.0611"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.2066"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-3369.3684" y="-1080.7417"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Peiss" label="Peiss">
+        <attvalues>
+          <attvalue for="latitude" value="47.9602"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7765"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="2129.4302" y="-2535.9983"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Garching-Hochbruck" label="Garching-Hochbruck">
+        <attvalues>
+          <attvalue for="latitude" value="48.247326"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.631008"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="725.62036" y="1612.6816"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Aufhausen" label="Aufhausen">
+        <attvalues>
+          <attvalue for="latitude" value="48.2744"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.8941"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="3264.118" y="2005.0529"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Otterfing" label="Otterfing">
+        <attvalues>
+          <attvalue for="latitude" value="47.9115"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6821"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="1218.5922" y="-3237.367"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Flughafen Munchen" label="Flughafen Munchen">
+        <attvalues>
+          <attvalue for="latitude" value="48.3537"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7861"></attvalue>
+          <attvalue for="lines" value="S1b-S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="2222.0579" y="3155.5615"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Richard-Strauss-Strasse" label="Richard-Strauss-Strasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.148132"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.616676"></attvalue>
+          <attvalue for="lines" value="U4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="602.6657" y="206.42467"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="St.-Quirin-Platz" label="St.-Quirin-Platz">
+        <attvalues>
+          <attvalue for="latitude" value="48.104619"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.581195"></attvalue>
+          <attvalue for="lines" value="U1"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="244.98927" y="-452.1738"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Grosshadern" label="Grosshadern">
+        <attvalues>
+          <attvalue for="latitude" value="48.114874"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.477128"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-759.12274" y="-304.0153"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Basler Strasse" label="Basler Strasse">
+        <attvalues>
+          <attvalue for="latitude" value="48.091145"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.491099"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-624.3206" y="-646.8391"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Malching" label="Malching">
+        <attvalues>
+          <attvalue for="latitude" value="48.2154"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.2182"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-3257.4434" y="1150.2391"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Vierkirchen Esterhofen" label="Vierkirchen Esterhofen">
+        <attvalues>
+          <attvalue for="latitude" value="48.361"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4451"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1068.1515" y="3261.567"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Icking" label="Icking">
+        <attvalues>
+          <attvalue for="latitude" value="47.9534"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4368"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-1148.2358" y="-2633.953"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Turkenfeld" label="Turkenfeld">
+        <attvalues>
+          <attvalue for="latitude" value="48.1046"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.0768"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-4621.771" y="-452.4502"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Grafing Stadt" label="Grafing Stadt">
+        <attvalues>
+          <attvalue for="latitude" value="48.047"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.9626"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="3925.0547" y="-1284.2524"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Seefeld Hechendorf" label="Seefeld Hechendorf">
+        <attvalues>
+          <attvalue for="latitude" value="48.0413"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.1986"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-3446.558" y="-1366.5205"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Feldafing" label="Feldafing">
+        <attvalues>
+          <attvalue for="latitude" value="47.9467"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.29"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="-2564.6663" y="-2730.4907"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Grosshelfendorf" label="Grosshelfendorf">
+        <attvalues>
+          <attvalue for="latitude" value="47.9449"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7813"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="2175.744" y="-2756.4048"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Garching" label="Garching">
+        <attvalues>
+          <attvalue for="latitude" value="48.249272"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.652503"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="933.01935" y="1640.876"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Alternerding" label="Alternerding">
+        <attvalues>
+          <attvalue for="latitude" value="48.293"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.9013"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="6.875"></viz:size>
+        <viz:position x="3333.5886" y="2274.765"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Laimer Platz" label="Laimer Platz">
+        <attvalues>
+          <attvalue for="latitude" value="48.135275"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.503889"></attvalue>
+          <attvalue for="lines" value="U5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-500.91373" y="-9.114895"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Freising" label="Freising">
+        <attvalues>
+          <attvalue for="latitude" value="48.3952"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7443"></attvalue>
+          <attvalue for="lines" value="S1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1818.7418" y="3758.3884"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Messestadt-Ost" label="Messestadt-Ost">
+        <attvalues>
+          <attvalue for="latitude" value="48.13333"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.703722"></attvalue>
+          <attvalue for="lines" value="U2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1427.2166" y="-37.240135"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Holzkirchen" label="Holzkirchen">
+        <attvalues>
+          <attvalue for="latitude" value="47.8845"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.6972"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1364.2877" y="-3625.9375"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Arabellapark" label="Arabellapark">
+        <attvalues>
+          <attvalue for="latitude" value="48.1535"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.621743"></attvalue>
+          <attvalue for="lines" value="U4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="636.2251" y="254.44693"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Mangfallplatz" label="Mangfallplatz">
+        <attvalues>
+          <attvalue for="latitude" value="48.097883"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.581661"></attvalue>
+          <attvalue for="lines" value="U1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="249.48555" y="-549.5065"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Klinikum Grosshadern" label="Klinikum Grosshadern">
+        <attvalues>
+          <attvalue for="latitude" value="48.108987"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.473704"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-792.1599" y="-389.08203"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Furstenried West" label="Furstenried West">
+        <attvalues>
+          <attvalue for="latitude" value="48.088222"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.480968"></attvalue>
+          <attvalue for="lines" value="U3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-722.0717" y="-689.0615"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Mammendorf" label="Mammendorf">
+        <attvalues>
+          <attvalue for="latitude" value="48.2168"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.1757"></attvalue>
+          <attvalue for="lines" value="S3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-3667.5134" y="1170.4866"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Peterhausen" label="Peterhausen">
+        <attvalues>
+          <attvalue for="latitude" value="48.410278"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.470833"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-819.8613" y="3977.5166"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Wolfratshausen" label="Wolfratshausen">
+        <attvalues>
+          <attvalue for="latitude" value="47.9146"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.4271"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-1241.8282" y="-3192.726"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Geltendorf" label="Geltendorf">
+        <attvalues>
+          <attvalue for="latitude" value="48.1059"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.0376"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-5000.0" y="-433.68854"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Herrsching" label="Herrsching">
+        <attvalues>
+          <attvalue for="latitude" value="47.9985"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.1705"></attvalue>
+          <attvalue for="lines" value="S8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-3717.6868" y="-1983.9281"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Ebersberg" label="Ebersberg">
+        <attvalues>
+          <attvalue for="latitude" value="48.0749"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.9694"></attvalue>
+          <attvalue for="lines" value="S4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="3990.6658" y="-881.48096"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Tutzing" label="Tutzing">
+        <attvalues>
+          <attvalue for="latitude" value="47.907"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.2727"></attvalue>
+          <attvalue for="lines" value="S6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-2731.5889" y="-3302.1519"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Kreuzstrasse" label="Kreuzstrasse">
+        <attvalues>
+          <attvalue for="latitude" value="47.9174"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.7595"></attvalue>
+          <attvalue for="lines" value="S7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1965.4021" y="-3152.4385"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+      <node id="Garching-Forschungszentrum" label="Garching-Forschungszentrum">
+        <attvalues>
+          <attvalue for="latitude" value="48.264679"></attvalue>
+          <attvalue for="bahn" value="U"></attvalue>
+          <attvalue for="longitude" value="11.6713"></attvalue>
+          <attvalue for="lines" value="U6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1114.3861" y="1864.1503"></viz:position>
+        <viz:color r="141" g="160" b="203"></viz:color>
+      </node>
+      <node id="Erding" label="Erding">
+        <attvalues>
+          <attvalue for="latitude" value="48.3033"></attvalue>
+          <attvalue for="bahn" value="S"></attvalue>
+          <attvalue for="longitude" value="11.9121"></attvalue>
+          <attvalue for="lines" value="S2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="3437.7947" y="2424.1328"></viz:position>
+        <viz:color r="102" g="194" b="165"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="S1:Donnersbergerbrucke-Hackerbrucke" source="Donnersbergerbrucke" target="Hackerbrucke" label="S1" kind="S1"></edge>
+      <edge id="S2:Donnersbergerbrucke-Hackerbrucke" source="Donnersbergerbrucke" target="Hackerbrucke" label="S2" kind="S2"></edge>
+      <edge id="S3:Donnersbergerbrucke-Hackerbrucke" source="Donnersbergerbrucke" target="Hackerbrucke" label="S3" kind="S3"></edge>
+      <edge id="S7:Donnersbergerbrucke-Hackerbrucke" source="Donnersbergerbrucke" target="Hackerbrucke" label="S7" kind="S7"></edge>
+      <edge id="S6:Donnersbergerbrucke-Hackerbrucke" source="Donnersbergerbrucke" target="Hackerbrucke" label="S6" kind="S6"></edge>
+      <edge id="S4:Donnersbergerbrucke-Hackerbrucke" source="Donnersbergerbrucke" target="Hackerbrucke" label="S4" kind="S4"></edge>
+      <edge id="S27:Donnersbergerbrucke-Hackerbrucke" source="Donnersbergerbrucke" target="Hackerbrucke" label="S27" kind="S27"></edge>
+      <edge id="S8:Donnersbergerbrucke-Hackerbrucke" source="Donnersbergerbrucke" target="Hackerbrucke" label="S8" kind="S8"></edge>
+      <edge id="S27:Donnersbergerbrucke-Heimeranplatz" source="Donnersbergerbrucke" target="Heimeranplatz" label="S27" kind="S27"></edge>
+      <edge id="S7:Donnersbergerbrucke-Heimeranplatz" source="Donnersbergerbrucke" target="Heimeranplatz" label="S7" kind="S7"></edge>
+      <edge id="S1:Donnersbergerbrucke-Hirschgarten" source="Donnersbergerbrucke" target="Hirschgarten" label="S1" kind="S1"></edge>
+      <edge id="S2:Donnersbergerbrucke-Hirschgarten" source="Donnersbergerbrucke" target="Hirschgarten" label="S2" kind="S2"></edge>
+      <edge id="S3:Donnersbergerbrucke-Hirschgarten" source="Donnersbergerbrucke" target="Hirschgarten" label="S3" kind="S3"></edge>
+      <edge id="S6:Donnersbergerbrucke-Hirschgarten" source="Donnersbergerbrucke" target="Hirschgarten" label="S6" kind="S6"></edge>
+      <edge id="S4:Donnersbergerbrucke-Hirschgarten" source="Donnersbergerbrucke" target="Hirschgarten" label="S4" kind="S4"></edge>
+      <edge id="S8:Donnersbergerbrucke-Hirschgarten" source="Donnersbergerbrucke" target="Hirschgarten" label="S8" kind="S8"></edge>
+      <edge id="S1:Hackerbrucke-Hauptbahnhof" source="Hackerbrucke" target="Hauptbahnhof" label="S1" kind="S1"></edge>
+      <edge id="S2:Hackerbrucke-Hauptbahnhof" source="Hackerbrucke" target="Hauptbahnhof" label="S2" kind="S2"></edge>
+      <edge id="S3:Hackerbrucke-Hauptbahnhof" source="Hackerbrucke" target="Hauptbahnhof" label="S3" kind="S3"></edge>
+      <edge id="S7:Hackerbrucke-Hauptbahnhof" source="Hackerbrucke" target="Hauptbahnhof" label="S7" kind="S7"></edge>
+      <edge id="S6:Hackerbrucke-Hauptbahnhof" source="Hackerbrucke" target="Hauptbahnhof" label="S6" kind="S6"></edge>
+      <edge id="S4:Hackerbrucke-Hauptbahnhof" source="Hackerbrucke" target="Hauptbahnhof" label="S4" kind="S4"></edge>
+      <edge id="S27:Hackerbrucke-Hauptbahnhof" source="Hackerbrucke" target="Hauptbahnhof" label="S27" kind="S27"></edge>
+      <edge id="S8:Hackerbrucke-Hauptbahnhof" source="Hackerbrucke" target="Hauptbahnhof" label="S8" kind="S8"></edge>
+      <edge id="S20:Heimeranplatz-Pasing" source="Heimeranplatz" target="Pasing" label="S20" kind="S20"></edge>
+      <edge id="S27:Heimeranplatz-Mittersendling" source="Heimeranplatz" target="Mittersendling" label="S27" kind="S27"></edge>
+      <edge id="S20:Heimeranplatz-Mittersendling" source="Heimeranplatz" target="Mittersendling" label="S20" kind="S20"></edge>
+      <edge id="S7:Heimeranplatz-Mittersendling" source="Heimeranplatz" target="Mittersendling" label="S7" kind="S7"></edge>
+      <edge id="U5:Heimeranplatz-Schwanthalerhohe" source="Heimeranplatz" target="Schwanthalerhohe" label="U5" kind="U5"></edge>
+      <edge id="U4:Heimeranplatz-Schwanthalerhohe" source="Heimeranplatz" target="Schwanthalerhohe" label="U4" kind="U4"></edge>
+      <edge id="U5:Heimeranplatz-Westendstrasse" source="Heimeranplatz" target="Westendstrasse" label="U5" kind="U5"></edge>
+      <edge id="U4:Heimeranplatz-Westendstrasse" source="Heimeranplatz" target="Westendstrasse" label="U4" kind="U4"></edge>
+      <edge id="S8:Pasing-Westkreuz" source="Pasing" target="Westkreuz" label="S8" kind="S8"></edge>
+      <edge id="S6:Pasing-Westkreuz" source="Pasing" target="Westkreuz" label="S6" kind="S6"></edge>
+      <edge id="U3:Olympiazentrum-Petuelring" source="Olympiazentrum" target="Petuelring" label="U3" kind="U3"></edge>
+      <edge id="U3:Petuelring-Scheidplatz" source="Petuelring" target="Scheidplatz" label="U3" kind="U3"></edge>
+      <edge id="U1:Candidplatz-Wettersteinplatz" source="Candidplatz" target="Wettersteinplatz" label="U1" kind="U1"></edge>
+      <edge id="U1:Candidplatz-Kolumbusplatz" source="Candidplatz" target="Kolumbusplatz" label="U1" kind="U1"></edge>
+      <edge id="U2:Konigsplatz-Theresienstrasse" source="Konigsplatz" target="Theresienstrasse" label="U2" kind="U2"></edge>
+      <edge id="S3:Fasangarten-Giesing" source="Fasangarten" target="Giesing" label="S3" kind="S3"></edge>
+      <edge id="S3:Giesing-St.-Martin-Strasse" source="Giesing" target="St.-Martin-Strasse" label="S3" kind="S3"></edge>
+      <edge id="S7:Giesing-St.-Martin-Strasse" source="Giesing" target="St.-Martin-Strasse" label="S7" kind="S7"></edge>
+      <edge id="S7:Giesing-Perlach" source="Giesing" target="Perlach" label="S7" kind="S7"></edge>
+      <edge id="U2:Giesing-Untersbergstrasse" source="Giesing" target="Untersbergstrasse" label="U2" kind="U2"></edge>
+      <edge id="U7:Giesing-Untersbergstrasse" source="Giesing" target="Untersbergstrasse" label="U7" kind="U7"></edge>
+      <edge id="U2:Giesing-Karl-Preis-Platz" source="Giesing" target="Karl-Preis-Platz" label="U2" kind="U2"></edge>
+      <edge id="U7:Giesing-Karl-Preis-Platz" source="Giesing" target="Karl-Preis-Platz" label="U7" kind="U7"></edge>
+      <edge id="S1:Hirschgarten-Laim" source="Hirschgarten" target="Laim" label="S1" kind="S1"></edge>
+      <edge id="S2:Hirschgarten-Laim" source="Hirschgarten" target="Laim" label="S2" kind="S2"></edge>
+      <edge id="S3:Hirschgarten-Laim" source="Hirschgarten" target="Laim" label="S3" kind="S3"></edge>
+      <edge id="S6:Hirschgarten-Laim" source="Hirschgarten" target="Laim" label="S6" kind="S6"></edge>
+      <edge id="S4:Hirschgarten-Laim" source="Hirschgarten" target="Laim" label="S4" kind="S4"></edge>
+      <edge id="S8:Hirschgarten-Laim" source="Hirschgarten" target="Laim" label="S8" kind="S8"></edge>
+      <edge id="S4:Leienfelsstrasse-Pasing" source="Leienfelsstrasse" target="Pasing" label="S4" kind="S4"></edge>
+      <edge id="U4:Max-Weber-Platz-Prinzregentenplatz" source="Max-Weber-Platz" target="Prinzregentenplatz" label="U4" kind="U4"></edge>
+      <edge id="U5:Max-Weber-Platz-Ostbahnhof" source="Max-Weber-Platz" target="Ostbahnhof" label="U5" kind="U5"></edge>
+      <edge id="S7:Aying-Peiss" source="Aying" target="Peiss" label="S7" kind="S7"></edge>
+      <edge id="S7:Aying-Durrnhaar" source="Aying" target="Durrnhaar" label="S7" kind="S7"></edge>
+      <edge id="U3:Obersendling-Thalkirchen" source="Obersendling" target="Thalkirchen" label="U3" kind="U3"></edge>
+      <edge id="S8:Germering Unterpfaffenhofen-Harthaus" source="Germering Unterpfaffenhofen" target="Harthaus" label="S8" kind="S8"></edge>
+      <edge id="S8:Harthaus-Neuaubing" source="Harthaus" target="Neuaubing" label="S8" kind="S8"></edge>
+      <edge id="S3:Grobenzell-Lochhausen" source="Grobenzell" target="Lochhausen" label="S3" kind="S3"></edge>
+      <edge id="S3:Grobenzell-Olching" source="Grobenzell" target="Olching" label="S3" kind="S3"></edge>
+      <edge id="S2:Obermenzing-Untermenzing" source="Obermenzing" target="Untermenzing" label="S2" kind="S2"></edge>
+      <edge id="U3:Oberwiesenfeld-Olympiazentrum" source="Oberwiesenfeld" target="Olympiazentrum" label="U3" kind="U3"></edge>
+      <edge id="U3:Oberwiesenfeld-Olympia-Einkaufszentrum" source="Oberwiesenfeld" target="Olympia-Einkaufszentrum" label="U3" kind="U3"></edge>
+      <edge id="S7:Baierbrunn-Buchenhain" source="Baierbrunn" target="Buchenhain" label="S7" kind="S7"></edge>
+      <edge id="S7:Baierbrunn-Hohenschaftlarn" source="Baierbrunn" target="Hohenschaftlarn" label="S7" kind="S7"></edge>
+      <edge id="S7:Buchenhain-Hollriegelkreuth" source="Buchenhain" target="Hollriegelkreuth" label="S7" kind="S7"></edge>
+      <edge id="U2:Hauptbahnhof-Konigsplatz" source="Hauptbahnhof" target="Konigsplatz" label="U2" kind="U2"></edge>
+      <edge id="U5:Hauptbahnhof-Karlsplatz (Stachus)" source="Hauptbahnhof" target="Karlsplatz (Stachus)" label="U5" kind="U5"></edge>
+      <edge id="S1:Hauptbahnhof-Karlsplatz (Stachus)" source="Hauptbahnhof" target="Karlsplatz (Stachus)" label="S1" kind="S1"></edge>
+      <edge id="S2:Hauptbahnhof-Karlsplatz (Stachus)" source="Hauptbahnhof" target="Karlsplatz (Stachus)" label="S2" kind="S2"></edge>
+      <edge id="S3:Hauptbahnhof-Karlsplatz (Stachus)" source="Hauptbahnhof" target="Karlsplatz (Stachus)" label="S3" kind="S3"></edge>
+      <edge id="S7:Hauptbahnhof-Karlsplatz (Stachus)" source="Hauptbahnhof" target="Karlsplatz (Stachus)" label="S7" kind="S7"></edge>
+      <edge id="S6:Hauptbahnhof-Karlsplatz (Stachus)" source="Hauptbahnhof" target="Karlsplatz (Stachus)" label="S6" kind="S6"></edge>
+      <edge id="S4:Hauptbahnhof-Karlsplatz (Stachus)" source="Hauptbahnhof" target="Karlsplatz (Stachus)" label="S4" kind="S4"></edge>
+      <edge id="U4:Hauptbahnhof-Karlsplatz (Stachus)" source="Hauptbahnhof" target="Karlsplatz (Stachus)" label="U4" kind="U4"></edge>
+      <edge id="S8:Hauptbahnhof-Karlsplatz (Stachus)" source="Hauptbahnhof" target="Karlsplatz (Stachus)" label="S8" kind="S8"></edge>
+      <edge id="U1:Hauptbahnhof-Sendlinger Tor" source="Hauptbahnhof" target="Sendlinger Tor" label="U1" kind="U1"></edge>
+      <edge id="U2:Hauptbahnhof-Sendlinger Tor" source="Hauptbahnhof" target="Sendlinger Tor" label="U2" kind="U2"></edge>
+      <edge id="U7:Hauptbahnhof-Sendlinger Tor" source="Hauptbahnhof" target="Sendlinger Tor" label="U7" kind="U7"></edge>
+      <edge id="U5:Hauptbahnhof-Theresienwiese" source="Hauptbahnhof" target="Theresienwiese" label="U5" kind="U5"></edge>
+      <edge id="U4:Hauptbahnhof-Theresienwiese" source="Hauptbahnhof" target="Theresienwiese" label="U4" kind="U4"></edge>
+      <edge id="U1:Hauptbahnhof-Stiglmaierplatz" source="Hauptbahnhof" target="Stiglmaierplatz" label="U1" kind="U1"></edge>
+      <edge id="U7:Hauptbahnhof-Stiglmaierplatz" source="Hauptbahnhof" target="Stiglmaierplatz" label="U7" kind="U7"></edge>
+      <edge id="S1:Karlsplatz (Stachus)-Marienplatz" source="Karlsplatz (Stachus)" target="Marienplatz" label="S1" kind="S1"></edge>
+      <edge id="S2:Karlsplatz (Stachus)-Marienplatz" source="Karlsplatz (Stachus)" target="Marienplatz" label="S2" kind="S2"></edge>
+      <edge id="S3:Karlsplatz (Stachus)-Marienplatz" source="Karlsplatz (Stachus)" target="Marienplatz" label="S3" kind="S3"></edge>
+      <edge id="S7:Karlsplatz (Stachus)-Marienplatz" source="Karlsplatz (Stachus)" target="Marienplatz" label="S7" kind="S7"></edge>
+      <edge id="S6:Karlsplatz (Stachus)-Marienplatz" source="Karlsplatz (Stachus)" target="Marienplatz" label="S6" kind="S6"></edge>
+      <edge id="S4:Karlsplatz (Stachus)-Marienplatz" source="Karlsplatz (Stachus)" target="Marienplatz" label="S4" kind="S4"></edge>
+      <edge id="S8:Karlsplatz (Stachus)-Marienplatz" source="Karlsplatz (Stachus)" target="Marienplatz" label="S8" kind="S8"></edge>
+      <edge id="U5:Karlsplatz (Stachus)-Odeonsplatz" source="Karlsplatz (Stachus)" target="Odeonsplatz" label="U5" kind="U5"></edge>
+      <edge id="U4:Karlsplatz (Stachus)-Odeonsplatz" source="Karlsplatz (Stachus)" target="Odeonsplatz" label="U4" kind="U4"></edge>
+      <edge id="U6:Freimann-Studentenstadt" source="Freimann" target="Studentenstadt" label="U6" kind="U6"></edge>
+      <edge id="U6:Freimann-Kieferngarten" source="Freimann" target="Kieferngarten" label="U6" kind="U6"></edge>
+      <edge id="S7:Hollriegelkreuth-Pullach" source="Hollriegelkreuth" target="Pullach" label="S7" kind="S7"></edge>
+      <edge id="S2:Alternerding-Aufhausen" source="Alternerding" target="Aufhausen" label="S2" kind="S2"></edge>
+      <edge id="S2:Alternerding-Erding" source="Alternerding" target="Erding" label="S2" kind="S2"></edge>
+      <edge id="S2:Aufhausen-St. Koloman" source="Aufhausen" target="St. Koloman" label="S2" kind="S2"></edge>
+      <edge id="S3:Deisenhofen-Sauerlach" source="Deisenhofen" target="Sauerlach" label="S3" kind="S3"></edge>
+      <edge id="S27:Deisenhofen-Solln" source="Deisenhofen" target="Solln" label="S27" kind="S27"></edge>
+      <edge id="S20:Deisenhofen-Solln" source="Deisenhofen" target="Solln" label="S20" kind="S20"></edge>
+      <edge id="S3:Deisenhofen-Furth" source="Deisenhofen" target="Furth" label="S3" kind="S3"></edge>
+      <edge id="S2:Hebertshausen-Rohrmoos" source="Hebertshausen" target="Rohrmoos" label="S2" kind="S2"></edge>
+      <edge id="S2:Rohrmoos-Vierkirchen Esterhofen" source="Rohrmoos" target="Vierkirchen Esterhofen" label="S2" kind="S2"></edge>
+      <edge id="S1:Oberschleissheim-Unterschleissheim" source="Oberschleissheim" target="Unterschleissheim" label="S1" kind="S1"></edge>
+      <edge id="U3:Basler Strasse-Forstenrieder Allee" source="Basler Strasse" target="Forstenrieder Allee" label="U3" kind="U3"></edge>
+      <edge id="U3:Basler Strasse-Furstenried West" source="Basler Strasse" target="Furstenried West" label="U3" kind="U3"></edge>
+      <edge id="U3:Forstenrieder Allee-Machtlfinger Strasse" source="Forstenrieder Allee" target="Machtlfinger Strasse" label="U3" kind="U3"></edge>
+      <edge id="S27:Mittersendling-Siemenswerke" source="Mittersendling" target="Siemenswerke" label="S27" kind="S27"></edge>
+      <edge id="S20:Mittersendling-Siemenswerke" source="Mittersendling" target="Siemenswerke" label="S20" kind="S20"></edge>
+      <edge id="S7:Mittersendling-Siemenswerke" source="Mittersendling" target="Siemenswerke" label="S7" kind="S7"></edge>
+      <edge id="S27:Siemenswerke-Solln" source="Siemenswerke" target="Solln" label="S27" kind="S27"></edge>
+      <edge id="S20:Siemenswerke-Solln" source="Siemenswerke" target="Solln" label="S20" kind="S20"></edge>
+      <edge id="S7:Siemenswerke-Solln" source="Siemenswerke" target="Solln" label="S7" kind="S7"></edge>
+      <edge id="S3:Esting-Gernlinden" source="Esting" target="Gernlinden" label="S3" kind="S3"></edge>
+      <edge id="S3:Esting-Olching" source="Esting" target="Olching" label="S3" kind="S3"></edge>
+      <edge id="S3:Gernlinden-Maisach" source="Gernlinden" target="Maisach" label="S3" kind="S3"></edge>
+      <edge id="S7:Durrnhaar-Hohenkirchen Siegertsbrunn" source="Durrnhaar" target="Hohenkirchen Siegertsbrunn" label="S7" kind="S7"></edge>
+      <edge id="U5:Friedenheimer Strasse-Laimer Platz" source="Friedenheimer Strasse" target="Laimer Platz" label="U5" kind="U5"></edge>
+      <edge id="U5:Friedenheimer Strasse-Westendstrasse" source="Friedenheimer Strasse" target="Westendstrasse" label="U5" kind="U5"></edge>
+      <edge id="S3:Ostbahnhof-St.-Martin-Strasse" source="Ostbahnhof" target="St.-Martin-Strasse" label="S3" kind="S3"></edge>
+      <edge id="S7:Ostbahnhof-St.-Martin-Strasse" source="Ostbahnhof" target="St.-Martin-Strasse" label="S7" kind="S7"></edge>
+      <edge id="S1:Ostbahnhof-Rosenheimer Platz" source="Ostbahnhof" target="Rosenheimer Platz" label="S1" kind="S1"></edge>
+      <edge id="S2:Ostbahnhof-Rosenheimer Platz" source="Ostbahnhof" target="Rosenheimer Platz" label="S2" kind="S2"></edge>
+      <edge id="S3:Ostbahnhof-Rosenheimer Platz" source="Ostbahnhof" target="Rosenheimer Platz" label="S3" kind="S3"></edge>
+      <edge id="S7:Ostbahnhof-Rosenheimer Platz" source="Ostbahnhof" target="Rosenheimer Platz" label="S7" kind="S7"></edge>
+      <edge id="S6:Ostbahnhof-Rosenheimer Platz" source="Ostbahnhof" target="Rosenheimer Platz" label="S6" kind="S6"></edge>
+      <edge id="S4:Ostbahnhof-Rosenheimer Platz" source="Ostbahnhof" target="Rosenheimer Platz" label="S4" kind="S4"></edge>
+      <edge id="S8:Ostbahnhof-Rosenheimer Platz" source="Ostbahnhof" target="Rosenheimer Platz" label="S8" kind="S8"></edge>
+      <edge id="S3:Malching-Mammendorf" source="Malching" target="Mammendorf" label="S3" kind="S3"></edge>
+      <edge id="S4:Geltendorf-Turkenfeld" source="Geltendorf" target="Turkenfeld" label="S4" kind="S4"></edge>
+      <edge id="U6:Dietlindenstrasse-Nordfriedhof" source="Dietlindenstrasse" target="Nordfriedhof" label="U6" kind="U6"></edge>
+      <edge id="U6:Dietlindenstrasse-Munchner Freiheit" source="Dietlindenstrasse" target="Munchner Freiheit" label="U6" kind="U6"></edge>
+      <edge id="U4:Bohmerwaldplatz-Prinzregentenplatz" source="Bohmerwaldplatz" target="Prinzregentenplatz" label="U4" kind="U4"></edge>
+      <edge id="U4:Bohmerwaldplatz-Richard-Strauss-Strasse" source="Bohmerwaldplatz" target="Richard-Strauss-Strasse" label="U4" kind="U4"></edge>
+      <edge id="S4:Eichenau-Puchheim" source="Eichenau" target="Puchheim" label="S4" kind="S4"></edge>
+      <edge id="S4:Eichenau-Furstenfeldbruck" source="Eichenau" target="Furstenfeldbruck" label="S4" kind="S4"></edge>
+      <edge id="S1:Feldmoching-Oberschleissheim" source="Feldmoching" target="Oberschleissheim" label="S1" kind="S1"></edge>
+      <edge id="U2:Feldmoching-Hasenbergl" source="Feldmoching" target="Hasenbergl" label="U2" kind="U2"></edge>
+      <edge id="U2:Kolumbusplatz-Silberhornstrasse" source="Kolumbusplatz" target="Silberhornstrasse" label="U2" kind="U2"></edge>
+      <edge id="U7:Kolumbusplatz-Silberhornstrasse" source="Kolumbusplatz" target="Silberhornstrasse" label="U7" kind="U7"></edge>
+      <edge id="U3:Aidenbachstrasse-Obersendling" source="Aidenbachstrasse" target="Obersendling" label="U3" kind="U3"></edge>
+      <edge id="U3:Aidenbachstrasse-Machtlfinger Strasse" source="Aidenbachstrasse" target="Machtlfinger Strasse" label="U3" kind="U3"></edge>
+      <edge id="S7:Neubiberg-Neuperlach Sud" source="Neubiberg" target="Neuperlach Sud" label="S7" kind="S7"></edge>
+      <edge id="S7:Neubiberg-Ottobrunn" source="Neubiberg" target="Ottobrunn" label="S7" kind="S7"></edge>
+      <edge id="S7:Neuperlach Sud-Perlach" source="Neuperlach Sud" target="Perlach" label="S7" kind="S7"></edge>
+      <edge id="U5:Neuperlach Sud-Therese-Giehse-Allee" source="Neuperlach Sud" target="Therese-Giehse-Allee" label="U5" kind="U5"></edge>
+      <edge id="S3:Fasanenpark-Fasangarten" source="Fasanenpark" target="Fasangarten" label="S3" kind="S3"></edge>
+      <edge id="S3:Fasanenpark-Unterhaching" source="Fasanenpark" target="Unterhaching" label="S3" kind="S3"></edge>
+      <edge id="U3:Marienplatz-Sendlinger Tor" source="Marienplatz" target="Sendlinger Tor" label="U3" kind="U3"></edge>
+      <edge id="U6:Marienplatz-Sendlinger Tor" source="Marienplatz" target="Sendlinger Tor" label="U6" kind="U6"></edge>
+      <edge id="U3:Marienplatz-Odeonsplatz" source="Marienplatz" target="Odeonsplatz" label="U3" kind="U3"></edge>
+      <edge id="U6:Marienplatz-Odeonsplatz" source="Marienplatz" target="Odeonsplatz" label="U6" kind="U6"></edge>
+      <edge id="U6:Haderner Stern-Holzapfelkreuth" source="Haderner Stern" target="Holzapfelkreuth" label="U6" kind="U6"></edge>
+      <edge id="U6:Holzapfelkreuth-Westpark" source="Holzapfelkreuth" target="Westpark" label="U6" kind="U6"></edge>
+      <edge id="S4:Laim-Pasing" source="Laim" target="Pasing" label="S4" kind="S4"></edge>
+      <edge id="S8:Laim-Pasing" source="Laim" target="Pasing" label="S8" kind="S8"></edge>
+      <edge id="S3:Laim-Pasing" source="Laim" target="Pasing" label="S3" kind="S3"></edge>
+      <edge id="S6:Laim-Pasing" source="Laim" target="Pasing" label="S6" kind="S6"></edge>
+      <edge id="S2:Laim-Obermenzing" source="Laim" target="Obermenzing" label="S2" kind="S2"></edge>
+      <edge id="S1:Laim-Moosach" source="Laim" target="Moosach" label="S1" kind="S1"></edge>
+      <edge id="U2:Dulferstrasse-Harthof" source="Dulferstrasse" target="Harthof" label="U2" kind="U2"></edge>
+      <edge id="U2:Dulferstrasse-Hasenbergl" source="Dulferstrasse" target="Hasenbergl" label="U2" kind="U2"></edge>
+      <edge id="U5:Schwanthalerhohe-Theresienwiese" source="Schwanthalerhohe" target="Theresienwiese" label="U5" kind="U5"></edge>
+      <edge id="U4:Schwanthalerhohe-Theresienwiese" source="Schwanthalerhohe" target="Theresienwiese" label="U4" kind="U4"></edge>
+      <edge id="S8:Gilching Argelsried-Neugilching" source="Gilching Argelsried" target="Neugilching" label="S8" kind="S8"></edge>
+      <edge id="S8:Neugilching-Wessling" source="Neugilching" target="Wessling" label="S8" kind="S8"></edge>
+      <edge id="S6:Grafelfing-Lochham" source="Grafelfing" target="Lochham" label="S6" kind="S6"></edge>
+      <edge id="S6:Grafelfing-Planegg" source="Grafelfing" target="Planegg" label="S6" kind="S6"></edge>
+      <edge id="S6:Lochham-Westkreuz" source="Lochham" target="Westkreuz" label="S6" kind="S6"></edge>
+      <edge id="U2:Moosfeld-Trudering" source="Moosfeld" target="Trudering" label="U2" kind="U2"></edge>
+      <edge id="S8:Hallbergmoos-Ismaning" source="Hallbergmoos" target="Ismaning" label="S8" kind="S8"></edge>
+      <edge id="S8:Ismaning-Unterfohring" source="Ismaning" target="Unterfohring" label="S8" kind="S8"></edge>
+      <edge id="S8:Flughafen Besucherpark-Hallbergmoos" source="Flughafen Besucherpark" target="Hallbergmoos" label="S8" kind="S8"></edge>
+      <edge id="S1b:Flughafen Besucherpark-Neufahrn" source="Flughafen Besucherpark" target="Neufahrn" label="S1b" kind="S1b"></edge>
+      <edge id="S8:Flughafen Besucherpark-Flughafen Munchen" source="Flughafen Besucherpark" target="Flughafen Munchen" label="S8" kind="S8"></edge>
+      <edge id="S1b:Flughafen Besucherpark-Flughafen Munchen" source="Flughafen Besucherpark" target="Flughafen Munchen" label="S1b" kind="S1b"></edge>
+      <edge id="S1:Neufahrn-Pulling" source="Neufahrn" target="Pulling" label="S1" kind="S1"></edge>
+      <edge id="S4:Gronsdorf-Trudering" source="Gronsdorf" target="Trudering" label="S4" kind="S4"></edge>
+      <edge id="S6:Gronsdorf-Trudering" source="Gronsdorf" target="Trudering" label="S6" kind="S6"></edge>
+      <edge id="S4:Gronsdorf-Haar" source="Gronsdorf" target="Haar" label="S4" kind="S4"></edge>
+      <edge id="S6:Gronsdorf-Haar" source="Gronsdorf" target="Haar" label="S6" kind="S6"></edge>
+      <edge id="S4:Haar-Vaterstetten" source="Haar" target="Vaterstetten" label="S4" kind="S4"></edge>
+      <edge id="S6:Haar-Vaterstetten" source="Haar" target="Vaterstetten" label="S6" kind="S6"></edge>
+      <edge id="S7:Hohenbrunn-Wachterhof" source="Hohenbrunn" target="Wachterhof" label="S7" kind="S7"></edge>
+      <edge id="S7:Hohenbrunn-Ottobrunn" source="Hohenbrunn" target="Ottobrunn" label="S7" kind="S7"></edge>
+      <edge id="U6:Partnachplatz-Westpark" source="Partnachplatz" target="Westpark" label="U6" kind="U6"></edge>
+      <edge id="S4:Berg am Laim-Trudering" source="Berg am Laim" target="Trudering" label="S4" kind="S4"></edge>
+      <edge id="S6:Berg am Laim-Trudering" source="Berg am Laim" target="Trudering" label="S6" kind="S6"></edge>
+      <edge id="S2:Berg am Laim-Riem" source="Berg am Laim" target="Riem" label="S2" kind="S2"></edge>
+      <edge id="S4:Berg am Laim-Leuchtenbergring" source="Berg am Laim" target="Leuchtenbergring" label="S4" kind="S4"></edge>
+      <edge id="S2:Berg am Laim-Leuchtenbergring" source="Berg am Laim" target="Leuchtenbergring" label="S2" kind="S2"></edge>
+      <edge id="S6:Berg am Laim-Leuchtenbergring" source="Berg am Laim" target="Leuchtenbergring" label="S6" kind="S6"></edge>
+      <edge id="S4:Eglharting-Kirchseeon" source="Eglharting" target="Kirchseeon" label="S4" kind="S4"></edge>
+      <edge id="S4:Eglharting-Zorneding" source="Eglharting" target="Zorneding" label="S4" kind="S4"></edge>
+      <edge id="U5:Innsbrucker Ring-Ostbahnhof" source="Innsbrucker Ring" target="Ostbahnhof" label="U5" kind="U5"></edge>
+      <edge id="U2:Innsbrucker Ring-Karl-Preis-Platz" source="Innsbrucker Ring" target="Karl-Preis-Platz" label="U2" kind="U2"></edge>
+      <edge id="U7:Innsbrucker Ring-Karl-Preis-Platz" source="Innsbrucker Ring" target="Karl-Preis-Platz" label="U7" kind="U7"></edge>
+      <edge id="U5:Innsbrucker Ring-Michaelibad" source="Innsbrucker Ring" target="Michaelibad" label="U5" kind="U5"></edge>
+      <edge id="U7:Innsbrucker Ring-Michaelibad" source="Innsbrucker Ring" target="Michaelibad" label="U7" kind="U7"></edge>
+      <edge id="U2:Innsbrucker Ring-Josephsburg" source="Innsbrucker Ring" target="Josephsburg" label="U2" kind="U2"></edge>
+      <edge id="U3:Implerstrasse-Poccistrasse" source="Implerstrasse" target="Poccistrasse" label="U3" kind="U3"></edge>
+      <edge id="U6:Implerstrasse-Poccistrasse" source="Implerstrasse" target="Poccistrasse" label="U6" kind="U6"></edge>
+      <edge id="U5:Michaelibad-Quiddestrasse" source="Michaelibad" target="Quiddestrasse" label="U5" kind="U5"></edge>
+      <edge id="U7:Michaelibad-Quiddestrasse" source="Michaelibad" target="Quiddestrasse" label="U7" kind="U7"></edge>
+      <edge id="S27:Harras-Heimeranplatz" source="Harras" target="Heimeranplatz" label="S27" kind="S27"></edge>
+      <edge id="S7:Harras-Heimeranplatz" source="Harras" target="Heimeranplatz" label="S7" kind="S7"></edge>
+      <edge id="S27:Harras-Mittersendling" source="Harras" target="Mittersendling" label="S27" kind="S27"></edge>
+      <edge id="S7:Harras-Mittersendling" source="Harras" target="Mittersendling" label="S7" kind="S7"></edge>
+      <edge id="U6:Harras-Partnachplatz" source="Harras" target="Partnachplatz" label="U6" kind="U6"></edge>
+      <edge id="U6:Harras-Implerstrasse" source="Harras" target="Implerstrasse" label="U6" kind="U6"></edge>
+      <edge id="S7:Grosshelfendorf-Peiss" source="Grosshelfendorf" target="Peiss" label="S7" kind="S7"></edge>
+      <edge id="S7:Grosshelfendorf-Kreuzstrasse" source="Grosshelfendorf" target="Kreuzstrasse" label="S7" kind="S7"></edge>
+      <edge id="U1:Gern-Westfriedhof" source="Gern" target="Westfriedhof" label="U1" kind="U1"></edge>
+      <edge id="U7:Gern-Westfriedhof" source="Gern" target="Westfriedhof" label="U7" kind="U7"></edge>
+      <edge id="U1:Gern-Rotkreuzplatz" source="Gern" target="Rotkreuzplatz" label="U1" kind="U1"></edge>
+      <edge id="U7:Gern-Rotkreuzplatz" source="Gern" target="Rotkreuzplatz" label="U7" kind="U7"></edge>
+      <edge id="S4:Aubing-Leienfelsstrasse" source="Aubing" target="Leienfelsstrasse" label="S4" kind="S4"></edge>
+      <edge id="S4:Aubing-Puchheim" source="Aubing" target="Puchheim" label="S4" kind="S4"></edge>
+      <edge id="S4:Baldham-Vaterstetten" source="Baldham" target="Vaterstetten" label="S4" kind="S4"></edge>
+      <edge id="S6:Baldham-Vaterstetten" source="Baldham" target="Vaterstetten" label="S6" kind="S6"></edge>
+      <edge id="S4:Baldham-Zorneding" source="Baldham" target="Zorneding" label="S4" kind="S4"></edge>
+      <edge id="S6:Baldham-Zorneding" source="Baldham" target="Zorneding" label="S6" kind="S6"></edge>
+      <edge id="S4:Grafrath-Turkenfeld" source="Grafrath" target="Turkenfeld" label="S4" kind="S4"></edge>
+      <edge id="S4:Grafrath-Schongeising" source="Grafrath" target="Schongeising" label="S4" kind="S4"></edge>
+      <edge id="U2:Hohenzollernplatz-Josephsplatz" source="Hohenzollernplatz" target="Josephsplatz" label="U2" kind="U2"></edge>
+      <edge id="U2:Hohenzollernplatz-Scheidplatz" source="Hohenzollernplatz" target="Scheidplatz" label="U2" kind="U2"></edge>
+      <edge id="U2:Josephsplatz-Theresienstrasse" source="Josephsplatz" target="Theresienstrasse" label="U2" kind="U2"></edge>
+      <edge id="U6:Frottmaning-Kieferngarten" source="Frottmaning" target="Kieferngarten" label="U6" kind="U6"></edge>
+      <edge id="U6:Frottmaning-Garching-Hochbruck" source="Frottmaning" target="Garching-Hochbruck" label="U6" kind="U6"></edge>
+      <edge id="S7:Hohenkirchen Siegertsbrunn-Wachterhof" source="Hohenkirchen Siegertsbrunn" target="Wachterhof" label="S7" kind="S7"></edge>
+      <edge id="S8:Johanneskirchen-Unterfohring" source="Johanneskirchen" target="Unterfohring" label="S8" kind="S8"></edge>
+      <edge id="U2:Messestadt-West-Moosfeld" source="Messestadt-West" target="Moosfeld" label="U2" kind="U2"></edge>
+      <edge id="U6:Alte Heide-Studentenstadt" source="Alte Heide" target="Studentenstadt" label="U6" kind="U6"></edge>
+      <edge id="U6:Alte Heide-Nordfriedhof" source="Alte Heide" target="Nordfriedhof" label="U6" kind="U6"></edge>
+      <edge id="S2:Peterhausen-Vierkirchen Esterhofen" source="Peterhausen" target="Vierkirchen Esterhofen" label="S2" kind="S2"></edge>
+      <edge id="S1:Isartor-Marienplatz" source="Isartor" target="Marienplatz" label="S1" kind="S1"></edge>
+      <edge id="S2:Isartor-Marienplatz" source="Isartor" target="Marienplatz" label="S2" kind="S2"></edge>
+      <edge id="S3:Isartor-Marienplatz" source="Isartor" target="Marienplatz" label="S3" kind="S3"></edge>
+      <edge id="S7:Isartor-Marienplatz" source="Isartor" target="Marienplatz" label="S7" kind="S7"></edge>
+      <edge id="S6:Isartor-Marienplatz" source="Isartor" target="Marienplatz" label="S6" kind="S6"></edge>
+      <edge id="S4:Isartor-Marienplatz" source="Isartor" target="Marienplatz" label="S4" kind="S4"></edge>
+      <edge id="S8:Isartor-Marienplatz" source="Isartor" target="Marienplatz" label="S8" kind="S8"></edge>
+      <edge id="S1:Isartor-Rosenheimer Platz" source="Isartor" target="Rosenheimer Platz" label="S1" kind="S1"></edge>
+      <edge id="S2:Isartor-Rosenheimer Platz" source="Isartor" target="Rosenheimer Platz" label="S2" kind="S2"></edge>
+      <edge id="S3:Isartor-Rosenheimer Platz" source="Isartor" target="Rosenheimer Platz" label="S3" kind="S3"></edge>
+      <edge id="S7:Isartor-Rosenheimer Platz" source="Isartor" target="Rosenheimer Platz" label="S7" kind="S7"></edge>
+      <edge id="S6:Isartor-Rosenheimer Platz" source="Isartor" target="Rosenheimer Platz" label="S6" kind="S6"></edge>
+      <edge id="S4:Isartor-Rosenheimer Platz" source="Isartor" target="Rosenheimer Platz" label="S4" kind="S4"></edge>
+      <edge id="S8:Isartor-Rosenheimer Platz" source="Isartor" target="Rosenheimer Platz" label="S8" kind="S8"></edge>
+      <edge id="S2:Allach-Untermenzing" source="Allach" target="Untermenzing" label="S2" kind="S2"></edge>
+      <edge id="S2:Allach-Karlsfeld" source="Allach" target="Karlsfeld" label="S2" kind="S2"></edge>
+      <edge id="U2:Silberhornstrasse-Untersbergstrasse" source="Silberhornstrasse" target="Untersbergstrasse" label="U2" kind="U2"></edge>
+      <edge id="U7:Silberhornstrasse-Untersbergstrasse" source="Silberhornstrasse" target="Untersbergstrasse" label="U7" kind="U7"></edge>
+      <edge id="S4:Grafing Bahnhof-Kirchseeon" source="Grafing Bahnhof" target="Kirchseeon" label="S4" kind="S4"></edge>
+      <edge id="S4:Grafing Bahnhof-Grafing Stadt" source="Grafing Bahnhof" target="Grafing Stadt" label="S4" kind="S4"></edge>
+      <edge id="U6:Garching-Garching-Hochbruck" source="Garching" target="Garching-Hochbruck" label="U6" kind="U6"></edge>
+      <edge id="U6:Garching-Garching-Forschungszentrum" source="Garching" target="Garching-Forschungszentrum" label="U6" kind="U6"></edge>
+      <edge id="U4:Arabellapark-Richard-Strauss-Strasse" source="Arabellapark" target="Richard-Strauss-Strasse" label="U4" kind="U4"></edge>
+      <edge id="U3:Brudermuhlstrasse-Thalkirchen" source="Brudermuhlstrasse" target="Thalkirchen" label="U3" kind="U3"></edge>
+      <edge id="U3:Brudermuhlstrasse-Implerstrasse" source="Brudermuhlstrasse" target="Implerstrasse" label="U3" kind="U3"></edge>
+      <edge id="S3:Furth-Taufkirchen" source="Furth" target="Taufkirchen" label="S3" kind="S3"></edge>
+      <edge id="S3:Taufkirchen-Unterhaching" source="Taufkirchen" target="Unterhaching" label="S3" kind="S3"></edge>
+      <edge id="U1:Fraunhoferstrasse-Kolumbusplatz" source="Fraunhoferstrasse" target="Kolumbusplatz" label="U1" kind="U1"></edge>
+      <edge id="U2:Fraunhoferstrasse-Kolumbusplatz" source="Fraunhoferstrasse" target="Kolumbusplatz" label="U2" kind="U2"></edge>
+      <edge id="U7:Fraunhoferstrasse-Kolumbusplatz" source="Fraunhoferstrasse" target="Kolumbusplatz" label="U7" kind="U7"></edge>
+      <edge id="U1:Fraunhoferstrasse-Sendlinger Tor" source="Fraunhoferstrasse" target="Sendlinger Tor" label="U1" kind="U1"></edge>
+      <edge id="U2:Fraunhoferstrasse-Sendlinger Tor" source="Fraunhoferstrasse" target="Sendlinger Tor" label="U2" kind="U2"></edge>
+      <edge id="U7:Fraunhoferstrasse-Sendlinger Tor" source="Fraunhoferstrasse" target="Sendlinger Tor" label="U7" kind="U7"></edge>
+      <edge id="S3:Otterfing-Sauerlach" source="Otterfing" target="Sauerlach" label="S3" kind="S3"></edge>
+      <edge id="U2:Am Hart-Harthof" source="Am Hart" target="Harthof" label="U2" kind="U2"></edge>
+      <edge id="U2:Am Hart-Frankfurter Ring" source="Am Hart" target="Frankfurter Ring" label="U2" kind="U2"></edge>
+      <edge id="S2:Feldkirchen-Riem" source="Feldkirchen" target="Riem" label="S2" kind="S2"></edge>
+      <edge id="S2:Feldkirchen-Heimstetten" source="Feldkirchen" target="Heimstetten" label="S2" kind="S2"></edge>
+      <edge id="U1:Mangfallplatz-St.-Quirin-Platz" source="Mangfallplatz" target="St.-Quirin-Platz" label="U1" kind="U1"></edge>
+      <edge id="U1:St.-Quirin-Platz-Wettersteinplatz" source="St.-Quirin-Platz" target="Wettersteinplatz" label="U1" kind="U1"></edge>
+      <edge id="S7:Grosshesselohe Isartalbahnhof-Pullach" source="Grosshesselohe Isartalbahnhof" target="Pullach" label="S7" kind="S7"></edge>
+      <edge id="S7:Grosshesselohe Isartalbahnhof-Solln" source="Grosshesselohe Isartalbahnhof" target="Solln" label="S7" kind="S7"></edge>
+      <edge id="S8:Geisenbrunn-Germering Unterpfaffenhofen" source="Geisenbrunn" target="Germering Unterpfaffenhofen" label="S8" kind="S8"></edge>
+      <edge id="S8:Geisenbrunn-Gilching Argelsried" source="Geisenbrunn" target="Gilching Argelsried" label="S8" kind="S8"></edge>
+      <edge id="S6:Starnberg-Starnberg Nord" source="Starnberg" target="Starnberg Nord" label="S6" kind="S6"></edge>
+      <edge id="U3:Moosach-Moosacher St.-Martins-Platz" source="Moosach" target="Moosacher St.-Martins-Platz" label="U3" kind="U3"></edge>
+      <edge id="U1:Georg-Brauchle-Ring-Westfriedhof" source="Georg-Brauchle-Ring" target="Westfriedhof" label="U1" kind="U1"></edge>
+      <edge id="U1:Georg-Brauchle-Ring-Olympia-Einkaufszentrum" source="Georg-Brauchle-Ring" target="Olympia-Einkaufszentrum" label="U1" kind="U1"></edge>
+      <edge id="U3:Odeonsplatz-Universitat" source="Odeonsplatz" target="Universitat" label="U3" kind="U3"></edge>
+      <edge id="U6:Odeonsplatz-Universitat" source="Odeonsplatz" target="Universitat" label="U6" kind="U6"></edge>
+      <edge id="S8:Herrsching-Seefeld Hechendorf" source="Herrsching" target="Seefeld Hechendorf" label="S8" kind="S8"></edge>
+      <edge id="S8:Seefeld Hechendorf-Steinebach" source="Seefeld Hechendorf" target="Steinebach" label="S8" kind="S8"></edge>
+      <edge id="S8:Neuaubing-Westkreuz" source="Neuaubing" target="Westkreuz" label="S8" kind="S8"></edge>
+      <edge id="S4:Buchenau-Schongeising" source="Buchenau" target="Schongeising" label="S4" kind="S4"></edge>
+      <edge id="S4:Buchenau-Furstenfeldbruck" source="Buchenau" target="Furstenfeldbruck" label="S4" kind="S4"></edge>
+      <edge id="U2:Messestadt-Ost-Messestadt-West" source="Messestadt-Ost" target="Messestadt-West" label="U2" kind="U2"></edge>
+      <edge id="S1:Eching-Neufahrn" source="Eching" target="Neufahrn" label="S1" kind="S1"></edge>
+      <edge id="S1:Eching-Lohhof" source="Eching" target="Lohhof" label="S1" kind="S1"></edge>
+      <edge id="U3:Moosacher St.-Martins-Platz-Olympia-Einkaufszentrum" source="Moosacher St.-Martins-Platz" target="Olympia-Einkaufszentrum" label="U3" kind="U3"></edge>
+      <edge id="S3:Maisach-Malching" source="Maisach" target="Malching" label="S3" kind="S3"></edge>
+      <edge id="U3:Goetheplatz-Sendlinger Tor" source="Goetheplatz" target="Sendlinger Tor" label="U3" kind="U3"></edge>
+      <edge id="U6:Goetheplatz-Sendlinger Tor" source="Goetheplatz" target="Sendlinger Tor" label="U6" kind="U6"></edge>
+      <edge id="U3:Goetheplatz-Poccistrasse" source="Goetheplatz" target="Poccistrasse" label="U3" kind="U3"></edge>
+      <edge id="U6:Goetheplatz-Poccistrasse" source="Goetheplatz" target="Poccistrasse" label="U6" kind="U6"></edge>
+      <edge id="U2:Frankfurter Ring-Milbershofen" source="Frankfurter Ring" target="Milbershofen" label="U2" kind="U2"></edge>
+      <edge id="U2:Milbershofen-Scheidplatz" source="Milbershofen" target="Scheidplatz" label="U2" kind="U2"></edge>
+      <edge id="S6:Planegg-Stockdorf" source="Planegg" target="Stockdorf" label="S6" kind="S6"></edge>
+      <edge id="S2:Dachau-Hebertshausen" source="Dachau" target="Hebertshausen" label="S2" kind="S2"></edge>
+      <edge id="S2:Dachau-Karlsfeld" source="Dachau" target="Karlsfeld" label="S2" kind="S2"></edge>
+      <edge id="S1:Fasanerie-Feldmoching" source="Fasanerie" target="Feldmoching" label="S1" kind="S1"></edge>
+      <edge id="S1:Fasanerie-Moosach" source="Fasanerie" target="Moosach" label="S1" kind="S1"></edge>
+      <edge id="S2:Markt Schwaben-Ottenhofen" source="Markt Schwaben" target="Ottenhofen" label="S2" kind="S2"></edge>
+      <edge id="S2:Markt Schwaben-Poing" source="Markt Schwaben" target="Poing" label="S2" kind="S2"></edge>
+      <edge id="S2:Ottenhofen-St. Koloman" source="Ottenhofen" target="St. Koloman" label="S2" kind="S2"></edge>
+      <edge id="U5:Lehel-Max-Weber-Platz" source="Lehel" target="Max-Weber-Platz" label="U5" kind="U5"></edge>
+      <edge id="U4:Lehel-Max-Weber-Platz" source="Lehel" target="Max-Weber-Platz" label="U4" kind="U4"></edge>
+      <edge id="U5:Lehel-Odeonsplatz" source="Lehel" target="Odeonsplatz" label="U5" kind="U5"></edge>
+      <edge id="U4:Lehel-Odeonsplatz" source="Lehel" target="Odeonsplatz" label="U4" kind="U4"></edge>
+      <edge id="U1:Maillingerstrasse-Rotkreuzplatz" source="Maillingerstrasse" target="Rotkreuzplatz" label="U1" kind="U1"></edge>
+      <edge id="U7:Maillingerstrasse-Rotkreuzplatz" source="Maillingerstrasse" target="Rotkreuzplatz" label="U7" kind="U7"></edge>
+      <edge id="U1:Maillingerstrasse-Stiglmaierplatz" source="Maillingerstrasse" target="Stiglmaierplatz" label="U1" kind="U1"></edge>
+      <edge id="U7:Maillingerstrasse-Stiglmaierplatz" source="Maillingerstrasse" target="Stiglmaierplatz" label="U7" kind="U7"></edge>
+      <edge id="S1:Lohhof-Unterschleissheim" source="Lohhof" target="Unterschleissheim" label="S1" kind="S1"></edge>
+      <edge id="S6:Possenhofen-Starnberg" source="Possenhofen" target="Starnberg" label="S6" kind="S6"></edge>
+      <edge id="U2:Josephsburg-Kreillerstrasse" source="Josephsburg" target="Kreillerstrasse" label="U2" kind="U2"></edge>
+      <edge id="S7:Ebenhausen-Schaftlarn-Hohenschaftlarn" source="Ebenhausen-Schaftlarn" target="Hohenschaftlarn" label="S7" kind="S7"></edge>
+      <edge id="S7:Ebenhausen-Schaftlarn-Icking" source="Ebenhausen-Schaftlarn" target="Icking" label="S7" kind="S7"></edge>
+      <edge id="U3:Bonner Platz-Munchner Freiheit" source="Bonner Platz" target="Munchner Freiheit" label="U3" kind="U3"></edge>
+      <edge id="U3:Bonner Platz-Scheidplatz" source="Bonner Platz" target="Scheidplatz" label="U3" kind="U3"></edge>
+      <edge id="S8:Daglfing-Englschalking" source="Daglfing" target="Englschalking" label="S8" kind="S8"></edge>
+      <edge id="S8:Daglfing-Leuchtenbergring" source="Daglfing" target="Leuchtenbergring" label="S8" kind="S8"></edge>
+      <edge id="S8:Englschalking-Johanneskirchen" source="Englschalking" target="Johanneskirchen" label="S8" kind="S8"></edge>
+      <edge id="S4:Ebersberg-Grafing Stadt" source="Ebersberg" target="Grafing Stadt" label="S4" kind="S4"></edge>
+      <edge id="S2:Grub-Poing" source="Grub" target="Poing" label="S2" kind="S2"></edge>
+      <edge id="S2:Grub-Heimstetten" source="Grub" target="Heimstetten" label="S2" kind="S2"></edge>
+      <edge id="U6:Grosshadern-Haderner Stern" source="Grosshadern" target="Haderner Stern" label="U6" kind="U6"></edge>
+      <edge id="U6:Grosshadern-Klinikum Grosshadern" source="Grosshadern" target="Klinikum Grosshadern" label="U6" kind="U6"></edge>
+      <edge id="S3:Langwied-Pasing" source="Langwied" target="Pasing" label="S3" kind="S3"></edge>
+      <edge id="S3:Langwied-Lochhausen" source="Langwied" target="Lochhausen" label="S3" kind="S3"></edge>
+      <edge id="S6:Feldafing-Possenhofen" source="Feldafing" target="Possenhofen" label="S6" kind="S6"></edge>
+      <edge id="S6:Feldafing-Tutzing" source="Feldafing" target="Tutzing" label="S6" kind="S6"></edge>
+      <edge id="S4:Leuchtenbergring-Ostbahnhof" source="Leuchtenbergring" target="Ostbahnhof" label="S4" kind="S4"></edge>
+      <edge id="S8:Leuchtenbergring-Ostbahnhof" source="Leuchtenbergring" target="Ostbahnhof" label="S8" kind="S8"></edge>
+      <edge id="S2:Leuchtenbergring-Ostbahnhof" source="Leuchtenbergring" target="Ostbahnhof" label="S2" kind="S2"></edge>
+      <edge id="S6:Leuchtenbergring-Ostbahnhof" source="Leuchtenbergring" target="Ostbahnhof" label="S6" kind="S6"></edge>
+      <edge id="U2:Kreillerstrasse-Trudering" source="Kreillerstrasse" target="Trudering" label="U2" kind="U2"></edge>
+      <edge id="S8:Steinebach-Wessling" source="Steinebach" target="Wessling" label="S8" kind="S8"></edge>
+      <edge id="U3:Giselastrasse-Munchner Freiheit" source="Giselastrasse" target="Munchner Freiheit" label="U3" kind="U3"></edge>
+      <edge id="U6:Giselastrasse-Munchner Freiheit" source="Giselastrasse" target="Munchner Freiheit" label="U6" kind="U6"></edge>
+      <edge id="U3:Giselastrasse-Universitat" source="Giselastrasse" target="Universitat" label="U3" kind="U3"></edge>
+      <edge id="U6:Giselastrasse-Universitat" source="Giselastrasse" target="Universitat" label="U6" kind="U6"></edge>
+      <edge id="S6:Gauting-Starnberg Nord" source="Gauting" target="Starnberg Nord" label="S6" kind="S6"></edge>
+      <edge id="S6:Gauting-Stockdorf" source="Gauting" target="Stockdorf" label="S6" kind="S6"></edge>
+      <edge id="S7:Icking-Wolfratshausen" source="Icking" target="Wolfratshausen" label="S7" kind="S7"></edge>
+      <edge id="U5:Neuperlach Zentrum-Quiddestrasse" source="Neuperlach Zentrum" target="Quiddestrasse" label="U5" kind="U5"></edge>
+      <edge id="U7:Neuperlach Zentrum-Quiddestrasse" source="Neuperlach Zentrum" target="Quiddestrasse" label="U7" kind="U7"></edge>
+      <edge id="U5:Neuperlach Zentrum-Therese-Giehse-Allee" source="Neuperlach Zentrum" target="Therese-Giehse-Allee" label="U5" kind="U5"></edge>
+      <edge id="S3:Holzkirchen-Otterfing" source="Holzkirchen" target="Otterfing" label="S3" kind="S3"></edge>
+      <edge id="S1:Freising-Pulling" source="Freising" target="Pulling" label="S1" kind="S1"></edge>
+    </edges>
+  </graph>
+</gexf>
