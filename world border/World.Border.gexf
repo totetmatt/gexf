@@ -1,0 +1,3674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-12-12">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="total_border" title="total_border" type="double"></attribute>
+      <attribute id="zh" title="zh" type="string"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="border_long" title="border_long" type="double"></attribute>
+      <attribute id="neighborhoodOverlap" title="Neighborhood Overlap" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="embeddedness" title="Embeddedness" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Haïti" label="Haïti">
+        <attvalues>
+          <attvalue for="total_border" value="360.0"></attvalue>
+          <attvalue for="zh" value="海地"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="171.87462" y="1166.7778" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="République dominicaine" label="République dominicaine">
+        <attvalues>
+          <attvalue for="total_border" value="360.0"></attvalue>
+          <attvalue for="zh" value="多米尼加共和国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="190.36176" y="1151.4688" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Vatican" label="Vatican">
+        <attvalues>
+          <attvalue for="total_border" value="3.0"></attvalue>
+          <attvalue for="zh" value="梵蒂冈"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="631.19714" y="1254.5205" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Monaco" label="Monaco">
+        <attvalues>
+          <attvalue for="total_border" value="4.0"></attvalue>
+          <attvalue for="zh" value="摩纳哥"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="635.332" y="1138.0582" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Suriname" label="Suriname">
+        <attvalues>
+          <attvalue for="total_border" value="1703.0"></attvalue>
+          <attvalue for="zh" value="苏里南"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="690.4358" y="1089.3508" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Swaziland" label="Swaziland">
+        <attvalues>
+          <attvalue for="total_border" value="535.0"></attvalue>
+          <attvalue for="zh" value="斯威士兰"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-377.7972" y="1699.3789" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Timor oriental" label="Timor oriental">
+        <attvalues>
+          <attvalue for="total_border" value="228.0"></attvalue>
+          <attvalue for="zh" value="东帝汶"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1119.746" y="2093.1458" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Chypre" label="Chypre">
+        <attvalues>
+          <attvalue for="total_border" value="152.0"></attvalue>
+          <attvalue for="zh" value="塞浦路斯"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="416.71512" y="1086.4274" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Saint-Marin" label="Saint-Marin">
+        <attvalues>
+          <attvalue for="total_border" value="39.0"></attvalue>
+          <attvalue for="zh" value="圣马力诺"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="648.2681" y="1234.2568" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Uruguay" label="Uruguay">
+        <attvalues>
+          <attvalue for="total_border" value="1564.0"></attvalue>
+          <attvalue for="zh" value="乌拉圭"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="696.6501" y="974.2142" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Guyana" label="Guyana">
+        <attvalues>
+          <attvalue for="total_border" value="2948.0"></attvalue>
+          <attvalue for="zh" value="圭亚那"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="738.3462" y="1039.0902" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Venezuela" label="Venezuela">
+        <attvalues>
+          <attvalue for="total_border" value="4993.0"></attvalue>
+          <attvalue for="zh" value="委内瑞拉"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="756.2831" y="977.3534" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Belize" label="Belize">
+        <attvalues>
+          <attvalue for="total_border" value="459.0"></attvalue>
+          <attvalue for="zh" value="伯利兹"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1061.486" y="371.70242" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Canada" label="Canada">
+        <attvalues>
+          <attvalue for="total_border" value="8893.0"></attvalue>
+          <attvalue for="zh" value="加拿大"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1125.1979" y="250.60016" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="États-Unis" label="États-Unis">
+        <attvalues>
+          <attvalue for="total_border" value="12034.0"></attvalue>
+          <attvalue for="zh" value="美国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1103.4741" y="291.82986" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Costa Rica" label="Costa Rica">
+        <attvalues>
+          <attvalue for="total_border" value="639.0"></attvalue>
+          <attvalue for="zh" value="哥斯达黎加"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="894.3068" y="685.8036" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Panama" label="Panama">
+        <attvalues>
+          <attvalue for="total_border" value="555.0"></attvalue>
+          <attvalue for="zh" value="巴拿马"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="837.47076" y="795.14856" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Salvador" label="Salvador">
+        <attvalues>
+          <attvalue for="total_border" value="459.0"></attvalue>
+          <attvalue for="zh" value="萨尔瓦多"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1021.08765" y="444.7633" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lesotho" label="Lesotho">
+        <attvalues>
+          <attvalue for="total_border" value="909.0"></attvalue>
+          <attvalue for="zh" value="莱索托"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-433.0078" y="1683.5603" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Qatar" label="Qatar">
+        <attvalues>
+          <attvalue for="total_border" value="60.0"></attvalue>
+          <attvalue for="zh" value="卡塔尔"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="396.54996" y="1800.3328" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Oman" label="Oman">
+        <attvalues>
+          <attvalue for="total_border" value="1374.0"></attvalue>
+          <attvalue for="zh" value="阿曼"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="422.5467" y="1827.4746" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Yémen" label="Yémen">
+        <attvalues>
+          <attvalue for="total_border" value="1746.0"></attvalue>
+          <attvalue for="zh" value="也门"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="404.13547" y="1811.3235" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Belgique" label="Belgique">
+        <attvalues>
+          <attvalue for="total_border" value="1385.0"></attvalue>
+          <attvalue for="zh" value="比利时"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="685.94855" y="1224.5137" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pays-Bas" label="Pays-Bas">
+        <attvalues>
+          <attvalue for="total_border" value="1037.0"></attvalue>
+          <attvalue for="zh" value="荷兰"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="685.7858" y="1242.8474" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Suède" label="Suède">
+        <attvalues>
+          <attvalue for="total_border" value="2233.0"></attvalue>
+          <attvalue for="zh" value="瑞典"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="907.25635" y="1607.7103" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Papouasie-Nouvelle-Guinée" label="Papouasie-Nouvelle-Guinée">
+        <attvalues>
+          <attvalue for="total_border" value="820.0"></attvalue>
+          <attvalue for="zh" value="巴布亚新几内亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1102.3428" y="2105.6516" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Tunisie" label="Tunisie">
+        <attvalues>
+          <attvalue for="total_border" value="1424.0"></attvalue>
+          <attvalue for="zh" value="突尼斯"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="96.72278" y="1440.8839" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Irlande" label="Irlande">
+        <attvalues>
+          <attvalue for="total_border" value="360.0"></attvalue>
+          <attvalue for="zh" value="爱尔兰"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.3997" y="1096.9899" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Royaume-Uni" label="Royaume-Uni">
+        <attvalues>
+          <attvalue for="total_border" value="513.0"></attvalue>
+          <attvalue for="zh" value="英国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="426.18094" y="1138.2316" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Guinée-Bissau" label="Guinée-Bissau">
+        <attvalues>
+          <attvalue for="total_border" value="724.0"></attvalue>
+          <attvalue for="zh" value="几内亚比绍"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.5985887" y="1257.4996" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Libéria" label="Libéria">
+        <attvalues>
+          <attvalue for="total_border" value="1585.0"></attvalue>
+          <attvalue for="zh" value="利比里亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-43.581757" y="1281.3123" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sierra Leone" label="Sierra Leone">
+        <attvalues>
+          <attvalue for="total_border" value="958.0"></attvalue>
+          <attvalue for="zh" value="塞拉利昂"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-49.267757" y="1253.8757" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Andorre" label="Andorre">
+        <attvalues>
+          <attvalue for="total_border" value="121.0"></attvalue>
+          <attvalue for="zh" value="安道尔共和国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="530.97906" y="1184.4327" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Paraguay" label="Paraguay">
+        <attvalues>
+          <attvalue for="total_border" value="3739.0"></attvalue>
+          <attvalue for="zh" value="巴拉圭"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="725.14984" y="979.20544" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Équateur" label="Équateur">
+        <attvalues>
+          <attvalue for="total_border" value="2010.0"></attvalue>
+          <attvalue for="zh" value="厄瓜多尔"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="776.38715" y="889.61316" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Argentine" label="Argentine">
+        <attvalues>
+          <attvalue for="total_border" value="9394.0"></attvalue>
+          <attvalue for="zh" value="阿根廷"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="711.6954" y="961.43134" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bolivie" label="Bolivie">
+        <attvalues>
+          <attvalue for="total_border" value="6653.0"></attvalue>
+          <attvalue for="zh" value="玻利维亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="735.4639" y="954.79285" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Guatemala" label="Guatemala">
+        <attvalues>
+          <attvalue for="total_border" value="1684.0"></attvalue>
+          <attvalue for="zh" value="危地马拉"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1039.2183" y="412.4458" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Mexique" label="Mexique">
+        <attvalues>
+          <attvalue for="total_border" value="4293.0"></attvalue>
+          <attvalue for="zh" value="墨西哥"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1073.8839" y="347.65985" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Honduras" label="Honduras">
+        <attvalues>
+          <attvalue for="total_border" value="854.0"></attvalue>
+          <attvalue for="zh" value="洪都拉斯"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="997.4923" y="489.94592" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Nicaragua" label="Nicaragua">
+        <attvalues>
+          <attvalue for="total_border" value="651.0"></attvalue>
+          <attvalue for="zh" value="尼加拉瓜"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="947.4327" y="584.51355" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Zimbabwe" label="Zimbabwe">
+        <attvalues>
+          <attvalue for="total_border" value="3066.0"></attvalue>
+          <attvalue for="zh" value="津巴布韦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-337.08774" y="1662.2734" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Koweït" label="Koweït">
+        <attvalues>
+          <attvalue for="total_border" value="462.0"></attvalue>
+          <attvalue for="zh" value="科威特"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="476.79584" y="1753.3457" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Danemark" label="Danemark">
+        <attvalues>
+          <attvalue for="total_border" value="68.0"></attvalue>
+          <attvalue for="zh" value="丹麦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="763.39325" y="1274.7836" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Finlande" label="Finlande">
+        <attvalues>
+          <attvalue for="total_border" value="2690.0"></attvalue>
+          <attvalue for="zh" value="芬兰"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="880.16394" y="1586.4741" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Norvège" label="Norvège">
+        <attvalues>
+          <attvalue for="total_border" value="2551.0"></attvalue>
+          <attvalue for="zh" value="挪威"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="882.2308" y="1637.5298" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Turkménistan" label="Turkménistan">
+        <attvalues>
+          <attvalue for="total_border" value="3736.0"></attvalue>
+          <attvalue for="zh" value="土库曼斯坦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="733.72833" y="1722.0059" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Brunei" label="Brunei">
+        <attvalues>
+          <attvalue for="total_border" value="381.0"></attvalue>
+          <attvalue for="zh" value="文莱"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1065.769" y="2012.0889" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bhoutan" label="Bhoutan">
+        <attvalues>
+          <attvalue for="total_border" value="1075.0"></attvalue>
+          <attvalue for="zh" value="不丹"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="828.117" y="1791.1265" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Corée du Nord" label="Corée du Nord">
+        <attvalues>
+          <attvalue for="total_border" value="1673.0"></attvalue>
+          <attvalue for="zh" value="北朝鲜"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="856.7273" y="1677.5814" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Corée du Sud" label="Corée du Sud">
+        <attvalues>
+          <attvalue for="total_border" value="238.0"></attvalue>
+          <attvalue for="zh" value="韩国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="912.9103" y="1692.0226" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Népal" label="Népal">
+        <attvalues>
+          <attvalue for="total_border" value="2926.0"></attvalue>
+          <attvalue for="zh" value="尼泊尔"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="879.2812" y="1795.4987" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Algérie" label="Algérie">
+        <attvalues>
+          <attvalue for="total_border" value="6386.0"></attvalue>
+          <attvalue for="zh" value="阿尔及利亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="125.466644" y="1381.1957" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Mauritanie" label="Mauritanie">
+        <attvalues>
+          <attvalue for="total_border" value="5074.0"></attvalue>
+          <attvalue for="zh" value="毛利塔尼亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="97.41608" y="1328.5548" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Espagne" label="Espagne">
+        <attvalues>
+          <attvalue for="total_border" value="1918.0"></attvalue>
+          <attvalue for="zh" value="西班牙"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="446.26462" y="1230.82" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Portugal" label="Portugal">
+        <attvalues>
+          <attvalue for="total_border" value="1214.0"></attvalue>
+          <attvalue for="zh" value="葡萄牙"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="453.8198" y="1178.0542" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Maroc" label="Maroc">
+        <attvalues>
+          <attvalue for="total_border" value="2060.0"></attvalue>
+          <attvalue for="zh" value="摩洛哥"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="276.7548" y="1297.5072" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sahara occidental" label="Sahara occidental">
+        <attvalues>
+          <attvalue for="total_border" value="2046.0"></attvalue>
+          <attvalue for="zh" value="西撒哈拉"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="176.9375" y="1326.8041" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Gambie" label="Gambie">
+        <attvalues>
+          <attvalue for="total_border" value="740.0"></attvalue>
+          <attvalue for="zh" value="冈比亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.50288" y="1233.7001" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bénin" label="Bénin">
+        <attvalues>
+          <attvalue for="total_border" value="1989.0"></attvalue>
+          <attvalue for="zh" value="贝宁"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-25.593464" y="1417.5203" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Burkina Faso" label="Burkina Faso">
+        <attvalues>
+          <attvalue for="total_border" value="3193.0"></attvalue>
+          <attvalue for="zh" value="布基纳法索"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.517952" y="1374.3057" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Côte d'Ivoire" label="Côte d'Ivoire">
+        <attvalues>
+          <attvalue for="total_border" value="3110.0"></attvalue>
+          <attvalue for="zh" value="科特迪瓦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.119246" y="1324.6416" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ghana" label="Ghana">
+        <attvalues>
+          <attvalue for="total_border" value="2094.0"></attvalue>
+          <attvalue for="zh" value="加纳"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-46.541977" y="1348.6646" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Togo" label="Togo">
+        <attvalues>
+          <attvalue for="total_border" value="1647.0"></attvalue>
+          <attvalue for="zh" value="多哥共和国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-49.74614" y="1380.9619" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="France" label="France">
+        <attvalues>
+          <attvalue for="total_border" value="4139.0"></attvalue>
+          <attvalue for="zh" value="法国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="657.4045" y="1175.378" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Italie" label="Italie">
+        <attvalues>
+          <attvalue for="total_border" value="1932.0"></attvalue>
+          <attvalue for="zh" value="意大利"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="651.608" y="1273.3147" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Brésil" label="Brésil">
+        <attvalues>
+          <attvalue for="total_border" value="15230.0"></attvalue>
+          <attvalue for="zh" value="巴西"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="712.8404" y="1019.05255" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Colombie" label="Colombie">
+        <attvalues>
+          <attvalue for="total_border" value="6004.0"></attvalue>
+          <attvalue for="zh" value="哥伦比亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="777.13434" y="912.55994" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Chili" label="Chili">
+        <attvalues>
+          <attvalue for="total_border" value="6171.0"></attvalue>
+          <attvalue for="zh" value="智利"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="726.5117" y="924.5004" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pérou" label="Pérou">
+        <attvalues>
+          <attvalue for="total_border" value="5536.0"></attvalue>
+          <attvalue for="zh" value="秘鲁"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="751.4717" y="941.0889" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ouganda" label="Ouganda">
+        <attvalues>
+          <attvalue for="total_border" value="2698.0"></attvalue>
+          <attvalue for="zh" value="乌干达"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-182.84813" y="1648.3301" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Rwanda" label="Rwanda">
+        <attvalues>
+          <attvalue for="total_border" value="893.0"></attvalue>
+          <attvalue for="zh" value="卢旺达"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-217.98811" y="1653.1562" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="République centrafricaine" label="République centrafricaine">
+        <attvalues>
+          <attvalue for="total_border" value="4406.0"></attvalue>
+          <attvalue for="zh" value="中非共和国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-123.82935" y="1555.1376" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Angola" label="Angola">
+        <attvalues>
+          <attvalue for="total_border" value="5198.0"></attvalue>
+          <attvalue for="zh" value="安哥拉"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-254.17093" y="1609.785" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="République du Congo" label="République du Congo">
+        <attvalues>
+          <attvalue for="total_border" value="5504.0"></attvalue>
+          <attvalue for="zh" value="刚果（布）"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-190.58308" y="1537.7" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Botswana" label="Botswana">
+        <attvalues>
+          <attvalue for="total_border" value="4015.0"></attvalue>
+          <attvalue for="zh" value="博茨瓦纳"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-366.0167" y="1647.2832" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Namibie" label="Namibie">
+        <attvalues>
+          <attvalue for="total_border" value="3936.0"></attvalue>
+          <attvalue for="zh" value="纳米比亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-331.56183" y="1647.6243" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Burundi" label="Burundi">
+        <attvalues>
+          <attvalue for="total_border" value="974.0"></attvalue>
+          <attvalue for="zh" value="布隆迪"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-227.51427" y="1670.4823" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Malawi" label="Malawi">
+        <attvalues>
+          <attvalue for="total_border" value="2881.0"></attvalue>
+          <attvalue for="zh" value="马拉维"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-285.13382" y="1688.0638" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Émirats arabes unis" label="Émirats arabes unis">
+        <attvalues>
+          <attvalue for="total_border" value="867.0"></attvalue>
+          <attvalue for="zh" value="阿拉伯联合酋长国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="452.7331" y="1819.5161" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Arménie" label="Arménie">
+        <attvalues>
+          <attvalue for="total_border" value="1254.0"></attvalue>
+          <attvalue for="zh" value="亚美尼亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="654.21136" y="1677.8806" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Kirghizistan" label="Kirghizistan">
+        <attvalues>
+          <attvalue for="total_border" value="3878.0"></attvalue>
+          <attvalue for="zh" value="吉尔吉斯斯坦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="800.9062" y="1736.8182" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Tadjikistan" label="Tadjikistan">
+        <attvalues>
+          <attvalue for="total_border" value="3651.0"></attvalue>
+          <attvalue for="zh" value="塔吉克斯坦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="793.90924" y="1780.088" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Liechtenstein" label="Liechtenstein">
+        <attvalues>
+          <attvalue for="total_border" value="76.0"></attvalue>
+          <attvalue for="zh" value="列支敦士登"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="680.9984" y="1326.5016" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Suisse" label="Suisse">
+        <attvalues>
+          <attvalue for="total_border" value="1852.0"></attvalue>
+          <attvalue for="zh" value="瑞士"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="688.11365" y="1269.0039" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bosnie-Herzégovine" label="Bosnie-Herzégovine">
+        <attvalues>
+          <attvalue for="total_border" value="1459.0"></attvalue>
+          <attvalue for="zh" value="波斯尼亚和黑塞哥维纳"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="638.6821" y="1462.8376" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Monténégro" label="Monténégro">
+        <attvalues>
+          <attvalue for="total_border" value="625.0"></attvalue>
+          <attvalue for="zh" value="黑山"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="630.32733" y="1482.7397" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Croatie" label="Croatie">
+        <attvalues>
+          <attvalue for="total_border" value="2197.0"></attvalue>
+          <attvalue for="zh" value="克罗地亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="654.3892" y="1445.1622" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Slovénie" label="Slovénie">
+        <attvalues>
+          <attvalue for="total_border" value="1334.0"></attvalue>
+          <attvalue for="zh" value="斯洛文尼亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="676.6467" y="1372.2039" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Estonie" label="Estonie">
+        <attvalues>
+          <attvalue for="total_border" value="633.0"></attvalue>
+          <attvalue for="zh" value="爱沙尼亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="835.2482" y="1586.881" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lettonie" label="Lettonie">
+        <attvalues>
+          <attvalue for="total_border" value="1150.0"></attvalue>
+          <attvalue for="zh" value="拉脱维亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="813.2169" y="1567.6166" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Biélorussie" label="Biélorussie">
+        <attvalues>
+          <attvalue for="total_border" value="2900.0"></attvalue>
+          <attvalue for="zh" value="白俄罗斯"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="781.7237" y="1532.7188" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Lituanie" label="Lituanie">
+        <attvalues>
+          <attvalue for="total_border" value="1273.0"></attvalue>
+          <attvalue for="zh" value="立陶宛"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="801.0682" y="1538.9277" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Luxembourg" label="Luxembourg">
+        <attvalues>
+          <attvalue for="total_border" value="359.0"></attvalue>
+          <attvalue for="zh" value="卢森堡"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="707.78815" y="1233.538" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Kazakhstan" label="Kazakhstan">
+        <attvalues>
+          <attvalue for="total_border" value="12012.0"></attvalue>
+          <attvalue for="zh" value="哈萨克斯坦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="795.19147" y="1706.383" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ouzbékistan" label="Ouzbékistan">
+        <attvalues>
+          <attvalue for="total_border" value="6221.0"></attvalue>
+          <attvalue for="zh" value="乌兹别克斯坦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="787.46497" y="1724.6091" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="République tchèque" label="République tchèque">
+        <attvalues>
+          <attvalue for="total_border" value="1881.0"></attvalue>
+          <attvalue for="zh" value="捷克共和国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="740.577" y="1380.3296" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Slovaquie" label="Slovaquie">
+        <attvalues>
+          <attvalue for="total_border" value="1524.0"></attvalue>
+          <attvalue for="zh" value="斯洛伐克"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="737.54156" y="1423.0563" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Moldavie" label="Moldavie">
+        <attvalues>
+          <attvalue for="total_border" value="1389.0"></attvalue>
+          <attvalue for="zh" value="摩尔多瓦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="722.29895" y="1498.6381" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Indonésie" label="Indonésie">
+        <attvalues>
+          <attvalue for="total_border" value="2830.0"></attvalue>
+          <attvalue for="zh" value="印度尼西亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1080.8472" y="2057.0342" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Malaisie" label="Malaisie">
+        <attvalues>
+          <attvalue for="total_border" value="2669.0"></attvalue>
+          <attvalue for="zh" value="马来西亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1027.3612" y="1984.7588" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bangladesh" label="Bangladesh">
+        <attvalues>
+          <attvalue for="total_border" value="4246.0"></attvalue>
+          <attvalue for="zh" value="孟加拉国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="868.98425" y="1858.8552" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cambodge" label="Cambodge">
+        <attvalues>
+          <attvalue for="total_border" value="2572.0"></attvalue>
+          <attvalue for="zh" value="柬埔寨"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="953.7195" y="1830.7446" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Thaïlande" label="Thaïlande">
+        <attvalues>
+          <attvalue for="total_border" value="4863.0"></attvalue>
+          <attvalue for="zh" value="泰国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="956.19556" y="1896.4167" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Birmanie" label="Birmanie">
+        <attvalues>
+          <attvalue for="total_border" value="5876.0"></attvalue>
+          <attvalue for="zh" value="缅甸"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="885.15924" y="1837.7432" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Laos" label="Laos">
+        <attvalues>
+          <attvalue for="total_border" value="5083.0"></attvalue>
+          <attvalue for="zh" value="老挝"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="914.6358" y="1825.9406" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Mongolie" label="Mongolie">
+        <attvalues>
+          <attvalue for="total_border" value="8162.0"></attvalue>
+          <attvalue for="zh" value="蒙古"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="822.6294" y="1685.337" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Guinée" label="Guinée">
+        <attvalues>
+          <attvalue for="total_border" value="3399.0"></attvalue>
+          <attvalue for="zh" value="几内亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.615846" y="1290.8398" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sénégal" label="Sénégal">
+        <attvalues>
+          <attvalue for="total_border" value="2640.0"></attvalue>
+          <attvalue for="zh" value="塞内加尔"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="36.78322" y="1288.9395" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Mali" label="Mali">
+        <attvalues>
+          <attvalue for="total_border" value="7243.0"></attvalue>
+          <attvalue for="zh" value="马里"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="39.5677" y="1348.6406" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Niger" label="Niger">
+        <attvalues>
+          <attvalue for="total_border" value="5697.0"></attvalue>
+          <attvalue for="zh" value="尼日尔"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="25.612572" y="1431.2621" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cameroun" label="Cameroun">
+        <attvalues>
+          <attvalue for="total_border" value="3794.0"></attvalue>
+          <attvalue for="zh" value="喀麦隆"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-107.088425" y="1517.834" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Nigeria" label="Nigeria">
+        <attvalues>
+          <attvalue for="total_border" value="4047.0"></attvalue>
+          <attvalue for="zh" value="尼日利亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-41.122894" y="1470.2385" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Gabon" label="Gabon">
+        <attvalues>
+          <attvalue for="total_border" value="2551.0"></attvalue>
+          <attvalue for="zh" value="加蓬"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-187.08882" y="1521.7556" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Guinée équatoriale" label="Guinée équatoriale">
+        <attvalues>
+          <attvalue for="total_border" value="539.0"></attvalue>
+          <attvalue for="zh" value="赤道几内亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-156.2169" y="1502.6708" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="République démocratique du Congo" label="République démocratique du Congo">
+        <attvalues>
+          <attvalue for="total_border" value="10730.0"></attvalue>
+          <attvalue for="zh" value="刚果民主共和国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-233.95978" y="1630.1362" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Zambie" label="Zambie">
+        <attvalues>
+          <attvalue for="total_border" value="5666.0"></attvalue>
+          <attvalue for="zh" value="赞比亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-287.0209" y="1650.4604" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Israël" label="Israël">
+        <attvalues>
+          <attvalue for="total_border" value="659.0"></attvalue>
+          <attvalue for="zh" value="以色列"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="319.03394" y="1651.7894" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Liban" label="Liban">
+        <attvalues>
+          <attvalue for="total_border" value="454.0"></attvalue>
+          <attvalue for="zh" value="黎巴嫩"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="388.3106" y="1652.1178" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Jordanie" label="Jordanie">
+        <attvalues>
+          <attvalue for="total_border" value="1538.0"></attvalue>
+          <attvalue for="zh" value="约旦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="387.8975" y="1693.6323" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Palestine" label="Palestine">
+        <attvalues>
+          <attvalue for="total_border" value="466.0"></attvalue>
+          <attvalue for="zh" value="巴勒斯坦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="244.43004" y="1659.4885" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Libye" label="Libye">
+        <attvalues>
+          <attvalue for="total_border" value="4348.0"></attvalue>
+          <attvalue for="zh" value="利比亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="69.55191" y="1499.8514" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Égypte" label="Égypte">
+        <attvalues>
+          <attvalue for="total_border" value="2654.0"></attvalue>
+          <attvalue for="zh" value="埃及"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="166.13132" y="1605.3625" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Soudan" label="Soudan">
+        <attvalues>
+          <attvalue for="total_border" value="6764.0"></attvalue>
+          <attvalue for="zh" value="苏丹"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="27.30059" y="1583.3773" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Tchad" label="Tchad">
+        <attvalues>
+          <attvalue for="total_border" value="5968.0"></attvalue>
+          <attvalue for="zh" value="乍得"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-25.117878" y="1515.7428" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Kenya" label="Kenya">
+        <attvalues>
+          <attvalue for="total_border" value="3477.0"></attvalue>
+          <attvalue for="zh" value="肯尼亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-150.47498" y="1658.0714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Tanzanie" label="Tanzanie">
+        <attvalues>
+          <attvalue for="total_border" value="3861.0"></attvalue>
+          <attvalue for="zh" value="坦桑尼亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-242.61075" y="1662.0638" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Djibouti" label="Djibouti">
+        <attvalues>
+          <attvalue for="total_border" value="516.0"></attvalue>
+          <attvalue for="zh" value="吉布提"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-78.73536" y="1668.2699" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Somalie" label="Somalie">
+        <attvalues>
+          <attvalue for="total_border" value="2340.0"></attvalue>
+          <attvalue for="zh" value="索马里"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-115.04363" y="1670.451" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Érythrée" label="Érythrée">
+        <attvalues>
+          <attvalue for="total_border" value="1626.0"></attvalue>
+          <attvalue for="zh" value="厄立特里亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-26.233126" y="1649.0958" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Afrique du Sud" label="Afrique du Sud">
+        <attvalues>
+          <attvalue for="total_border" value="4862.0"></attvalue>
+          <attvalue for="zh" value="南非"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-385.4235" y="1669.882" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Mozambique" label="Mozambique">
+        <attvalues>
+          <attvalue for="total_border" value="4571.0"></attvalue>
+          <attvalue for="zh" value="莫桑比克"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-320.8938" y="1679.8132" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Arabie saoudite" label="Arabie saoudite">
+        <attvalues>
+          <attvalue for="total_border" value="4431.0"></attvalue>
+          <attvalue for="zh" value="沙特阿拉伯"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="436.51773" y="1765.998" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Irak" label="Irak">
+        <attvalues>
+          <attvalue for="total_border" value="3650.0"></attvalue>
+          <attvalue for="zh" value="伊拉克"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="510.8577" y="1710.1807" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Albanie" label="Albanie">
+        <attvalues>
+          <attvalue for="total_border" value="720.0"></attvalue>
+          <attvalue for="zh" value="阿尔巴尼亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="617.4292" y="1530.2329" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Macédoine" label="Macédoine">
+        <attvalues>
+          <attvalue for="total_border" value="766.0"></attvalue>
+          <attvalue for="zh" value="马其顿"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="623.1343" y="1548.1588" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bulgarie" label="Bulgarie">
+        <attvalues>
+          <attvalue for="total_border" value="1808.0"></attvalue>
+          <attvalue for="zh" value="保加利亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="632.9003" y="1569.9683" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Grèce" label="Grèce">
+        <attvalues>
+          <attvalue for="total_border" value="1228.0"></attvalue>
+          <attvalue for="zh" value="希腊"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="603.99786" y="1589.3453" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Azerbaïdjan" label="Azerbaïdjan">
+        <attvalues>
+          <attvalue for="total_border" value="2004.0"></attvalue>
+          <attvalue for="zh" value="阿塞拜疆"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="712.66956" y="1665.883" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Géorgie" label="Géorgie">
+        <attvalues>
+          <attvalue for="total_border" value="1461.0"></attvalue>
+          <attvalue for="zh" value="格鲁吉亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="688.27234" y="1647.489" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Syrie" label="Syrie">
+        <attvalues>
+          <attvalue for="total_border" value="2253.0"></attvalue>
+          <attvalue for="zh" value="叙利亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="443.82718" y="1669.8306" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Turquie" label="Turquie">
+        <attvalues>
+          <attvalue for="total_border" value="2639.0"></attvalue>
+          <attvalue for="zh" value="土耳其"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="585.8846" y="1658.4198" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Afghanistan" label="Afghanistan">
+        <attvalues>
+          <attvalue for="total_border" value="5529.0"></attvalue>
+          <attvalue for="zh" value="阿富汗"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="726.1895" y="1733.4745" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Iran" label="Iran">
+        <attvalues>
+          <attvalue for="total_border" value="5440.0"></attvalue>
+          <attvalue for="zh" value="伊朗"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="661.06885" y="1717.8896" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Autriche" label="Autriche">
+        <attvalues>
+          <attvalue for="total_border" value="2562.0"></attvalue>
+          <attvalue for="zh" value="奥地利"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="703.619" y="1349.9283" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Hongrie" label="Hongrie">
+        <attvalues>
+          <attvalue for="total_border" value="2171.0"></attvalue>
+          <attvalue for="zh" value="匈牙利"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="695.66455" y="1433.738" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Roumanie" label="Roumanie">
+        <attvalues>
+          <attvalue for="total_border" value="2508.0"></attvalue>
+          <attvalue for="zh" value="罗马尼亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="690.1639" y="1508.858" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Serbie" label="Serbie">
+        <attvalues>
+          <attvalue for="total_border" value="2027.0"></attvalue>
+          <attvalue for="zh" value="塞尔维亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="650.1652" y="1498.7383" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Allemagne" label="Allemagne">
+        <attvalues>
+          <attvalue for="total_border" value="3621.0"></attvalue>
+          <attvalue for="zh" value="德国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="721.45337" y="1302.7345" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pologne" label="Pologne">
+        <attvalues>
+          <attvalue for="total_border" value="2788.0"></attvalue>
+          <attvalue for="zh" value="波兰"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="763.8524" y="1463.8604" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Russie" label="Russie">
+        <attvalues>
+          <attvalue for="total_border" value="20622.0"></attvalue>
+          <attvalue for="zh" value="俄罗斯"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="786.4854" y="1611.2233" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ukraine" label="Ukraine">
+        <attvalues>
+          <attvalue for="total_border" value="4663.0"></attvalue>
+          <attvalue for="zh" value="乌克兰"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="751.5942" y="1506.8253" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Inde" label="Inde">
+        <attvalues>
+          <attvalue for="total_border" value="14103.0"></attvalue>
+          <attvalue for="zh" value="印度"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="840.03394" y="1807.4191" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pakistan" label="Pakistan">
+        <attvalues>
+          <attvalue for="total_border" value="6774.0"></attvalue>
+          <attvalue for="zh" value="巴基斯坦"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="744.5081" y="1787.8434" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="République populaire de Chine" label="République populaire de Chine">
+        <attvalues>
+          <attvalue for="total_border" value="22722.0"></attvalue>
+          <attvalue for="zh" value="中国"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="861.0942" y="1758.511" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Viêt Nam" label="Viêt Nam">
+        <attvalues>
+          <attvalue for="total_border" value="4639.0"></attvalue>
+          <attvalue for="zh" value="越南"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="904.2466" y="1807.0396" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Soudan du Sud" label="Soudan du Sud">
+        <attvalues>
+          <attvalue for="total_border" value="4797.0"></attvalue>
+          <attvalue for="zh" value="苏丹南部"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-104.147995" y="1608.2241" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Éthiopie" label="Éthiopie">
+        <attvalues>
+          <attvalue for="total_border" value="5328.0"></attvalue>
+          <attvalue for="zh" value="埃塞俄比亚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-68.425804" y="1651.8281" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="Haïti--République dominicaine" source="Haïti" target="République dominicaine" weight="360.0">
+        <attvalues>
+          <attvalue for="border_long" value="360.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Chypre--Royaume-Uni" source="Chypre" target="Royaume-Uni" weight="152.0">
+        <attvalues>
+          <attvalue for="border_long" value="152.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guyana--Venezuela" source="Guyana" target="Venezuela" weight="743.0">
+        <attvalues>
+          <attvalue for="border_long" value="743.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guyana--Suriname" source="Guyana" target="Suriname" weight="600.0">
+        <attvalues>
+          <attvalue for="border_long" value="600.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belize--Mexique" source="Belize" target="Mexique" weight="193.0">
+        <attvalues>
+          <attvalue for="border_long" value="193.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belize--Guatemala" source="Belize" target="Guatemala" weight="266.0">
+        <attvalues>
+          <attvalue for="border_long" value="266.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Canada--États-Unis" source="Canada" target="États-Unis" weight="8893.0">
+        <attvalues>
+          <attvalue for="border_long" value="8893.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Costa Rica--Nicaragua" source="Costa Rica" target="Nicaragua" weight="309.0">
+        <attvalues>
+          <attvalue for="border_long" value="309.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Costa Rica--Panama" source="Costa Rica" target="Panama" weight="330.0">
+        <attvalues>
+          <attvalue for="border_long" value="330.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Oman--Yémen" source="Oman" target="Yémen" weight="288.0">
+        <attvalues>
+          <attvalue for="border_long" value="288.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Oman--Émirats arabes unis" source="Oman" target="Émirats arabes unis" weight="410.0">
+        <attvalues>
+          <attvalue for="border_long" value="410.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgique--France" source="Belgique" target="France" weight="620.0">
+        <attvalues>
+          <attvalue for="border_long" value="620.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgique--Pays-Bas" source="Belgique" target="Pays-Bas" weight="450.0">
+        <attvalues>
+          <attvalue for="border_long" value="450.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.4"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgique--Luxembourg" source="Belgique" target="Luxembourg" weight="148.0">
+        <attvalues>
+          <attvalue for="border_long" value="148.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.4"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Irlande--Royaume-Uni" source="Irlande" target="Royaume-Uni" weight="360.0">
+        <attvalues>
+          <attvalue for="border_long" value="360.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guinée-Bissau--Sénégal" source="Guinée-Bissau" target="Sénégal" weight="338.0">
+        <attvalues>
+          <attvalue for="border_long" value="338.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Libéria--Sierra Leone" source="Libéria" target="Sierra Leone" weight="306.0">
+        <attvalues>
+          <attvalue for="border_long" value="306.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Andorre--France" source="Andorre" target="France" weight="57.0">
+        <attvalues>
+          <attvalue for="border_long" value="57.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.08333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Andorre--Espagne" source="Andorre" target="Espagne" weight="64.0">
+        <attvalues>
+          <attvalue for="border_long" value="64.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Argentine--Brésil" source="Argentine" target="Brésil" weight="1224.0">
+        <attvalues>
+          <attvalue for="border_long" value="1224.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Argentine--Bolivie" source="Argentine" target="Bolivie" weight="742.0">
+        <attvalues>
+          <attvalue for="border_long" value="742.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.42857142857142855"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Argentine--Chili" source="Argentine" target="Chili" weight="5150.0">
+        <attvalues>
+          <attvalue for="border_long" value="5150.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Argentine--Paraguay" source="Argentine" target="Paraguay" weight="1699.0">
+        <attvalues>
+          <attvalue for="border_long" value="1699.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Argentine--Uruguay" source="Argentine" target="Uruguay" weight="579.0">
+        <attvalues>
+          <attvalue for="border_long" value="579.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bolivie--Brésil" source="Bolivie" target="Brésil" weight="3400.0">
+        <attvalues>
+          <attvalue for="border_long" value="3400.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bolivie--Chili" source="Bolivie" target="Chili" weight="861.0">
+        <attvalues>
+          <attvalue for="border_long" value="861.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bolivie--Pérou" source="Bolivie" target="Pérou" weight="900.0">
+        <attvalues>
+          <attvalue for="border_long" value="900.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bolivie--Paraguay" source="Bolivie" target="Paraguay" weight="750.0">
+        <attvalues>
+          <attvalue for="border_long" value="750.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guatemala--Mexique" source="Guatemala" target="Mexique" weight="959.0">
+        <attvalues>
+          <attvalue for="border_long" value="959.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guatemala--Honduras" source="Guatemala" target="Honduras" weight="256.0">
+        <attvalues>
+          <attvalue for="border_long" value="256.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guatemala--Salvador" source="Guatemala" target="Salvador" weight="203.0">
+        <attvalues>
+          <attvalue for="border_long" value="203.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mexique--États-Unis" source="Mexique" target="États-Unis" weight="3141.0">
+        <attvalues>
+          <attvalue for="border_long" value="3141.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Honduras--Nicaragua" source="Honduras" target="Nicaragua" weight="342.0">
+        <attvalues>
+          <attvalue for="border_long" value="342.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Honduras--Salvador" source="Honduras" target="Salvador" weight="256.0">
+        <attvalues>
+          <attvalue for="border_long" value="256.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finlande--Russie" source="Finlande" target="Russie" weight="1340.0">
+        <attvalues>
+          <attvalue for="border_long" value="1340.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0625"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finlande--Norvège" source="Finlande" target="Norvège" weight="736.0">
+        <attvalues>
+          <attvalue for="border_long" value="736.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.5"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finlande--Suède" source="Finlande" target="Suède" weight="614.0">
+        <attvalues>
+          <attvalue for="border_long" value="614.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norvège--Russie" source="Norvège" target="Russie" weight="196.0">
+        <attvalues>
+          <attvalue for="border_long" value="196.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0625"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norvège--Suède" source="Norvège" target="Suède" weight="1619.0">
+        <attvalues>
+          <attvalue for="border_long" value="1619.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Brunei--Malaisie" source="Brunei" target="Malaisie" weight="381.0">
+        <attvalues>
+          <attvalue for="border_long" value="381.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bhoutan--République populaire de Chine" source="Bhoutan" target="République populaire de Chine" weight="470.0">
+        <attvalues>
+          <attvalue for="border_long" value="470.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.06666666666666667"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bhoutan--Inde" source="Bhoutan" target="Inde" weight="605.0">
+        <attvalues>
+          <attvalue for="border_long" value="605.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Corée du Nord--République populaire de Chine" source="Corée du Nord" target="République populaire de Chine" weight="1416.0">
+        <attvalues>
+          <attvalue for="border_long" value="1416.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0625"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Corée du Nord--Russie" source="Corée du Nord" target="Russie" weight="19.0">
+        <attvalues>
+          <attvalue for="border_long" value="19.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0625"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Corée du Nord--Corée du Sud" source="Corée du Nord" target="Corée du Sud" weight="238.0">
+        <attvalues>
+          <attvalue for="border_long" value="238.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Népal--République populaire de Chine" source="Népal" target="République populaire de Chine" weight="1236.0">
+        <attvalues>
+          <attvalue for="border_long" value="1236.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.06666666666666667"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Algérie--Mali" source="Algérie" target="Mali" weight="1376.0">
+        <attvalues>
+          <attvalue for="border_long" value="1376.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Algérie--Niger" source="Algérie" target="Niger" weight="956.0">
+        <attvalues>
+          <attvalue for="border_long" value="956.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Algérie--Mauritanie" source="Algérie" target="Mauritanie" weight="463.0">
+        <attvalues>
+          <attvalue for="border_long" value="463.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Algérie--Libye" source="Algérie" target="Libye" weight="982.0">
+        <attvalues>
+          <attvalue for="border_long" value="982.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Algérie--Maroc" source="Algérie" target="Maroc" weight="1601.0">
+        <attvalues>
+          <attvalue for="border_long" value="1601.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Algérie--Sahara occidental" source="Algérie" target="Sahara occidental" weight="43.0">
+        <attvalues>
+          <attvalue for="border_long" value="43.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Algérie--Tunisie" source="Algérie" target="Tunisie" weight="965.0">
+        <attvalues>
+          <attvalue for="border_long" value="965.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mauritanie--Sénégal" source="Mauritanie" target="Sénégal" weight="813.0">
+        <attvalues>
+          <attvalue for="border_long" value="813.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mauritanie--Sahara occidental" source="Mauritanie" target="Sahara occidental" weight="1561.0">
+        <attvalues>
+          <attvalue for="border_long" value="1561.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Espagne--France" source="Espagne" target="France" weight="623.0">
+        <attvalues>
+          <attvalue for="border_long" value="623.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.06666666666666667"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Espagne--Maroc" source="Espagne" target="Maroc" weight="16.0">
+        <attvalues>
+          <attvalue for="border_long" value="16.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Espagne--Portugal" source="Espagne" target="Portugal" weight="1214.0">
+        <attvalues>
+          <attvalue for="border_long" value="1214.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Espagne--Royaume-Uni" source="Espagne" target="Royaume-Uni">
+        <attvalues>
+          <attvalue for="border_long" value="1.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Maroc--Sahara occidental" source="Maroc" target="Sahara occidental" weight="443.0">
+        <attvalues>
+          <attvalue for="border_long" value="443.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Gambie--Sénégal" source="Gambie" target="Sénégal" weight="740.0">
+        <attvalues>
+          <attvalue for="border_long" value="740.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bénin--Niger" source="Bénin" target="Niger" weight="266.0">
+        <attvalues>
+          <attvalue for="border_long" value="266.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bénin--Nigeria" source="Bénin" target="Nigeria" weight="773.0">
+        <attvalues>
+          <attvalue for="border_long" value="773.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bénin--Togo" source="Bénin" target="Togo" weight="644.0">
+        <attvalues>
+          <attvalue for="border_long" value="644.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Burkina Faso--Mali" source="Burkina Faso" target="Mali" weight="1000.0">
+        <attvalues>
+          <attvalue for="border_long" value="1000.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Burkina Faso--Niger" source="Burkina Faso" target="Niger" weight="628.0">
+        <attvalues>
+          <attvalue for="border_long" value="628.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Burkina Faso--Côte d'Ivoire" source="Burkina Faso" target="Côte d'Ivoire" weight="584.0">
+        <attvalues>
+          <attvalue for="border_long" value="584.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Burkina Faso--Ghana" source="Burkina Faso" target="Ghana" weight="549.0">
+        <attvalues>
+          <attvalue for="border_long" value="549.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Burkina Faso--Bénin" source="Burkina Faso" target="Bénin" weight="306.0">
+        <attvalues>
+          <attvalue for="border_long" value="306.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Burkina Faso--Togo" source="Burkina Faso" target="Togo" weight="126.0">
+        <attvalues>
+          <attvalue for="border_long" value="126.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Côte d'Ivoire--Mali" source="Côte d'Ivoire" target="Mali" weight="532.0">
+        <attvalues>
+          <attvalue for="border_long" value="532.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Côte d'Ivoire--Guinée" source="Côte d'Ivoire" target="Guinée" weight="610.0">
+        <attvalues>
+          <attvalue for="border_long" value="610.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Côte d'Ivoire--Ghana" source="Côte d'Ivoire" target="Ghana" weight="668.0">
+        <attvalues>
+          <attvalue for="border_long" value="668.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Côte d'Ivoire--Libéria" source="Côte d'Ivoire" target="Libéria" weight="716.0">
+        <attvalues>
+          <attvalue for="border_long" value="716.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ghana--Togo" source="Ghana" target="Togo" weight="877.0">
+        <attvalues>
+          <attvalue for="border_long" value="877.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--Italie" source="France" target="Italie" weight="488.0">
+        <attvalues>
+          <attvalue for="border_long" value="488.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0625"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--Suisse" source="France" target="Suisse" weight="573.0">
+        <attvalues>
+          <attvalue for="border_long" value="573.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--Suriname" source="France" target="Suriname" weight="510.0">
+        <attvalues>
+          <attvalue for="border_long" value="510.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.07692307692307693"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--Pays-Bas" source="France" target="Pays-Bas" weight="10.0">
+        <attvalues>
+          <attvalue for="border_long" value="10.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--Luxembourg" source="France" target="Luxembourg" weight="73.0">
+        <attvalues>
+          <attvalue for="border_long" value="73.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--Monaco" source="France" target="Monaco" weight="4.0">
+        <attvalues>
+          <attvalue for="border_long" value="4.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italie--Suisse" source="Italie" target="Suisse" weight="740.0">
+        <attvalues>
+          <attvalue for="border_long" value="740.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italie--Slovénie" source="Italie" target="Slovénie" weight="232.0">
+        <attvalues>
+          <attvalue for="border_long" value="232.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italie--Saint-Marin" source="Italie" target="Saint-Marin" weight="39.0">
+        <attvalues>
+          <attvalue for="border_long" value="39.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italie--Vatican" source="Italie" target="Vatican" weight="3.0">
+        <attvalues>
+          <attvalue for="border_long" value="3.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Brésil--Colombie" source="Brésil" target="Colombie" weight="1643.0">
+        <attvalues>
+          <attvalue for="border_long" value="1643.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.15384615384615385"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Brésil--Pérou" source="Brésil" target="Pérou" weight="1560.0">
+        <attvalues>
+          <attvalue for="border_long" value="1560.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.15384615384615385"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Brésil--Venezuela" source="Brésil" target="Venezuela" weight="2200.0">
+        <attvalues>
+          <attvalue for="border_long" value="2200.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Brésil--France" source="Brésil" target="France" weight="730.0">
+        <attvalues>
+          <attvalue for="border_long" value="730.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.05"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Brésil--Paraguay" source="Brésil" target="Paraguay" weight="1290.0">
+        <attvalues>
+          <attvalue for="border_long" value="1290.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Brésil--Guyana" source="Brésil" target="Guyana" weight="1605.0">
+        <attvalues>
+          <attvalue for="border_long" value="1605.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Brésil--Suriname" source="Brésil" target="Suriname" weight="593.0">
+        <attvalues>
+          <attvalue for="border_long" value="593.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Brésil--Uruguay" source="Brésil" target="Uruguay" weight="985.0">
+        <attvalues>
+          <attvalue for="border_long" value="985.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.09090909090909091"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Colombie--Pérou" source="Colombie" target="Pérou" weight="1496.0">
+        <attvalues>
+          <attvalue for="border_long" value="1496.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Colombie--Venezuela" source="Colombie" target="Venezuela" weight="2050.0">
+        <attvalues>
+          <attvalue for="border_long" value="2050.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Colombie--Équateur" source="Colombie" target="Équateur" weight="590.0">
+        <attvalues>
+          <attvalue for="border_long" value="590.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Colombie--Panama" source="Colombie" target="Panama" weight="225.0">
+        <attvalues>
+          <attvalue for="border_long" value="225.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Chili--Pérou" source="Chili" target="Pérou" weight="160.0">
+        <attvalues>
+          <attvalue for="border_long" value="160.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Pérou--Équateur" source="Pérou" target="Équateur" weight="1420.0">
+        <attvalues>
+          <attvalue for="border_long" value="1420.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ouganda--République démocratique du Congo" source="Ouganda" target="République démocratique du Congo" weight="765.0">
+        <attvalues>
+          <attvalue for="border_long" value="765.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2727272727272727"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ouganda--Soudan du Sud" source="Ouganda" target="Soudan du Sud" weight="435.0">
+        <attvalues>
+          <attvalue for="border_long" value="435.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ouganda--Tanzanie" source="Ouganda" target="Tanzanie" weight="396.0">
+        <attvalues>
+          <attvalue for="border_long" value="396.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ouganda--Rwanda" source="Ouganda" target="Rwanda" weight="169.0">
+        <attvalues>
+          <attvalue for="border_long" value="169.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Rwanda--République démocratique du Congo" source="Rwanda" target="République démocratique du Congo" weight="217.0">
+        <attvalues>
+          <attvalue for="border_long" value="217.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Rwanda--Tanzanie" source="Rwanda" target="Tanzanie" weight="217.0">
+        <attvalues>
+          <attvalue for="border_long" value="217.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République centrafricaine--République démocratique du Congo" source="République centrafricaine" target="République démocratique du Congo" weight="1577.0">
+        <attvalues>
+          <attvalue for="border_long" value="1577.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République centrafricaine--Soudan" source="République centrafricaine" target="Soudan" weight="483.0">
+        <attvalues>
+          <attvalue for="border_long" value="483.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République centrafricaine--Tchad" source="République centrafricaine" target="Tchad" weight="1197.0">
+        <attvalues>
+          <attvalue for="border_long" value="1197.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République centrafricaine--République du Congo" source="République centrafricaine" target="République du Congo" weight="467.0">
+        <attvalues>
+          <attvalue for="border_long" value="467.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République centrafricaine--Soudan du Sud" source="République centrafricaine" target="Soudan du Sud" weight="682.0">
+        <attvalues>
+          <attvalue for="border_long" value="682.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Angola--République démocratique du Congo" source="Angola" target="République démocratique du Congo" weight="2511.0">
+        <attvalues>
+          <attvalue for="border_long" value="2511.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Angola--Zambie" source="Angola" target="Zambie" weight="1110.0">
+        <attvalues>
+          <attvalue for="border_long" value="1110.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Angola--République du Congo" source="Angola" target="République du Congo" weight="201.0">
+        <attvalues>
+          <attvalue for="border_long" value="201.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Angola--Namibie" source="Angola" target="Namibie" weight="1376.0">
+        <attvalues>
+          <attvalue for="border_long" value="1376.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République du Congo--République démocratique du Congo" source="République du Congo" target="République démocratique du Congo" weight="2410.0">
+        <attvalues>
+          <attvalue for="border_long" value="2410.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Botswana--Zambie" source="Botswana" target="Zambie" weight="2.0">
+        <attvalues>
+          <attvalue for="border_long" value="2.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Botswana--Namibie" source="Botswana" target="Namibie" weight="1360.0">
+        <attvalues>
+          <attvalue for="border_long" value="1360.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Botswana--Zimbabwe" source="Botswana" target="Zimbabwe" weight="813.0">
+        <attvalues>
+          <attvalue for="border_long" value="813.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Namibie--Zambie" source="Namibie" target="Zambie" weight="233.0">
+        <attvalues>
+          <attvalue for="border_long" value="233.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Burundi--République démocratique du Congo" source="Burundi" target="République démocratique du Congo" weight="233.0">
+        <attvalues>
+          <attvalue for="border_long" value="233.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Burundi--Tanzanie" source="Burundi" target="Tanzanie" weight="451.0">
+        <attvalues>
+          <attvalue for="border_long" value="451.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Burundi--Rwanda" source="Burundi" target="Rwanda" weight="290.0">
+        <attvalues>
+          <attvalue for="border_long" value="290.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.4"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malawi--Zambie" source="Malawi" target="Zambie" weight="837.0">
+        <attvalues>
+          <attvalue for="border_long" value="837.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malawi--Mozambique" source="Malawi" target="Mozambique" weight="1569.0">
+        <attvalues>
+          <attvalue for="border_long" value="1569.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malawi--Tanzanie" source="Malawi" target="Tanzanie" weight="475.0">
+        <attvalues>
+          <attvalue for="border_long" value="475.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arménie--Iran" source="Arménie" target="Iran" weight="35.0">
+        <attvalues>
+          <attvalue for="border_long" value="35.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arménie--Turquie" source="Arménie" target="Turquie" weight="268.0">
+        <attvalues>
+          <attvalue for="border_long" value="268.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arménie--Azerbaïdjan" source="Arménie" target="Azerbaïdjan" weight="787.0">
+        <attvalues>
+          <attvalue for="border_long" value="787.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arménie--Géorgie" source="Arménie" target="Géorgie" weight="164.0">
+        <attvalues>
+          <attvalue for="border_long" value="164.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kirghizistan--République populaire de Chine" source="Kirghizistan" target="République populaire de Chine" weight="858.0">
+        <attvalues>
+          <attvalue for="border_long" value="858.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kirghizistan--Ouzbékistan" source="Kirghizistan" target="Ouzbékistan" weight="1099.0">
+        <attvalues>
+          <attvalue for="border_long" value="1099.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kirghizistan--Tadjikistan" source="Kirghizistan" target="Tadjikistan" weight="870.0">
+        <attvalues>
+          <attvalue for="border_long" value="870.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Liechtenstein--Suisse" source="Liechtenstein" target="Suisse" weight="41.0">
+        <attvalues>
+          <attvalue for="border_long" value="41.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bosnie-Herzégovine--Croatie" source="Bosnie-Herzégovine" target="Croatie" weight="932.0">
+        <attvalues>
+          <attvalue for="border_long" value="932.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bosnie-Herzégovine--Serbie" source="Bosnie-Herzégovine" target="Serbie" weight="302.0">
+        <attvalues>
+          <attvalue for="border_long" value="302.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bosnie-Herzégovine--Monténégro" source="Bosnie-Herzégovine" target="Monténégro" weight="225.0">
+        <attvalues>
+          <attvalue for="border_long" value="225.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.4"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Monténégro--Serbie" source="Monténégro" target="Serbie" weight="203.0">
+        <attvalues>
+          <attvalue for="border_long" value="203.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatie--Hongrie" source="Croatie" target="Hongrie" weight="329.0">
+        <attvalues>
+          <attvalue for="border_long" value="329.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatie--Serbie" source="Croatie" target="Serbie" weight="241.0">
+        <attvalues>
+          <attvalue for="border_long" value="241.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatie--Slovénie" source="Croatie" target="Slovénie" weight="670.0">
+        <attvalues>
+          <attvalue for="border_long" value="670.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatie--Monténégro" source="Croatie" target="Monténégro" weight="25.0">
+        <attvalues>
+          <attvalue for="border_long" value="25.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonie--Russie" source="Estonie" target="Russie" weight="294.0">
+        <attvalues>
+          <attvalue for="border_long" value="294.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.06666666666666667"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonie--Lettonie" source="Estonie" target="Lettonie" weight="339.0">
+        <attvalues>
+          <attvalue for="border_long" value="339.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lettonie--Russie" source="Lettonie" target="Russie" weight="217.0">
+        <attvalues>
+          <attvalue for="border_long" value="217.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lettonie--Lituanie" source="Lettonie" target="Lituanie" weight="453.0">
+        <attvalues>
+          <attvalue for="border_long" value="453.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Biélorussie--Russie" source="Biélorussie" target="Russie" weight="959.0">
+        <attvalues>
+          <attvalue for="border_long" value="959.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.26666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Biélorussie--Ukraine" source="Biélorussie" target="Ukraine" weight="891.0">
+        <attvalues>
+          <attvalue for="border_long" value="891.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Biélorussie--Pologne" source="Biélorussie" target="Pologne" weight="407.0">
+        <attvalues>
+          <attvalue for="border_long" value="407.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Biélorussie--Lituanie" source="Biélorussie" target="Lituanie" weight="502.0">
+        <attvalues>
+          <attvalue for="border_long" value="502.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.5"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Biélorussie--Lettonie" source="Biélorussie" target="Lettonie" weight="141.0">
+        <attvalues>
+          <attvalue for="border_long" value="141.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lituanie--Russie" source="Lituanie" target="Russie" weight="227.0">
+        <attvalues>
+          <attvalue for="border_long" value="227.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lituanie--Pologne" source="Lituanie" target="Pologne" weight="91.0">
+        <attvalues>
+          <attvalue for="border_long" value="91.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kazakhstan--République populaire de Chine" source="Kazakhstan" target="République populaire de Chine" weight="1533.0">
+        <attvalues>
+          <attvalue for="border_long" value="1533.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.11764705882352941"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kazakhstan--Russie" source="Kazakhstan" target="Russie" weight="6846.0">
+        <attvalues>
+          <attvalue for="border_long" value="6846.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.05555555555555555"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kazakhstan--Ouzbékistan" source="Kazakhstan" target="Ouzbékistan" weight="2203.0">
+        <attvalues>
+          <attvalue for="border_long" value="2203.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kazakhstan--Kirghizistan" source="Kazakhstan" target="Kirghizistan" weight="1051.0">
+        <attvalues>
+          <attvalue for="border_long" value="1051.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kazakhstan--Turkménistan" source="Kazakhstan" target="Turkménistan" weight="379.0">
+        <attvalues>
+          <attvalue for="border_long" value="379.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ouzbékistan--Turkménistan" source="Ouzbékistan" target="Turkménistan" weight="1621.0">
+        <attvalues>
+          <attvalue for="border_long" value="1621.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ouzbékistan--Tadjikistan" source="Ouzbékistan" target="Tadjikistan" weight="1161.0">
+        <attvalues>
+          <attvalue for="border_long" value="1161.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République tchèque--Slovaquie" source="République tchèque" target="Slovaquie" weight="215.0">
+        <attvalues>
+          <attvalue for="border_long" value="215.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovaquie--Ukraine" source="Slovaquie" target="Ukraine" weight="97.0">
+        <attvalues>
+          <attvalue for="border_long" value="97.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldavie--Ukraine" source="Moldavie" target="Ukraine" weight="939.0">
+        <attvalues>
+          <attvalue for="border_long" value="939.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldavie--Roumanie" source="Moldavie" target="Roumanie" weight="450.0">
+        <attvalues>
+          <attvalue for="border_long" value="450.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Indonésie--Malaisie" source="Indonésie" target="Malaisie" weight="1782.0">
+        <attvalues>
+          <attvalue for="border_long" value="1782.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Indonésie--Papouasie-Nouvelle-Guinée" source="Indonésie" target="Papouasie-Nouvelle-Guinée" weight="820.0">
+        <attvalues>
+          <attvalue for="border_long" value="820.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Indonésie--Timor oriental" source="Indonésie" target="Timor oriental" weight="228.0">
+        <attvalues>
+          <attvalue for="border_long" value="228.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malaisie--Thaïlande" source="Malaisie" target="Thaïlande" weight="506.0">
+        <attvalues>
+          <attvalue for="border_long" value="506.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bangladesh--Inde" source="Bangladesh" target="Inde" weight="4053.0">
+        <attvalues>
+          <attvalue for="border_long" value="4053.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bangladesh--Birmanie" source="Bangladesh" target="Birmanie" weight="193.0">
+        <attvalues>
+          <attvalue for="border_long" value="193.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cambodge--Laos" source="Cambodge" target="Laos" weight="541.0">
+        <attvalues>
+          <attvalue for="border_long" value="541.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cambodge--Thaïlande" source="Cambodge" target="Thaïlande" weight="803.0">
+        <attvalues>
+          <attvalue for="border_long" value="803.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cambodge--Viêt Nam" source="Cambodge" target="Viêt Nam" weight="1228.0">
+        <attvalues>
+          <attvalue for="border_long" value="1228.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Birmanie--République populaire de Chine" source="Birmanie" target="République populaire de Chine" weight="2185.0">
+        <attvalues>
+          <attvalue for="border_long" value="2185.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.11764705882352941"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Birmanie--Inde" source="Birmanie" target="Inde" weight="1463.0">
+        <attvalues>
+          <attvalue for="border_long" value="1463.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Birmanie--Laos" source="Birmanie" target="Laos" weight="235.0">
+        <attvalues>
+          <attvalue for="border_long" value="235.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Birmanie--Thaïlande" source="Birmanie" target="Thaïlande" weight="1800.0">
+        <attvalues>
+          <attvalue for="border_long" value="1800.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Laos--République populaire de Chine" source="Laos" target="République populaire de Chine" weight="423.0">
+        <attvalues>
+          <attvalue for="border_long" value="423.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.11764705882352941"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Laos--Thaïlande" source="Laos" target="Thaïlande" weight="1754.0">
+        <attvalues>
+          <attvalue for="border_long" value="1754.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Laos--Viêt Nam" source="Laos" target="Viêt Nam" weight="2130.0">
+        <attvalues>
+          <attvalue for="border_long" value="2130.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mongolie--République populaire de Chine" source="Mongolie" target="République populaire de Chine" weight="4677.0">
+        <attvalues>
+          <attvalue for="border_long" value="4677.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.06666666666666667"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mongolie--Russie" source="Mongolie" target="Russie" weight="3485.0">
+        <attvalues>
+          <attvalue for="border_long" value="3485.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.06666666666666667"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guinée--Mali" source="Guinée" target="Mali" weight="858.0">
+        <attvalues>
+          <attvalue for="border_long" value="858.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guinée--Sénégal" source="Guinée" target="Sénégal" weight="330.0">
+        <attvalues>
+          <attvalue for="border_long" value="330.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guinée--Libéria" source="Guinée" target="Libéria" weight="563.0">
+        <attvalues>
+          <attvalue for="border_long" value="563.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guinée--Sierra Leone" source="Guinée" target="Sierra Leone" weight="652.0">
+        <attvalues>
+          <attvalue for="border_long" value="652.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Guinée--Guinée-Bissau" source="Guinée" target="Guinée-Bissau" weight="386.0">
+        <attvalues>
+          <attvalue for="border_long" value="386.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mali--Niger" source="Mali" target="Niger" weight="821.0">
+        <attvalues>
+          <attvalue for="border_long" value="821.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mali--Mauritanie" source="Mali" target="Mauritanie" weight="2237.0">
+        <attvalues>
+          <attvalue for="border_long" value="2237.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mali--Sénégal" source="Mali" target="Sénégal" weight="419.0">
+        <attvalues>
+          <attvalue for="border_long" value="419.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Niger--Tchad" source="Niger" target="Tchad" weight="1175.0">
+        <attvalues>
+          <attvalue for="border_long" value="1175.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Niger--Nigeria" source="Niger" target="Nigeria" weight="1497.0">
+        <attvalues>
+          <attvalue for="border_long" value="1497.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cameroun--Tchad" source="Cameroun" target="Tchad" weight="1094.0">
+        <attvalues>
+          <attvalue for="border_long" value="1094.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cameroun--République du Congo" source="Cameroun" target="République du Congo" weight="523.0">
+        <attvalues>
+          <attvalue for="border_long" value="523.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cameroun--Nigeria" source="Cameroun" target="Nigeria" weight="1690.0">
+        <attvalues>
+          <attvalue for="border_long" value="1690.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cameroun--Gabon" source="Cameroun" target="Gabon" weight="298.0">
+        <attvalues>
+          <attvalue for="border_long" value="298.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cameroun--Guinée équatoriale" source="Cameroun" target="Guinée équatoriale" weight="189.0">
+        <attvalues>
+          <attvalue for="border_long" value="189.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Nigeria--Tchad" source="Nigeria" target="Tchad" weight="87.0">
+        <attvalues>
+          <attvalue for="border_long" value="87.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Gabon--République du Congo" source="Gabon" target="République du Congo" weight="1903.0">
+        <attvalues>
+          <attvalue for="border_long" value="1903.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Gabon--Guinée équatoriale" source="Gabon" target="Guinée équatoriale" weight="350.0">
+        <attvalues>
+          <attvalue for="border_long" value="350.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République démocratique du Congo--Zambie" source="République démocratique du Congo" target="Zambie" weight="1930.0">
+        <attvalues>
+          <attvalue for="border_long" value="1930.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.13333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République démocratique du Congo--Soudan du Sud" source="République démocratique du Congo" target="Soudan du Sud" weight="628.0">
+        <attvalues>
+          <attvalue for="border_long" value="628.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.15384615384615385"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République démocratique du Congo--Tanzanie" source="République démocratique du Congo" target="Tanzanie" weight="459.0">
+        <attvalues>
+          <attvalue for="border_long" value="459.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3076923076923077"></attvalue>
+          <attvalue for="embeddedness" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Zambie--Zimbabwe" source="Zambie" target="Zimbabwe" weight="797.0">
+        <attvalues>
+          <attvalue for="border_long" value="797.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israël--Égypte" source="Israël" target="Égypte" weight="266.0">
+        <attvalues>
+          <attvalue for="border_long" value="266.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israël--Syrie" source="Israël" target="Syrie" weight="76.0">
+        <attvalues>
+          <attvalue for="border_long" value="76.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israël--Jordanie" source="Israël" target="Jordanie" weight="238.0">
+        <attvalues>
+          <attvalue for="border_long" value="238.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israël--Palestine" source="Israël" target="Palestine" weight="358.0">
+        <attvalues>
+          <attvalue for="border_long" value="358.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israël--Liban" source="Israël" target="Liban" weight="79.0">
+        <attvalues>
+          <attvalue for="border_long" value="79.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Liban--Syrie" source="Liban" target="Syrie" weight="375.0">
+        <attvalues>
+          <attvalue for="border_long" value="375.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Jordanie--Syrie" source="Jordanie" target="Syrie" weight="375.0">
+        <attvalues>
+          <attvalue for="border_long" value="375.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Jordanie--Palestine" source="Jordanie" target="Palestine" weight="97.0">
+        <attvalues>
+          <attvalue for="border_long" value="97.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Palestine--Égypte" source="Palestine" target="Égypte" weight="11.0">
+        <attvalues>
+          <attvalue for="border_long" value="11.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Libye--Soudan" source="Libye" target="Soudan" weight="383.0">
+        <attvalues>
+          <attvalue for="border_long" value="383.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Libye--Tchad" source="Libye" target="Tchad" weight="1055.0">
+        <attvalues>
+          <attvalue for="border_long" value="1055.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Libye--Niger" source="Libye" target="Niger" weight="354.0">
+        <attvalues>
+          <attvalue for="border_long" value="354.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Libye--Égypte" source="Libye" target="Égypte" weight="1115.0">
+        <attvalues>
+          <attvalue for="border_long" value="1115.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Libye--Tunisie" source="Libye" target="Tunisie" weight="459.0">
+        <attvalues>
+          <attvalue for="border_long" value="459.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Soudan--Tchad" source="Soudan" target="Tchad" weight="1360.0">
+        <attvalues>
+          <attvalue for="border_long" value="1360.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Soudan--Éthiopie" source="Soudan" target="Éthiopie" weight="723.0">
+        <attvalues>
+          <attvalue for="border_long" value="723.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Soudan--Soudan du Sud" source="Soudan" target="Soudan du Sud" weight="1937.0">
+        <attvalues>
+          <attvalue for="border_long" value="1937.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Soudan--Égypte" source="Soudan" target="Égypte" weight="1273.0">
+        <attvalues>
+          <attvalue for="border_long" value="1273.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Soudan--Érythrée" source="Soudan" target="Érythrée" weight="605.0">
+        <attvalues>
+          <attvalue for="border_long" value="605.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kenya--Éthiopie" source="Kenya" target="Éthiopie" weight="861.0">
+        <attvalues>
+          <attvalue for="border_long" value="861.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kenya--Soudan du Sud" source="Kenya" target="Soudan du Sud" weight="232.0">
+        <attvalues>
+          <attvalue for="border_long" value="232.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kenya--Tanzanie" source="Kenya" target="Tanzanie" weight="769.0">
+        <attvalues>
+          <attvalue for="border_long" value="769.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.08333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kenya--Ouganda" source="Kenya" target="Ouganda" weight="933.0">
+        <attvalues>
+          <attvalue for="border_long" value="933.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Kenya--Somalie" source="Kenya" target="Somalie" weight="682.0">
+        <attvalues>
+          <attvalue for="border_long" value="682.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Tanzanie--Zambie" source="Tanzanie" target="Zambie" weight="338.0">
+        <attvalues>
+          <attvalue for="border_long" value="338.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.23076923076923078"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Djibouti--Éthiopie" source="Djibouti" target="Éthiopie" weight="349.0">
+        <attvalues>
+          <attvalue for="border_long" value="349.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Djibouti--Somalie" source="Djibouti" target="Somalie" weight="58.0">
+        <attvalues>
+          <attvalue for="border_long" value="58.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Djibouti--Érythrée" source="Djibouti" target="Érythrée" weight="109.0">
+        <attvalues>
+          <attvalue for="border_long" value="109.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Somalie--Éthiopie" source="Somalie" target="Éthiopie" weight="1600.0">
+        <attvalues>
+          <attvalue for="border_long" value="1600.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Érythrée--Éthiopie" source="Érythrée" target="Éthiopie" weight="912.0">
+        <attvalues>
+          <attvalue for="border_long" value="912.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afrique du Sud--Mozambique" source="Afrique du Sud" target="Mozambique" weight="491.0">
+        <attvalues>
+          <attvalue for="border_long" value="491.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afrique du Sud--Botswana" source="Afrique du Sud" target="Botswana" weight="1840.0">
+        <attvalues>
+          <attvalue for="border_long" value="1840.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afrique du Sud--Namibie" source="Afrique du Sud" target="Namibie" weight="967.0">
+        <attvalues>
+          <attvalue for="border_long" value="967.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afrique du Sud--Zimbabwe" source="Afrique du Sud" target="Zimbabwe" weight="225.0">
+        <attvalues>
+          <attvalue for="border_long" value="225.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afrique du Sud--Lesotho" source="Afrique du Sud" target="Lesotho" weight="909.0">
+        <attvalues>
+          <attvalue for="border_long" value="909.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afrique du Sud--Swaziland" source="Afrique du Sud" target="Swaziland" weight="430.0">
+        <attvalues>
+          <attvalue for="border_long" value="430.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mozambique--Zambie" source="Mozambique" target="Zambie" weight="419.0">
+        <attvalues>
+          <attvalue for="border_long" value="419.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2727272727272727"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mozambique--Tanzanie" source="Mozambique" target="Tanzanie" weight="756.0">
+        <attvalues>
+          <attvalue for="border_long" value="756.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mozambique--Zimbabwe" source="Mozambique" target="Zimbabwe" weight="1231.0">
+        <attvalues>
+          <attvalue for="border_long" value="1231.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Mozambique--Swaziland" source="Mozambique" target="Swaziland" weight="105.0">
+        <attvalues>
+          <attvalue for="border_long" value="105.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arabie saoudite--Irak" source="Arabie saoudite" target="Irak" weight="814.0">
+        <attvalues>
+          <attvalue for="border_long" value="814.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arabie saoudite--Yémen" source="Arabie saoudite" target="Yémen" weight="1458.0">
+        <attvalues>
+          <attvalue for="border_long" value="1458.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arabie saoudite--Jordanie" source="Arabie saoudite" target="Jordanie" weight="744.0">
+        <attvalues>
+          <attvalue for="border_long" value="744.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.09090909090909091"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arabie saoudite--Oman" source="Arabie saoudite" target="Oman" weight="676.0">
+        <attvalues>
+          <attvalue for="border_long" value="676.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arabie saoudite--Émirats arabes unis" source="Arabie saoudite" target="Émirats arabes unis" weight="457.0">
+        <attvalues>
+          <attvalue for="border_long" value="457.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arabie saoudite--Koweït" source="Arabie saoudite" target="Koweït" weight="222.0">
+        <attvalues>
+          <attvalue for="border_long" value="222.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Arabie saoudite--Qatar" source="Arabie saoudite" target="Qatar" weight="60.0">
+        <attvalues>
+          <attvalue for="border_long" value="60.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Irak--Iran" source="Irak" target="Iran" weight="1458.0">
+        <attvalues>
+          <attvalue for="border_long" value="1458.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.08333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Irak--Turquie" source="Irak" target="Turquie" weight="352.0">
+        <attvalues>
+          <attvalue for="border_long" value="352.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Irak--Syrie" source="Irak" target="Syrie" weight="605.0">
+        <attvalues>
+          <attvalue for="border_long" value="605.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Irak--Jordanie" source="Irak" target="Jordanie" weight="181.0">
+        <attvalues>
+          <attvalue for="border_long" value="181.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Irak--Koweït" source="Irak" target="Koweït" weight="240.0">
+        <attvalues>
+          <attvalue for="border_long" value="240.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albanie--Serbie" source="Albanie" target="Serbie" weight="115.0">
+        <attvalues>
+          <attvalue for="border_long" value="115.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albanie--Grèce" source="Albanie" target="Grèce" weight="282.0">
+        <attvalues>
+          <attvalue for="border_long" value="282.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albanie--Macédoine" source="Albanie" target="Macédoine" weight="151.0">
+        <attvalues>
+          <attvalue for="border_long" value="151.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albanie--Monténégro" source="Albanie" target="Monténégro" weight="172.0">
+        <attvalues>
+          <attvalue for="border_long" value="172.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Macédoine--Serbie" source="Macédoine" target="Serbie" weight="221.0">
+        <attvalues>
+          <attvalue for="border_long" value="221.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgarie--Turquie" source="Bulgarie" target="Turquie" weight="240.0">
+        <attvalues>
+          <attvalue for="border_long" value="240.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.09090909090909091"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgarie--Roumanie" source="Bulgarie" target="Roumanie" weight="608.0">
+        <attvalues>
+          <attvalue for="border_long" value="608.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgarie--Serbie" source="Bulgarie" target="Serbie" weight="318.0">
+        <attvalues>
+          <attvalue for="border_long" value="318.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgarie--Grèce" source="Bulgarie" target="Grèce" weight="494.0">
+        <attvalues>
+          <attvalue for="border_long" value="494.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgarie--Macédoine" source="Bulgarie" target="Macédoine" weight="148.0">
+        <attvalues>
+          <attvalue for="border_long" value="148.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2857142857142857"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Grèce--Turquie" source="Grèce" target="Turquie" weight="206.0">
+        <attvalues>
+          <attvalue for="border_long" value="206.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Grèce--Macédoine" source="Grèce" target="Macédoine" weight="246.0">
+        <attvalues>
+          <attvalue for="border_long" value="246.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaïdjan--Russie" source="Azerbaïdjan" target="Russie" weight="284.0">
+        <attvalues>
+          <attvalue for="border_long" value="284.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.058823529411764705"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaïdjan--Iran" source="Azerbaïdjan" target="Iran" weight="611.0">
+        <attvalues>
+          <attvalue for="border_long" value="611.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaïdjan--Géorgie" source="Azerbaïdjan" target="Géorgie" weight="322.0">
+        <attvalues>
+          <attvalue for="border_long" value="322.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Géorgie--Russie" source="Géorgie" target="Russie" weight="723.0">
+        <attvalues>
+          <attvalue for="border_long" value="723.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.058823529411764705"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Géorgie--Turquie" source="Géorgie" target="Turquie" weight="252.0">
+        <attvalues>
+          <attvalue for="border_long" value="252.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Syrie--Turquie" source="Syrie" target="Turquie" weight="822.0">
+        <attvalues>
+          <attvalue for="border_long" value="822.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.09090909090909091"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afghanistan--République populaire de Chine" source="Afghanistan" target="République populaire de Chine" weight="76.0">
+        <attvalues>
+          <attvalue for="border_long" value="76.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afghanistan--Pakistan" source="Afghanistan" target="Pakistan" weight="2430.0">
+        <attvalues>
+          <attvalue for="border_long" value="2430.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afghanistan--Ouzbékistan" source="Afghanistan" target="Ouzbékistan" weight="137.0">
+        <attvalues>
+          <attvalue for="border_long" value="137.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afghanistan--Iran" source="Afghanistan" target="Iran" weight="936.0">
+        <attvalues>
+          <attvalue for="border_long" value="936.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afghanistan--Turkménistan" source="Afghanistan" target="Turkménistan" weight="744.0">
+        <attvalues>
+          <attvalue for="border_long" value="744.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Afghanistan--Tadjikistan" source="Afghanistan" target="Tadjikistan" weight="1206.0">
+        <attvalues>
+          <attvalue for="border_long" value="1206.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iran--Pakistan" source="Iran" target="Pakistan" weight="909.0">
+        <attvalues>
+          <attvalue for="border_long" value="909.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iran--Turkménistan" source="Iran" target="Turkménistan" weight="992.0">
+        <attvalues>
+          <attvalue for="border_long" value="992.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iran--Turquie" source="Iran" target="Turquie" weight="499.0">
+        <attvalues>
+          <attvalue for="border_long" value="499.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Autriche--Hongrie" source="Autriche" target="Hongrie" weight="366.0">
+        <attvalues>
+          <attvalue for="border_long" value="366.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.15384615384615385"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Autriche--Italie" source="Autriche" target="Italie" weight="430.0">
+        <attvalues>
+          <attvalue for="border_long" value="430.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Autriche--République tchèque" source="Autriche" target="République tchèque" weight="362.0">
+        <attvalues>
+          <attvalue for="border_long" value="362.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Autriche--Suisse" source="Autriche" target="Suisse" weight="164.0">
+        <attvalues>
+          <attvalue for="border_long" value="164.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Autriche--Slovaquie" source="Autriche" target="Slovaquie" weight="91.0">
+        <attvalues>
+          <attvalue for="border_long" value="91.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Autriche--Slovénie" source="Autriche" target="Slovénie" weight="330.0">
+        <attvalues>
+          <attvalue for="border_long" value="330.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Autriche--Liechtenstein" source="Autriche" target="Liechtenstein" weight="35.0">
+        <attvalues>
+          <attvalue for="border_long" value="35.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hongrie--Ukraine" source="Hongrie" target="Ukraine" weight="103.0">
+        <attvalues>
+          <attvalue for="border_long" value="103.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hongrie--Roumanie" source="Hongrie" target="Roumanie" weight="443.0">
+        <attvalues>
+          <attvalue for="border_long" value="443.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hongrie--Serbie" source="Hongrie" target="Serbie" weight="151.0">
+        <attvalues>
+          <attvalue for="border_long" value="151.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.15384615384615385"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hongrie--Slovaquie" source="Hongrie" target="Slovaquie" weight="677.0">
+        <attvalues>
+          <attvalue for="border_long" value="677.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hongrie--Slovénie" source="Hongrie" target="Slovénie" weight="102.0">
+        <attvalues>
+          <attvalue for="border_long" value="102.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Roumanie--Ukraine" source="Roumanie" target="Ukraine" weight="531.0">
+        <attvalues>
+          <attvalue for="border_long" value="531.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Roumanie--Serbie" source="Roumanie" target="Serbie" weight="476.0">
+        <attvalues>
+          <attvalue for="border_long" value="476.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Allemagne--France" source="Allemagne" target="France" weight="451.0">
+        <attvalues>
+          <attvalue for="border_long" value="451.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Allemagne--Pologne" source="Allemagne" target="Pologne" weight="456.0">
+        <attvalues>
+          <attvalue for="border_long" value="456.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.06666666666666667"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Allemagne--Autriche" source="Allemagne" target="Autriche" weight="784.0">
+        <attvalues>
+          <attvalue for="border_long" value="784.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.13333333333333333"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Allemagne--République tchèque" source="Allemagne" target="République tchèque" weight="646.0">
+        <attvalues>
+          <attvalue for="border_long" value="646.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.18181818181818182"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Allemagne--Suisse" source="Allemagne" target="Suisse" weight="334.0">
+        <attvalues>
+          <attvalue for="border_long" value="334.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Allemagne--Belgique" source="Allemagne" target="Belgique" weight="167.0">
+        <attvalues>
+          <attvalue for="border_long" value="167.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.3"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Allemagne--Pays-Bas" source="Allemagne" target="Pays-Bas" weight="577.0">
+        <attvalues>
+          <attvalue for="border_long" value="577.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Allemagne--Luxembourg" source="Allemagne" target="Luxembourg" weight="138.0">
+        <attvalues>
+          <attvalue for="border_long" value="138.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Allemagne--Danemark" source="Allemagne" target="Danemark" weight="68.0">
+        <attvalues>
+          <attvalue for="border_long" value="68.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0"></attvalue>
+          <attvalue for="embeddedness" value="0.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Pologne--Russie" source="Pologne" target="Russie" weight="206.0">
+        <attvalues>
+          <attvalue for="border_long" value="206.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.16666666666666666"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Pologne--Ukraine" source="Pologne" target="Ukraine" weight="526.0">
+        <attvalues>
+          <attvalue for="border_long" value="526.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2727272727272727"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Pologne--République tchèque" source="Pologne" target="République tchèque" weight="658.0">
+        <attvalues>
+          <attvalue for="border_long" value="658.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2222222222222222"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Pologne--Slovaquie" source="Pologne" target="Slovaquie" weight="444.0">
+        <attvalues>
+          <attvalue for="border_long" value="444.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russie--République populaire de Chine" source="Russie" target="République populaire de Chine" weight="4250.0">
+        <attvalues>
+          <attvalue for="border_long" value="4250.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.12"></attvalue>
+          <attvalue for="embeddedness" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russie--Ukraine" source="Russie" target="Ukraine" weight="1576.0">
+        <attvalues>
+          <attvalue for="border_long" value="1576.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.10526315789473684"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Inde--République populaire de Chine" source="Inde" target="République populaire de Chine" weight="3380.0">
+        <attvalues>
+          <attvalue for="border_long" value="3380.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.25"></attvalue>
+          <attvalue for="embeddedness" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Inde--Pakistan" source="Inde" target="Pakistan" weight="2912.0">
+        <attvalues>
+          <attvalue for="border_long" value="2912.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.1111111111111111"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Inde--Népal" source="Inde" target="Népal" weight="1690.0">
+        <attvalues>
+          <attvalue for="border_long" value="1690.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.14285714285714285"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Pakistan--République populaire de Chine" source="Pakistan" target="République populaire de Chine" weight="523.0">
+        <attvalues>
+          <attvalue for="border_long" value="523.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République populaire de Chine--Viêt Nam" source="République populaire de Chine" target="Viêt Nam" weight="1281.0">
+        <attvalues>
+          <attvalue for="border_long" value="1281.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.0625"></attvalue>
+          <attvalue for="embeddedness" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="République populaire de Chine--Tadjikistan" source="République populaire de Chine" target="Tadjikistan" weight="414.0">
+        <attvalues>
+          <attvalue for="border_long" value="414.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.125"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Soudan du Sud--Éthiopie" source="Soudan du Sud" target="Éthiopie" weight="883.0">
+        <attvalues>
+          <attvalue for="border_long" value="883.0"></attvalue>
+          <attvalue for="neighborhoodOverlap" value="0.2"></attvalue>
+          <attvalue for="embeddedness" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
