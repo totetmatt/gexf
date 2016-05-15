@@ -1,0 +1,2959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-05-15">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="latitude" title="latitude" type="double"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="position" title="position" type="string"></attribute>
+      <attribute id="longitude" title="longitude" type="double"></attribute>
+      <attribute id="image" title="image" type="string"></attribute>
+      <attribute id="weighted indegree" title="Weighted In-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted outdegree" title="Weighted Out-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="vote" title="vote" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Denmark" label="Denmark">
+        <attvalues>
+          <attvalue for="latitude" value="55.717"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="12.567"></attvalue>
+          <attvalue for="image" value="Denmark.png"></attvalue>
+          <attvalue for="weighted indegree" value="281.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="339.0"></attvalue>
+        </attvalues>
+        <viz:size value="67.27755"></viz:size>
+        <viz:position x="-766.461" y="1443.3357"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Norway" label="Norway">
+        <attvalues>
+          <attvalue for="latitude" value="59.933"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="10.683"></attvalue>
+          <attvalue for="image" value="Norway.png"></attvalue>
+          <attvalue for="weighted indegree" value="188.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="246.0"></attvalue>
+        </attvalues>
+        <viz:size value="60.436733"></viz:size>
+        <viz:position x="-997.64905" y="2416.2034"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Azerbaijan" label="Azerbaijan">
+        <attvalues>
+          <attvalue for="latitude" value="40.417"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="49.833"></attvalue>
+          <attvalue for="image" value="Azerbaijan.png"></attvalue>
+          <attvalue for="weighted indegree" value="234.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="292.0"></attvalue>
+        </attvalues>
+        <viz:size value="53.595917"></viz:size>
+        <viz:position x="3806.4978" y="-1395.7897"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Ukraine" label="Ukraine">
+        <attvalues>
+          <attvalue for="latitude" value="50.45"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="30.5"></attvalue>
+          <attvalue for="image" value="Ukraine.png"></attvalue>
+          <attvalue for="weighted indegree" value="214.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="272.0"></attvalue>
+        </attvalues>
+        <viz:size value="51.88571"></viz:size>
+        <viz:position x="1434.1205" y="365.57474"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Russia" label="Russia">
+        <attvalues>
+          <attvalue for="latitude" value="55.75"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="37.617"></attvalue>
+          <attvalue for="image" value="Russia.png"></attvalue>
+          <attvalue for="weighted indegree" value="174.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="232.0"></attvalue>
+        </attvalues>
+        <viz:size value="50.175507"></viz:size>
+        <viz:position x="2307.4568" y="1450.528"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Greece" label="Greece">
+        <attvalues>
+          <attvalue for="latitude" value="37.967"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="23.717"></attvalue>
+          <attvalue for="image" value="Greece.png"></attvalue>
+          <attvalue for="weighted indegree" value="152.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="210.0"></attvalue>
+        </attvalues>
+        <viz:size value="48.4653"></viz:size>
+        <viz:position x="601.76984" y="-1783.7681"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Malta" label="Malta">
+        <attvalues>
+          <attvalue for="latitude" value="35.883"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="14.5"></attvalue>
+          <attvalue for="image" value="Malta.png"></attvalue>
+          <attvalue for="weighted indegree" value="120.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="178.0"></attvalue>
+        </attvalues>
+        <viz:size value="41.62449"></viz:size>
+        <viz:position x="-529.2601" y="-2103.6995"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="The Netherlands" label="The Netherlands">
+        <attvalues>
+          <attvalue for="latitude" value="52.317"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="5.55"></attvalue>
+          <attvalue for="image" value="The Netherlands.png"></attvalue>
+          <attvalue for="weighted indegree" value="114.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="172.0"></attvalue>
+        </attvalues>
+        <viz:size value="36.493877"></viz:size>
+        <viz:position x="-1627.526" y="732.73083"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Italy" label="Italy">
+        <attvalues>
+          <attvalue for="latitude" value="41.9"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="12.483"></attvalue>
+          <attvalue for="image" value="Italy.png"></attvalue>
+          <attvalue for="weighted indegree" value="129.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="187.0"></attvalue>
+        </attvalues>
+        <viz:size value="36.493877"></viz:size>
+        <viz:position x="-776.76874" y="-1154.0635"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Moldova" label="Moldova">
+        <attvalues>
+          <attvalue for="latitude" value="47.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="28.917"></attvalue>
+          <attvalue for="image" value="Moldova.png"></attvalue>
+          <attvalue for="weighted indegree" value="71.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="129.0"></attvalue>
+        </attvalues>
+        <viz:size value="31.363264"></viz:size>
+        <viz:position x="1239.8685" y="-276.53653"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Belgium" label="Belgium">
+        <attvalues>
+          <attvalue for="latitude" value="50.85"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="4.35"></attvalue>
+          <attvalue for="image" value="Belgium.png"></attvalue>
+          <attvalue for="weighted indegree" value="71.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="129.0"></attvalue>
+        </attvalues>
+        <viz:size value="31.363264"></viz:size>
+        <viz:position x="-1774.7795" y="442.9888"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Hungary" label="Hungary">
+        <attvalues>
+          <attvalue for="latitude" value="47.433"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="19.25"></attvalue>
+          <attvalue for="image" value="Hungary.png"></attvalue>
+          <attvalue for="weighted indegree" value="84.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="142.0"></attvalue>
+        </attvalues>
+        <viz:size value="29.653059"></viz:size>
+        <viz:position x="53.618523" y="-198.30952"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Sweden" label="Sweden">
+        <attvalues>
+          <attvalue for="latitude" value="59.35"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="18.067"></attvalue>
+          <attvalue for="image" value="Sweden.png"></attvalue>
+          <attvalue for="weighted indegree" value="61.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="119.0"></attvalue>
+        </attvalues>
+        <viz:size value="27.942856"></viz:size>
+        <viz:position x="-91.548935" y="2274.6494"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Romania" label="Romania">
+        <attvalues>
+          <attvalue for="latitude" value="44.417"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="26.1"></attvalue>
+          <attvalue for="image" value="Romania.png"></attvalue>
+          <attvalue for="weighted indegree" value="65.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="123.0"></attvalue>
+        </attvalues>
+        <viz:size value="26.23265"></viz:size>
+        <viz:position x="894.19086" y="-730.557"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Belarus" label="Belarus">
+        <attvalues>
+          <attvalue for="latitude" value="53.917"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="27.55"></attvalue>
+          <attvalue for="image" value="Belarus.png"></attvalue>
+          <attvalue for="weighted indegree" value="48.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="106.0"></attvalue>
+        </attvalues>
+        <viz:size value="22.812246"></viz:size>
+        <viz:position x="1072.1222" y="1059.9099"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Iceland" label="Iceland">
+        <attvalues>
+          <attvalue for="latitude" value="64.133"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="-21.933"></attvalue>
+          <attvalue for="image" value="Iceland.png"></attvalue>
+          <attvalue for="weighted indegree" value="47.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="105.0"></attvalue>
+        </attvalues>
+        <viz:size value="21.102041"></viz:size>
+        <viz:position x="-5000.0" y="3517.1956"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Armenia" label="Armenia">
+        <attvalues>
+          <attvalue for="latitude" value="40.183333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="44.516667"></attvalue>
+          <attvalue for="image" value="Armenia.png"></attvalue>
+          <attvalue for="weighted indegree" value="41.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="99.0"></attvalue>
+        </attvalues>
+        <viz:size value="21.102041"></viz:size>
+        <viz:position x="3154.1238" y="-1433.3861"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="United Kingdom" label="United Kingdom">
+        <attvalues>
+          <attvalue for="latitude" value="51.5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="-0.117"></attvalue>
+          <attvalue for="image" value="United Kingdom.png"></attvalue>
+          <attvalue for="weighted indegree" value="24.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="82.0"></attvalue>
+        </attvalues>
+        <viz:size value="17.681633"></viz:size>
+        <viz:position x="-2322.931" y="570.21606"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Georgia" label="Georgia">
+        <attvalues>
+          <attvalue for="latitude" value="41.717"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="44.783"></attvalue>
+          <attvalue for="image" value="Georgia.png"></attvalue>
+          <attvalue for="weighted indegree" value="50.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="108.0"></attvalue>
+        </attvalues>
+        <viz:size value="17.681633"></viz:size>
+        <viz:position x="3186.806" y="-1184.1907"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Lithuania" label="Lithuania">
+        <attvalues>
+          <attvalue for="latitude" value="54.683"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="25.317"></attvalue>
+          <attvalue for="image" value="Lithuania.png"></attvalue>
+          <attvalue for="weighted indegree" value="17.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="75.0"></attvalue>
+        </attvalues>
+        <viz:size value="14.261223"></viz:size>
+        <viz:position x="798.1079" y="1220.9957"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="France" label="France">
+        <attvalues>
+          <attvalue for="latitude" value="48.857"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="2.351"></attvalue>
+          <attvalue for="image" value="France.png"></attvalue>
+          <attvalue for="weighted indegree" value="14.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="72.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.551021"></viz:size>
+        <viz:position x="-2020.0795" y="63.59747"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Finland" label="Finland">
+        <attvalues>
+          <attvalue for="latitude" value="60.167"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="24.933"></attvalue>
+          <attvalue for="image" value="Finland.png"></attvalue>
+          <attvalue for="weighted indegree" value="13.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="71.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.551021"></viz:size>
+        <viz:position x="750.98676" y="2473.7195"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Germany" label="Germany">
+        <attvalues>
+          <attvalue for="latitude" value="52.517"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="13.383"></attvalue>
+          <attvalue for="image" value="Germany.png"></attvalue>
+          <attvalue for="weighted indegree" value="18.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="76.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.551021"></viz:size>
+        <viz:position x="-666.32855" y="772.97"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Ireland" label="Ireland">
+        <attvalues>
+          <attvalue for="latitude" value="53.348"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="-6.26"></attvalue>
+          <attvalue for="image" value="Ireland.png"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="63.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.130611"></viz:size>
+        <viz:position x="-3076.746" y="942.155"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Estonia" label="Estonia">
+        <attvalues>
+          <attvalue for="latitude" value="59.417"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="24.75"></attvalue>
+          <attvalue for="image" value="Estonia.png"></attvalue>
+          <attvalue for="weighted indegree" value="19.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="77.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.130611"></viz:size>
+        <viz:position x="728.5306" y="2290.7927"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Spain" label="Spain">
+        <attvalues>
+          <attvalue for="latitude" value="40.433"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="finalist"></attvalue>
+          <attvalue for="longitude" value="-3.7"></attvalue>
+          <attvalue for="image" value="Spain.png"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="66.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.420408"></viz:size>
+        <viz:position x="-2762.6055" y="-1393.2104"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Cyprus" label="Cyprus">
+        <attvalues>
+          <attvalue for="latitude" value="35.133"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="33.467"></attvalue>
+          <attvalue for="image" value="Cyprus.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1798.2048" y="-2216.7595"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Latvia" label="Latvia">
+        <attvalues>
+          <attvalue for="latitude" value="56.95"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="24.1"></attvalue>
+          <attvalue for="image" value="Latvia.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="648.7683" y="1716.2985"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Austria" label="Austria">
+        <attvalues>
+          <attvalue for="latitude" value="48.2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="16.35"></attvalue>
+          <attvalue for="image" value="Austria.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-302.2442" y="-58.143837"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Slovenia" label="Slovenia">
+        <attvalues>
+          <attvalue for="latitude" value="46.05"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="14.5"></attvalue>
+          <attvalue for="image" value="Slovenia.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-529.2601" y="-445.97495"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Bulgaria" label="Bulgaria">
+        <attvalues>
+          <attvalue for="latitude" value="42.683"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="23.317"></attvalue>
+          <attvalue for="image" value="Bulgaria.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="552.6853" y="-1024.1714"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Serbia" label="Serbia">
+        <attvalues>
+          <attvalue for="latitude" value="44.8"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="20.467"></attvalue>
+          <attvalue for="image" value="Serbia.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="202.95816" y="-664.54065"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="Croatia" label="Croatia">
+        <attvalues>
+          <attvalue for="latitude" value="45.8"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="16.0"></attvalue>
+          <attvalue for="image" value="Croatia.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-345.19315" y="-490.07767"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Switzerland" label="Switzerland">
+        <attvalues>
+          <attvalue for="latitude" value="46.95"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="7.45"></attvalue>
+          <attvalue for="image" value="Switzerland.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1394.3746" y="-285.529"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Albania" label="Albania">
+        <attvalues>
+          <attvalue for="latitude" value="41.333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="19.8"></attvalue>
+          <attvalue for="image" value="Albania.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="121.109726" y="-1247.1311"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="F.Y.R. Macedonia" label="F.Y.R. Macedonia">
+        <attvalues>
+          <attvalue for="latitude" value="42.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="21.433333"></attvalue>
+          <attvalue for="image" value="F.Y.R. Macedonia.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="321.53812" y="-1137.564"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Israel" label="Israel">
+        <attvalues>
+          <attvalue for="latitude" value="31.783"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="35.217"></attvalue>
+          <attvalue for="image" value="Israel.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="2012.9496" y="-2709.6248"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="San Marino" label="San Marino">
+        <attvalues>
+          <attvalue for="latitude" value="43.933"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="12.433"></attvalue>
+          <attvalue for="image" value="San Marino.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-782.9043" y="-813.3671"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="Montenegro" label="Montenegro">
+        <attvalues>
+          <attvalue for="latitude" value="42.783"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="position" value="no-finalist"></attvalue>
+          <attvalue for="longitude" value="19.467"></attvalue>
+          <attvalue for="image" value="Montenegro.png"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="58.0"></attvalue>
+          <attvalue for="weighted degree" value="58.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="80.24687" y="-1007.46564"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="Bulgaria--&gt;Azerbaijan" source="Bulgaria" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;United Kingdom" source="Ireland" target="United Kingdom" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;Ukraine" source="Malta" target="Ukraine" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Belarus" source="Israel" target="Belarus" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;Georgia" source="Armenia" target="Georgia" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;The Netherlands" source="Ireland" target="The Netherlands" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;Belgium" source="Slovenia" target="Belgium" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Denmark" source="Georgia" target="Denmark" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;The Netherlands" source="Russia" target="The Netherlands" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Russia" source="Israel" target="Russia" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;Russia" source="United Kingdom" target="Russia" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;Azerbaijan" source="Ireland" target="Azerbaijan" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Belgium" source="Serbia" target="Belgium" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;The Netherlands" source="United Kingdom" target="The Netherlands" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;Denmark" source="United Kingdom" target="Denmark" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;Russia" source="Spain" target="Russia" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Malta" source="Belarus" target="Malta" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;Armenia" source="San Marino" target="Armenia">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;Norway" source="Switzerland" target="Norway" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;Greece" source="Belgium" target="Greece" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;Belgium" source="Sweden" target="Belgium" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Norway" source="Montenegro" target="Norway" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;Italy" source="Spain" target="Italy" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Sweden" source="The Netherlands" target="Sweden" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Spain" source="Italy" target="Spain" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Belarus" source="Georgia" target="Belarus" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgaria--&gt;Moldova" source="Bulgaria" target="Moldova" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Ukraine" source="Israel" target="Ukraine" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;Russia" source="Croatia" target="Russia" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;Russia" source="Denmark" target="Russia" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Malta" source="Latvia" target="Malta" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Malta" source="Italy" target="Malta" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;Norway" source="Slovenia" target="Norway" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;Denmark" source="Hungary" target="Denmark" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Azerbaijan" source="Ukraine" target="Azerbaijan" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Denmark" source="Israel" target="Denmark" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;Malta" source="United Kingdom" target="Malta" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;Denmark" source="Spain" target="Denmark" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Sweden" source="Germany" target="Sweden" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Ukraine" source="Serbia" target="Ukraine" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Azerbaijan" source="Belarus" target="Azerbaijan" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Romania" source="France" target="Romania">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;Norway" source="F.Y.R. Macedonia" target="Norway" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Belarus" source="Montenegro" target="Belarus" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;Russia" source="Ireland" target="Russia" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Ukraine" source="Moldova" target="Ukraine" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;Germany" source="Spain" target="Germany" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;Ukraine" source="United Kingdom" target="Ukraine" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Norway" source="Moldova" target="Norway" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Ukraine" source="The Netherlands" target="Ukraine" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;The Netherlands" source="F.Y.R. Macedonia" target="The Netherlands" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Greece" source="Italy" target="Greece" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;Malta" source="San Marino" target="Malta" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;Belgium" source="San Marino" target="Belgium" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;Finland" source="San Marino" target="Finland" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;Armenia" source="Hungary" target="Armenia" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgaria--&gt;Ukraine" source="Bulgaria" target="Ukraine" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Lithuania" source="Italy" target="Lithuania" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;Belgium" source="Finland" target="Belgium" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Denmark" source="Serbia" target="Denmark" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Malta" source="The Netherlands" target="Malta" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Greece" source="Germany" target="Greece" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;Italy" source="Armenia" target="Italy">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Ukraine" source="Latvia" target="Ukraine" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;United Kingdom" source="Slovenia" target="United Kingdom">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;Russia" source="Cyprus" target="Russia" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Finland" source="Israel" target="Finland" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;Norway" source="Albania" target="Norway" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Denmark" source="Montenegro" target="Denmark" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;Sweden" source="Croatia" target="Sweden">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgaria--&gt;Russia" source="Bulgaria" target="Russia" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;The Netherlands" source="Switzerland" target="The Netherlands" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;Belarus" source="Malta" target="Belarus" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;Romania" source="Austria" target="Romania" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;Azerbaijan" source="Croatia" target="Azerbaijan" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;Hungary" source="Lithuania" target="Hungary" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;Greece" source="San Marino" target="Greece" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;Norway" source="Sweden" target="Norway" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;Denmark" source="Slovenia" target="Denmark" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Azerbaijan" source="Montenegro" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;United Kingdom" source="Malta" target="United Kingdom" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;Belarus" source="F.Y.R. Macedonia" target="Belarus" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;Estonia" source="Finland" target="Estonia" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Germany" source="Israel" target="Germany" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;Italy" source="Belgium" target="Italy" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;Greece" source="United Kingdom" target="Greece" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;Italy" source="Croatia" target="Italy" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Azerbaijan" source="Israel" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;Belgium" source="Estonia" target="Belgium" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Russia" source="Ukraine" target="Russia" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;Azerbaijan" source="Malta" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;Norway" source="Lithuania" target="Norway" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Azerbaijan" source="Serbia" target="Azerbaijan" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Armenia" source="Georgia" target="Armenia" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;Denmark" source="Malta" target="Denmark" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;The Netherlands" source="Norway" target="The Netherlands" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Greece" source="The Netherlands" target="Greece">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;Russia" source="Belgium" target="Russia" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;United Kingdom" source="Belgium" target="United Kingdom">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;Norway" source="Hungary" target="Norway" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Malta" source="Azerbaijan" target="Malta" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Moldova" source="Belarus" target="Moldova" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Romania" source="Moldova" target="Romania" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Moldova" source="Israel" target="Moldova">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;Romania" source="Albania" target="Romania" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgaria--&gt;Norway" source="Bulgaria" target="Norway">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;Moldova" source="Austria" target="Moldova" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;Romania" source="Norway" target="Romania" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgaria--&gt;Hungary" source="Bulgaria" target="Hungary" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;Greece" source="Croatia" target="Greece" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;Iceland" source="Finland" target="Iceland" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;Norway" source="Romania" target="Norway" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Sweden" source="Latvia" target="Sweden" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Malta" source="Georgia" target="Malta" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;Denmark" source="Finland" target="Denmark" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;Belgium" source="Hungary" target="Belgium" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Hungary" source="The Netherlands" target="Hungary" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;France" source="Cyprus" target="France">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;Malta" source="Hungary" target="Malta" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;Italy" source="Switzerland" target="Italy" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;Azerbaijan" source="Spain" target="Azerbaijan" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Denmark" source="Moldova" target="Denmark" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Norway" source="Serbia" target="Norway" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;Azerbaijan" source="Hungary" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;Georgia" source="Lithuania" target="Georgia" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Moldova" source="Ukraine" target="Moldova" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;Italy" source="Malta" target="Italy" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;Belgium" source="Denmark" target="Belgium" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Azerbaijan" source="Moldova" target="Azerbaijan" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Italy" source="Serbia" target="Italy" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;Norway" source="Malta" target="Norway" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Malta" source="France" target="Malta" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Belarus" source="Moldova" target="Belarus" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;Armenia" source="Russia" target="Armenia" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Moldova" source="Montenegro" target="Moldova" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;Greece" source="Russia" target="Greece" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;Greece" source="Armenia" target="Greece" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;Azerbaijan" source="Austria" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgaria--&gt;Denmark" source="Bulgaria" target="Denmark" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Moldova" source="France" target="Moldova" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;Azerbaijan" source="Iceland" target="Azerbaijan" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;Russia" source="Estonia" target="Russia" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Denmark" source="The Netherlands" target="Denmark" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Lithuania" source="Azerbaijan" target="Lithuania" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;Denmark" source="Sweden" target="Denmark" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;Azerbaijan" source="Switzerland" target="Azerbaijan" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Russia" source="Serbia" target="Russia" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;Azerbaijan" source="Romania" target="Azerbaijan" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Georgia" source="Montenegro" target="Georgia" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;Denmark" source="Romania" target="Denmark" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Russia" source="France" target="Russia" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;France" source="Iceland" target="France" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Romania" source="Italy" target="Romania">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Georgia" source="Ukraine" target="Georgia" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;Azerbaijan" source="Russia" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Hungary" source="Greece" target="Hungary" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;The Netherlands" source="Romania" target="The Netherlands" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Estonia" source="Latvia" target="Estonia" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;Iceland" source="Sweden" target="Iceland" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;Greece" source="Finland" target="Greece">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;Malta" source="Estonia" target="Malta" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;Italy" source="Romania" target="Italy">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgaria--&gt;Sweden" source="Bulgaria" target="Sweden" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;Malta" source="Iceland" target="Malta" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Azerbaijan" source="The Netherlands" target="Azerbaijan" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Norway" source="Latvia" target="Norway" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;Romania" source="Iceland" target="Romania" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;Italy" source="Cyprus" target="Italy" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;Hungary" source="Croatia" target="Hungary" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;Italy" source="F.Y.R. Macedonia" target="Italy" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;Italy" source="Austria" target="Italy" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;Hungary" source="Sweden" target="Hungary" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Lithuania" source="Belarus" target="Lithuania" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;Norway" source="Denmark" target="Norway" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;Denmark" source="Estonia" target="Denmark" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Belgium" source="The Netherlands" target="Belgium" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;Sweden" source="Denmark" target="Sweden" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Greece" source="Belarus" target="Greece" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;Denmark" source="Croatia" target="Denmark" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;Hungary" source="Estonia" target="Hungary" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;Armenia" source="Malta" target="Armenia">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Moldova" source="Azerbaijan" target="Moldova">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Russia" source="Moldova" target="Russia" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;Russia" source="Sweden" target="Russia" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;Hungary" source="San Marino" target="Hungary" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Georgia" source="Greece" target="Georgia" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;Ukraine" source="Croatia" target="Ukraine" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Armenia" source="Ukraine" target="Armenia" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;Estonia" source="Lithuania" target="Estonia" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Sweden" source="Serbia" target="Sweden">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;Norway" source="Iceland" target="Norway" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;Belgium" source="United Kingdom" target="Belgium" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Georgia" source="Azerbaijan" target="Georgia" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;Germany" source="Switzerland" target="Germany">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;Hungary" source="Finland" target="Hungary" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;Germany" source="Austria" target="Germany" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;Ukraine" source="Estonia" target="Ukraine" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;Azerbaijan" source="Cyprus" target="Azerbaijan" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Ukraine" source="Georgia" target="Ukraine" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;The Netherlands" source="Belgium" target="The Netherlands" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;The Netherlands" source="Hungary" target="The Netherlands" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;Romania" source="United Kingdom" target="Romania" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Armenia" source="Belarus" target="Armenia" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Belarus" source="Ukraine" target="Belarus" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Sweden" source="Moldova" target="Sweden" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Italy" source="Georgia" target="Italy" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;Ukraine" source="Iceland" target="Ukraine" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;Russia" source="Iceland" target="Russia">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Norway" source="Azerbaijan" target="Norway" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Norway" source="Germany" target="Norway" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;Denmark" source="Austria" target="Denmark" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;Finland" source="Denmark" target="Finland" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Denmark" source="Belarus" target="Denmark">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;France" source="Armenia" target="France" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;Ireland" source="United Kingdom" target="Ireland">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;Sweden" source="Iceland" target="Sweden" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;The Netherlands" source="Albania" target="The Netherlands" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;United Kingdom" source="Romania" target="United Kingdom" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;Ukraine" source="Lithuania" target="Ukraine" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;Norway" source="Cyprus" target="Norway" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Denmark" source="France" target="Denmark" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Azerbaijan" source="Latvia" target="Azerbaijan" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;Moldova" source="Romania" target="Moldova" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;Russia" source="F.Y.R. Macedonia" target="Russia" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;Ukraine" source="Belgium" target="Ukraine" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;The Netherlands" source="Denmark" target="The Netherlands" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Greece" source="Montenegro" target="Greece" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Greece" source="Latvia" target="Greece">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Denmark" source="Azerbaijan" target="Denmark" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;Denmark" source="Ireland" target="Denmark" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;Greece" source="Switzerland" target="Greece" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Norway" source="Greece" target="Norway" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;Denmark" source="Armenia" target="Denmark" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Ukraine" source="Belarus" target="Ukraine" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Armenia" source="France" target="Armenia" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;Belgium" source="Norway" target="Belgium" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;Iceland" source="Estonia" target="Iceland" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;Ukraine" source="Austria" target="Ukraine">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;Ukraine" source="Russia" target="Ukraine">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="United Kingdom--&gt;Iceland" source="United Kingdom" target="Iceland" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;United Kingdom" source="Sweden" target="United Kingdom">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;Iceland" source="Hungary" target="Iceland" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;Ireland" source="Cyprus" target="Ireland" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Ukraine" source="Azerbaijan" target="Ukraine" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;Russia" source="Slovenia" target="Russia" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;The Netherlands" source="Lithuania" target="The Netherlands" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;Belgium" source="Austria" target="Belgium" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;Belgium" source="Russia" target="Belgium" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Ukraine" source="Greece" target="Ukraine" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Lithuania" source="Ukraine" target="Lithuania">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Norway" source="Israel" target="Norway" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;Greece" source="Norway" target="Greece" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;Norway" source="Spain" target="Norway" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;Ukraine" source="Norway" target="Ukraine">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;Italy" source="Albania" target="Italy" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Hungary" source="Germany" target="Hungary" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;Iceland" source="Switzerland" target="Iceland" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;Russia" source="Armenia" target="Russia" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Italy" source="Greece" target="Italy" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;Ukraine" source="Romania" target="Ukraine" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;Lithuania" source="Ireland" target="Lithuania">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;Germany" source="Albania" target="Germany" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;Greece" source="F.Y.R. Macedonia" target="Greece" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;Italy" source="San Marino" target="Italy" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Russia" source="Montenegro" target="Russia" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Denmark" source="Greece" target="Denmark" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Azerbaijan" source="Germany" target="Azerbaijan" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;Belarus" source="Armenia" target="Belarus" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;Denmark" source="Iceland" target="Denmark" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;The Netherlands" source="Croatia" target="The Netherlands" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;Greece" source="Hungary" target="Greece">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Finland" source="France" target="Finland" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;Sweden" source="Estonia" target="Sweden">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Italy" source="Montenegro" target="Italy" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;Belgium" source="Ireland" target="Belgium" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Denmark" source="Ukraine" target="Denmark" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;Italy" source="Estonia" target="Italy" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;France" source="San Marino" target="France" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;Moldova" source="Russia" target="Moldova" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Norway" source="The Netherlands" target="Norway" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Russia" source="Georgia" target="Russia" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Belarus" source="Greece" target="Belarus">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Azerbaijan" source="Georgia" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Malta" source="Ukraine" target="Malta" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;Malta" source="Denmark" target="Malta" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Russia" source="Belarus" target="Russia" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;Sweden" source="Slovenia" target="Sweden" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Iceland" source="Germany" target="Iceland" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;Georgia" source="Russia" target="Georgia" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Belarus" source="Azerbaijan" target="Belarus" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;Norway" source="Armenia" target="Norway" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;Hungary" source="Albania" target="Hungary" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;Hungary" source="Norway" target="Hungary" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;The Netherlands" source="Sweden" target="The Netherlands" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Iceland--&gt;The Netherlands" source="Iceland" target="The Netherlands" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;Norway" source="San Marino" target="Norway" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;United Kingdom" source="Spain" target="United Kingdom" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;Ukraine" source="Cyprus" target="Ukraine" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;Ukraine" source="Denmark" target="Ukraine" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;Greece" source="Malta" target="Greece" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;Greece" source="Austria" target="Greece" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;Denmark" source="Norway" target="Denmark" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Georgia" source="Moldova" target="Georgia" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Russia" source="Latvia" target="Russia" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Belgium" source="France" target="Belgium" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Azerbaijan" source="France" target="Azerbaijan" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;The Netherlands" source="Slovenia" target="The Netherlands" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Moldova--&gt;Armenia" source="Moldova" target="Armenia">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Lithuania" source="Georgia" target="Lithuania">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;Greece" source="Albania" target="Greece" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Austria--&gt;The Netherlands" source="Austria" target="The Netherlands" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;Romania" source="Sweden" target="Romania" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;Sweden" source="Norway" target="Sweden" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Israel--&gt;Greece" source="Israel" target="Greece" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;Azerbaijan" source="Belgium" target="Azerbaijan" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;Denmark" source="Russia" target="Denmark" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="San Marino--&gt;Azerbaijan" source="San Marino" target="Azerbaijan" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgaria--&gt;Armenia" source="Bulgaria" target="Armenia" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Croatia--&gt;Norway" source="Croatia" target="Norway" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;Russia" source="Finland" target="Russia" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;Denmark" source="Belgium" target="Denmark" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;Denmark" source="F.Y.R. Macedonia" target="Denmark" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;France" source="F.Y.R. Macedonia" target="France">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;Azerbaijan" source="Albania" target="Azerbaijan" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;Malta" source="Norway" target="Malta" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;Moldova" source="Spain" target="Moldova" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Denmark" source="Latvia" target="Denmark" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;Malta" source="Romania" target="Malta" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;Malta" source="Cyprus" target="Malta" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;Hungary" source="Switzerland" target="Hungary" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Denmark" source="Italy" target="Denmark" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;Denmark" source="Lithuania" target="Denmark" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;United Kingdom" source="Switzerland" target="United Kingdom" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;Denmark" source="Albania" target="Denmark">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Sweden--&gt;Ireland" source="Sweden" target="Ireland" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Finland" source="Germany" target="Finland">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Norway" source="Italy" target="Norway" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Malta" source="Germany" target="Malta" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;Moldova" source="Ireland" target="Moldova" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;Malta" source="Armenia" target="Malta" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Romania--&gt;Greece" source="Romania" target="Greece" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Albania--&gt;Spain" source="Albania" target="Spain" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Ukraine" source="Italy" target="Ukraine" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;Denmark" source="Cyprus" target="Denmark" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Russia--&gt;Norway" source="Russia" target="Norway" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Malta" source="Greece" target="Malta" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belarus--&gt;Norway" source="Belarus" target="Norway" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;The Netherlands" source="Finland" target="The Netherlands" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;Greece" source="Denmark" target="Greece" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;Ukraine" source="Spain" target="Ukraine" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;Azerbaijan" source="Slovenia" target="Azerbaijan" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;Malta" source="F.Y.R. Macedonia" target="Malta" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;Moldova" source="Belgium" target="Moldova" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Russia" source="Germany" target="Russia" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Cyprus--&gt;Greece" source="Cyprus" target="Greece" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;Iceland" source="Slovenia" target="Iceland" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;Norway" source="Finland" target="Norway" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;Ukraine" source="Ireland" target="Ukraine" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Moldova" source="Serbia" target="Moldova" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Slovenia--&gt;Italy" source="Slovenia" target="Italy" weight="8.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Montenegro--&gt;Romania" source="Montenegro" target="Romania">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Greece" source="Azerbaijan" target="Greece" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="The Netherlands--&gt;Russia" source="The Netherlands" target="Russia" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Serbia--&gt;Hungary" source="Serbia" target="Hungary" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ukraine--&gt;Norway" source="Ukraine" target="Norway" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Armenia--&gt;Ukraine" source="Armenia" target="Ukraine" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Germany--&gt;Denmark" source="Germany" target="Denmark" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;Belarus" source="Lithuania" target="Belarus">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Hungary" source="Italy" target="Hungary" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Denmark--&gt;Iceland" source="Denmark" target="Iceland">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Hungary--&gt;Ukraine" source="Hungary" target="Ukraine" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Romania" source="Greece" target="Romania" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Azerbaijan--&gt;Romania" source="Azerbaijan" target="Romania" weight="6.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Switzerland--&gt;Denmark" source="Switzerland" target="Denmark" weight="3.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="F.Y.R. Macedonia--&gt;Moldova" source="F.Y.R. Macedonia" target="Moldova" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Italy--&gt;Moldova" source="Italy" target="Moldova" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;Azerbaijan" source="Lithuania" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Georgia--&gt;Norway" source="Georgia" target="Norway" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Spain--&gt;Malta" source="Spain" target="Malta">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Belgium--&gt;Norway" source="Belgium" target="Norway" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Latvia--&gt;Belgium" source="Latvia" target="Belgium" weight="2.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Finland--&gt;Sweden" source="Finland" target="Sweden" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Estonia--&gt;The Netherlands" source="Estonia" target="The Netherlands" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Norway--&gt;Iceland" source="Norway" target="Iceland" weight="4.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="France--&gt;Italy" source="France" target="Italy" weight="10.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Greece--&gt;Azerbaijan" source="Greece" target="Azerbaijan" weight="12.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Lithuania--&gt;Russia" source="Lithuania" target="Russia" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Bulgaria--&gt;Greece" source="Bulgaria" target="Greece" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Ireland--&gt;Sweden" source="Ireland" target="Sweden" weight="5.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="Malta--&gt;Romania" source="Malta" target="Romania" weight="7.0">
+        <viz:color r="127" g="127" b="127"></viz:color>
+        <attvalues>
+          <attvalue for="vote" value="7"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
