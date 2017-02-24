@@ -8,6 +8,7 @@ I can't enforce it, but if you're using one of the resource in your blog, paper,
 
 # List
 * Cac40 : Social network between of French Cac40 administrators (Source Wikipedia / Boursorama)
+* Crossed Chroma : Small World Network based on Crossed and Chroma Movies (http://www.dailymotion.com/karimdebbache)
 * Eurovision : Jury votes in Eurovision (Source http://www.eurovision.tv/)
 * Hanzi : Graph of Chinese characters (Source http://www.mdbg.net)
 * Internet Tube: Network of Internet cable. (Source http://geography.oii.ox.ac.uk/)
