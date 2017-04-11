@@ -1,0 +1,3104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted indegree" title="Weighted In-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted outdegree" title="Weighted Out-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="light-armor" label="light-armor">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="361.10223" y="235.90501"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="iron-plate" label="iron-plate">
+        <attvalues>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="155.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="51.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="52.0"></attvalue>
+        </attvalues>
+        <viz:size value="42.211536"></viz:size>
+        <viz:position x="312.8687" y="147.89331"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="heavy-armor" label="heavy-armor">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-37.79803" y="-17.00152"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="copper-plate" label="copper-plate">
+        <attvalues>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="110.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="18.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="19.0"></attvalue>
+        </attvalues>
+        <viz:size value="19.711538"></viz:size>
+        <viz:position x="72.50953" y="-66.960976"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="steel-plate" label="steel-plate">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="93.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="56.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="57.0"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-148.62576" y="99.253174"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="modular-armor" label="modular-armor">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3389830508474576"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4408333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-388.89966" y="-102.006935"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="advanced-circuit" label="advanced-circuit">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35555555555555557"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47083333333333327"></attvalue>
+          <attvalue for="betweenesscentrality" value="460.99999999999994"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="31.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="34.0"></attvalue>
+        </attvalues>
+        <viz:size value="31.826923"></viz:size>
+        <viz:position x="-322.81583" y="-302.0197"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="processing-unit" label="processing-unit">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31666666666666665"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4364661654135337"></attvalue>
+          <attvalue for="betweenesscentrality" value="188.8666666666667"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="20.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="23.0"></attvalue>
+        </attvalues>
+        <viz:size value="22.307693"></viz:size>
+        <viz:position x="-543.89026" y="-76.387634"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="power-armor" label="power-armor">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33766233766233766"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.43974358974358974"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-516.6747" y="47.29257"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="alien-artifact" label="alien-artifact">
+        <attvalues>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="16.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="16.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.057693"></viz:size>
+        <viz:position x="-722.9138" y="-156.11636"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="electric-engine-unit" label="electric-engine-unit">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5020833333333332"></attvalue>
+          <attvalue for="betweenesscentrality" value="67.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.192308"></viz:size>
+        <viz:position x="-317.99637" y="139.50288"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="power-armor-mk2" label="power-armor-mk2">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32142857142857145"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.45035273368606704"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="5.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-632.8146" y="-133.8119"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="speed-module-3" label="speed-module-3">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.323943661971831"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4438923395445134"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.25"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-638.5864" y="-259.49576"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="effectivity-module-3" label="effectivity-module-3">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.323943661971831"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4438923395445134"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.25"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-628.8265" y="-210.97699"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="energy-shield-equipment" label="energy-shield-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3148148148148148"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4058823529411764"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.166666666666666"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-377.86136" y="-139.5878"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="energy-shield-mk2-equipment" label="energy-shield-mk2-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3687074829931973"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-487.52267" y="-136.47583"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="battery-equipment" label="battery-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2830188679245283"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.39730158730158727"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-387.37598" y="54.94754"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="battery" label="battery">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3111111111111111"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4673469387755102"></attvalue>
+          <attvalue for="betweenesscentrality" value="78.5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.057693"></viz:size>
+        <viz:position x="-276.6061" y="18.343443"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="battery-mk2-equipment" label="battery-mk2-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.29333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.38073593073593065"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-507.36105" y="10.067629"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="solar-panel-equipment" label="solar-panel-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3088235294117647"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.42267573696145117"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-349.01282" y="-11.744915"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="solar-panel" label="solar-panel">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5833333333333334"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6904761904761905"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.916666666666666"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="-179.44177" y="-62.68037"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="fusion-reactor-equipment" label="fusion-reactor-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25925925925925924"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35085034013605443"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-679.8406" y="-103.422134"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="personal-laser-defense-equipment" label="personal-laser-defense-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3055555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.41482683982683977"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-407.29404" y="9.257957"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="laser-turret" label="laser-turret">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.30357142857142855"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4387955182072829"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.666666666666666"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="-316.3352" y="-52.53867"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="discharge-defense-equipment" label="discharge-defense-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3055555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.41482683982683977"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-395.56897" y="-19.79413"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="exoskeleton-equipment" label="exoskeleton-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32894736842105265"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4173333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-418.26492" y="86.386826"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="night-vision-equipment" label="night-vision-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3148148148148148"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4058823529411764"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-271.0933" y="-118.68958"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="personal-roboport-equipment" label="personal-roboport-equipment">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3188405797101449"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.44891774891774894"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-214.18167" y="-39.298645"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="iron-gear-wheel" label="iron-gear-wheel">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="22.83333333333334"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="40.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="41.0"></attvalue>
+        </attvalues>
+        <viz:size value="37.01923"></viz:size>
+        <viz:position x="368.7743" y="-63.826275"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="repair-pack" label="repair-pack">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5595238095238095"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="272.67767" y="-208.2524"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="electronic-circuit" label="electronic-circuit">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="205.16666666666669"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="50.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="52.0"></attvalue>
+        </attvalues>
+        <viz:size value="48.26923"></viz:size>
+        <viz:position x="100.77902" y="-267.95688"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="iron-axe" label="iron-axe">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.75"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="285.85663" y="286.22458"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="iron-stick" label="iron-stick">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.461538"></viz:size>
+        <viz:position x="192.14429" y="285.8841"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="steel-axe" label="steel-axe">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7083333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="16.866125" y="239.74413"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="gun-turret" label="gun-turret">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7142857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="265.95395" y="6.2388906"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="flamethrower-turret" label="flamethrower-turret">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8055555555555555"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="138.5056" y="124.926865"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="pipe" label="pipe">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="12.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="13.0"></attvalue>
+        </attvalues>
+        <viz:size value="14.519231"></viz:size>
+        <viz:position x="180.78564" y="220.32648"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="engine-unit" label="engine-unit">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="23.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.326923"></viz:size>
+        <viz:position x="48.65829" y="95.09465"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="rocket-silo" label="rocket-silo">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.358974358974359"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47380952380952385"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="5.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-240.2763" y="263.05545"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="concrete" label="concrete">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.875"></attvalue>
+          <attvalue for="betweenesscentrality" value="8.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="11.0"></attvalue>
+          <attvalue for="weighted outdegree" value="30.0"></attvalue>
+          <attvalue for="weighted degree" value="41.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="-25.24019" y="517.66864"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="land-mine" label="land-mine">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.325"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.441025641025641"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="8.0"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-149.40506" y="241.21863"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="explosives" label="explosives">
+        <attvalues>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.26666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.44176587301587306"></attvalue>
+          <attvalue for="betweenesscentrality" value="42.5"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="9.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.192308"></viz:size>
+        <viz:position x="-135.1078" y="351.77106"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="pistol" label="pistol">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="191.31902" y="50.137867"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="submachine-gun" label="submachine-gun">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7142857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="292.56357" y="19.387266"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="rocket-launcher" label="rocket-launcher">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6547619047619048"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="278.93884" y="-113.81152"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="flame-thrower" label="flame-thrower">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7083333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="111.994644" y="39.698826"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="flame-thrower-ammo" label="flame-thrower-ammo">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.42857142857142855"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.587037037037037"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="186.81013" y="533.71155"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="light-oil" label="light-oil">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34782608695652173"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5562499999999999"></attvalue>
+          <attvalue for="betweenesscentrality" value="65.86666666666667"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="4.0"></attvalue>
+          <attvalue for="weighted outdegree" value="18.0"></attvalue>
+          <attvalue for="weighted degree" value="22.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.596154"></viz:size>
+        <viz:position x="45.951263" y="646.552"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="heavy-oil" label="heavy-oil">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3181818181818182"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4928571428571429"></attvalue>
+          <attvalue for="betweenesscentrality" value="53.866666666666674"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="5.0"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.461538"></viz:size>
+        <viz:position x="105.27185" y="636.5897"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="rocket" label="rocket">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3148148148148148"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4485994397759104"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="55.11951" y="231.05733"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="explosive-rocket" label="explosive-rocket">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.29508196721311475"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.39775132275132274"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-42.69065" y="340.64267"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="firearm-magazine" label="firearm-magazine">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="381.55298" y="221.656"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="piercing-rounds-magazine" label="piercing-rounds-magazine">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.5"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-50.782566" y="-147.13379"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="shotgun" label="shotgun">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7857142857142857"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="362.343" y="-186.36089"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="wood" label="wood">
+        <attvalues>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.461538"></viz:size>
+        <viz:position x="379.9366" y="-453.4078"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="combat-shotgun" label="combat-shotgun">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6153846153846154"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7291666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="201.10823" y="-151.25105"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="shotgun-shell" label="shotgun-shell">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="214.47563" y="34.841732"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="piercing-shotgun-shell" label="piercing-shotgun-shell">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-65.5734" y="-20.73585"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="defender-capsule" label="defender-capsule">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5294117647058824"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6296296296296295"></attvalue>
+          <attvalue for="betweenesscentrality" value="9.333333333333332"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-30.105848" y="-265.60846"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="distractor-capsule" label="distractor-capsule">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31746031746031744"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.39916666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="10.333333333333332"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-229.98906" y="-441.7447"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="destroyer-capsule" label="destroyer-capsule">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2682926829268293"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34967532467532475"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-276.8659" y="-492.35666"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="speed-module" label="speed-module">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.288135593220339"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3848739495798319"></attvalue>
+          <attvalue for="betweenesscentrality" value="31.999999999999996"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="4.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.461538"></viz:size>
+        <viz:position x="-285.7057" y="-420.3086"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="poison-capsule" label="poison-capsule">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47058823529411764"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6145833333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-9.479733" y="51.354443"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="coal" label="coal">
+        <attvalues>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.326923"></viz:size>
+        <viz:position x="-64.82527" y="276.29703"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="slowdown-capsule" label="slowdown-capsule">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47058823529411764"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6145833333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-31.69382" y="34.110672"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="grenade" label="grenade">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.75"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.5"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="55.95294" y="316.0566"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="cluster-grenade" label="cluster-grenade">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34146341463414637"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.48095238095238096"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-82.56357" y="322.26794"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="discharge-defense-remote" label="discharge-defense-remote">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4861111111111111"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="114.372925" y="-370.33328"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="cannon-shell" label="cannon-shell">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5142857142857143"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-207.23969" y="349.3923"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="plastic-bar" label="plastic-bar">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3055555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.44783549783549786"></attvalue>
+          <attvalue for="betweenesscentrality" value="347.8666666666667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.326923"></viz:size>
+        <viz:position x="-244.99326" y="408.10132"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="explosive-cannon-shell" label="explosive-cannon-shell">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5142857142857143"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-235.82773" y="337.8779"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="logistic-robot" label="logistic-robot">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3170731707317073"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.38269230769230766"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-281.61133" y="-219.1397"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="flying-robot-frame" label="flying-robot-frame">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36065573770491804"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47272727272727283"></attvalue>
+          <attvalue for="betweenesscentrality" value="30.5"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="-212.05685" y="-151.66173"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="construction-robot" label="construction-robot">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2875"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.37142857142857133"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-82.77846" y="-237.38824"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="logistic-chest-active-provider" label="logistic-chest-active-provider">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32727272727272727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4388888888888889"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-149.77908" y="-354.0578"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="steel-chest" label="steel-chest">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.611111111111111"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="4.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.461538"></viz:size>
+        <viz:position x="-166.75871" y="-393.77142"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="logistic-chest-passive-provider" label="logistic-chest-passive-provider">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32727272727272727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4388888888888889"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-116.80408" y="-401.40683"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="logistic-chest-storage" label="logistic-chest-storage">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32727272727272727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4388888888888889"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-124.25874" y="-371.29623"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="logistic-chest-requester" label="logistic-chest-requester">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32727272727272727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4388888888888889"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-139.34474" y="-423.2911"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="roboport" label="roboport">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32727272727272727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4388888888888889"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-67.07225" y="-117.3721"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="blueprint" label="blueprint">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.27419354838709675"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34075630252100847"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-353.502" y="-379.3614"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="deconstruction-planner" label="deconstruction-planner">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.27419354838709675"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34075630252100847"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-390.82535" y="-347.76416"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="blueprint-book" label="blueprint-book">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.27419354838709675"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34075630252100847"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-375.31293" y="-367.73093"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="transport-belt" label="transport-belt">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.75"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.166666666666666"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.326923"></viz:size>
+        <viz:position x="544.8881" y="-50.38081"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="fast-transport-belt" label="fast-transport-belt">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7083333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="588.273" y="-20.04915"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="express-transport-belt" label="express-transport-belt">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36363636363636365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5097222222222221"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="559.68524" y="38.483257"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="lubricant" label="lubricant">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.26666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.38660714285714287"></attvalue>
+          <attvalue for="betweenesscentrality" value="50.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.461538"></viz:size>
+        <viz:position x="448.9922" y="135.2016"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="underground-belt" label="underground-belt">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="500.9578" y="56.160427"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="fast-underground-belt" label="fast-underground-belt">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="495.17737" y="13.04254"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="express-underground-belt" label="express-underground-belt">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3611111111111111"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4961538461538461"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="6.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="473.35123" y="39.701157"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="splitter" label="splitter">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6354166666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.6666666666666665"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="442.07712" y="-165.21077"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="fast-splitter" label="fast-splitter">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47368421052631576"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6018518518518517"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.5"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="373.31458" y="-247.16977"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="express-splitter" label="express-splitter">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36666666666666664"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47500000000000003"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="259.67703" y="-168.70604"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="burner-inserter" label="burner-inserter">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.75"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="410.87488" y="55.303127"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="inserter" label="inserter">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6547619047619048"></attvalue>
+          <attvalue for="betweenesscentrality" value="12.5"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="3.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.596154"></viz:size>
+        <viz:position x="509.5811" y="-155.86404"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="long-handed-inserter" label="long-handed-inserter">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.42105263157894735"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5979166666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="487.60526" y="-30.937473"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="fast-inserter" label="fast-inserter">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6354166666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.666666666666666"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="272.47754" y="-323.19067"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="filter-inserter" label="filter-inserter">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.42857142857142855"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5277777777777777"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.5"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="41.691288" y="-381.962"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="stack-inserter" label="stack-inserter">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31746031746031744"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4521428571428571"></attvalue>
+          <attvalue for="betweenesscentrality" value="14.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="88.53661" y="-422.1221"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="stack-filter-inserter" label="stack-filter-inserter">
+        <attvalues>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2692307692307692"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.37069160997732425"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="116.2625" y="-421.83142"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="wooden-chest" label="wooden-chest">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="411.14313" y="-476.96912"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="iron-chest" label="iron-chest">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="396.78094" y="200.78668"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="arithmetic-combinator" label="arithmetic-combinator">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6111111111111112"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="211.45508" y="-413.98108"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="copper-cable" label="copper-cable">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="154.5"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="11.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="13.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.653847"></viz:size>
+        <viz:position x="227.06583" y="-475.83542"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="decider-combinator" label="decider-combinator">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6111111111111112"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="187.20587" y="-437.83377"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="constant-combinator" label="constant-combinator">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6111111111111112"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="161.34747" y="-457.91687"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="car" label="car">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="62.971127" y="163.28368"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="tank" label="tank">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3448275862068966"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47000000000000003"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-37.213833" y="-80.85508"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="straight-rail" label="straight-rail">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="6.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="89.3777" y="303.74014"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="stone" label="stone">
+        <attvalues>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.461538"></viz:size>
+        <viz:position x="191.25258" y="434.02026"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="diesel-locomotive" label="diesel-locomotive">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47619047619047616"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5916666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-7.944319" y="-45.452366"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="cargo-wagon" label="cargo-wagon">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.875"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="182.1462" y="90.97827"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="train-stop" label="train-stop">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6547619047619048"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="87.57522" y="8.124099"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="rail-signal" label="rail-signal">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.46153846153846156"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5972222222222222"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="215.98642" y="-64.426315"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="rail-chain-signal" label="rail-chain-signal">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.46153846153846156"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5972222222222222"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="204.1339" y="-87.51066"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="stone-furnace" label="stone-furnace">
+        <attvalues>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="350.31375" y="396.41324"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="steel-furnace" label="steel-furnace">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-118.09718" y="305.57486"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="stone-brick" label="stone-brick">
+        <attvalues>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="8.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="14.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="15.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.326923"></viz:size>
+        <viz:position x="-42.7495" y="440.93588"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="electric-furnace" label="electric-furnace">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.44210526315789467"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-269.2186" y="105.86813"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="burner-mining-drill" label="burner-mining-drill">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7142857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="434.5917" y="225.71733"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="electric-mining-drill" label="electric-mining-drill">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6547619047619048"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="269.68707" y="-78.80608"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="assembling-machine-1" label="assembling-machine-1">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6547619047619048"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="316.97223" y="-178.13506"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="assembling-machine-2" label="assembling-machine-2">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6979166666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.5"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="240.51543" y="-260.58997"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="assembling-machine-3" label="assembling-machine-3">
+        <attvalues>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36434240362811793"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-33.403687" y="-404.58463"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="oil-refinery" label="oil-refinery">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5238095238095238"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6742424242424242"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="5.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="103.22697" y="137.36217"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="chemical-plant" label="chemical-plant">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6574074074074073"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="144.61642" y="19.012465"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="offshore-pump" label="offshore-pump">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47058823529411764"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6145833333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="239.1754" y="-37.502007"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="small-pump" label="small-pump">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.45"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-104.1083" y="228.01309"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="pipe-to-ground" label="pipe-to-ground">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.75"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="250.30803" y="228.11867"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="storage-tank" label="storage-tank">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.75"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="93.10771" y="175.57591"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="pumpjack" label="pumpjack">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6574074074074073"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="142.03659" y="-17.338682"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="empty-barrel" label="empty-barrel">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="61.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-100.14811" y="533.0359"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="sulfuric-acid" label="sulfuric-acid">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.503030303030303"></attvalue>
+          <attvalue for="betweenesscentrality" value="128.36666666666667"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="15.0"></attvalue>
+          <attvalue for="weighted degree" value="17.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="119.764244" y="417.91617"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="sulfur" label="sulfur">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.29411764705882354"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.44261904761904763"></attvalue>
+          <attvalue for="betweenesscentrality" value="103.83333333333333"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="69.12744" y="521.5525"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="water" label="water">
+        <attvalues>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="34.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="34.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.057693"></viz:size>
+        <viz:position x="28.233603" y="567.68207"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="raw-wood" label="raw-wood">
+        <attvalues>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="412.11417" y="-504.94467"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="copper-ore" label="copper-ore">
+        <attvalues>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="376.92212" y="-352.6657"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="iron-ore" label="iron-ore">
+        <attvalues>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="11.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="-24.63337" y="544.6818"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="red-wire" label="red-wire">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6111111111111112"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="184.22554" y="-410.35678"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="green-wire" label="green-wire">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6111111111111112"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="160.97284" y="-430.2991"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="petroleum-gas" label="petroleum-gas">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5499999999999999"></attvalue>
+          <attvalue for="betweenesscentrality" value="361.0666666666666"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="19.0"></attvalue>
+          <attvalue for="weighted degree" value="24.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.596154"></viz:size>
+        <viz:position x="-5.983535" y="625.10583"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="low-density-structure" label="low-density-structure">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3888888888888889"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5023809523809524"></attvalue>
+          <attvalue for="betweenesscentrality" value="13.2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="-316.38477" y="269.87936"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="rocket-control-unit" label="rocket-control-unit">
+        <attvalues>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25925925925925924"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3508503401360544"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-455.99536" y="-86.56293"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="rocket-fuel" label="rocket-fuel">
+        <attvalues>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2558139534883721"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3682900432900432"></attvalue>
+          <attvalue for="betweenesscentrality" value="12.1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="-326.00888" y="464.0818"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="solid-fuel" label="solid-fuel">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3125"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5092857142857142"></attvalue>
+          <attvalue for="betweenesscentrality" value="20.1"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-96.14097" y="653.5728"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="rocket-part" label="rocket-part">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3424657534246575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.42466666666666664"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-429.23392" y="258.68585"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="satellite" label="satellite">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4117647058823529"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5220238095238096"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="6.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-310.0524" y="210.83849"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="accumulator" label="accumulator">
+        <attvalues>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25862068965517243"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3834126984126984"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-35.495346" y="183.94603"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="radar" label="radar">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6547619047619048"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.583333333333333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="184.35504" y="-17.33479"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="hazard-concrete" label="hazard-concrete">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="10.0"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-40.900948" y="525.3231"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="landfill" label="landfill">
+        <attvalues>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="216.4648" y="468.75995"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="boiler" label="boiler">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="296.86032" y="359.85205"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="steam-engine" label="steam-engine">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.875"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="408.24307" y="111.83172"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="small-electric-pole" label="small-electric-pole">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="318.0092" y="-489.39044"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="medium-electric-pole" label="medium-electric-pole">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-18.208143" y="5.2915483"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="big-electric-pole" label="big-electric-pole">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-50.0179" y="5.4379034"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="substation" label="substation">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4598039215686274"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-153.94846" y="-123.333176"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="power-switch" label="power-switch">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7222222222222223"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="281.863" y="-257.0215"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="lab" label="lab">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47058823529411764"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6145833333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="412.9195" y="-193.32347"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="science-pack-1" label="science-pack-1">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="235.25902" y="-93.83233"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="science-pack-2" label="science-pack-2">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.391304347826087"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.512962962962963"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="589.28925" y="-122.47969"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="science-pack-3" label="science-pack-3">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3582089552238806"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4645833333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-202.41455" y="-194.87427"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="alien-science-pack" label="alien-science-pack">
+        <attvalues>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="10.0"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-745.4238" y="-156.08908"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="beacon" label="beacon">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47941176470588226"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-69.99425" y="-306.71933"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="speed-module-2" label="speed-module-2">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3088235294117647"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.41473922902494326"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-515.1245" y="-332.44183"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="productivity-module" label="productivity-module">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.288135593220339"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3848739495798319"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.8333333333333333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-228.55402" y="-364.2505"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="productivity-module-2" label="productivity-module-2">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3088235294117647"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.41473922902494326"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-478.85498" y="-301.21683"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="productivity-module-3" label="productivity-module-3">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.323943661971831"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4438923395445134"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-576.21246" y="-248.88593"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="effectivity-module" label="effectivity-module">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.288135593220339"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3848739495798319"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.8333333333333333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-217.21046" y="-320.52628"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="effectivity-module-2" label="effectivity-module-2">
+        <attvalues>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3088235294117647"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.41473922902494326"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-489.08694" y="-256.26892"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="stone-wall" label="stone-wall">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.8653846"></viz:size>
+        <viz:position x="-14.21165" y="353.56534"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="small-lamp" label="small-lamp">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6547619047619048"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="219.5941" y="70.46"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="gate" label="gate">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.45454545454545453"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.575"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-7.046471" y="96.77467"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="small-plane" label="small-plane">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4098360655737705"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.49133333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-378.4977" y="108.60859"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="crude-oil" label="crude-oil">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.45666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="209.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="22.0"></attvalue>
+          <attvalue for="weighted outdegree" value="25.0"></attvalue>
+          <attvalue for="weighted degree" value="47.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.461538"></viz:size>
+        <viz:position x="12.174961" y="675.09955"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="crude-oil-barrel" label="crude-oil-barrel">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.45454545454545453"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6166666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="137.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="weighted indegree" value="26.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="28.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.730769"></viz:size>
+        <viz:position x="-13.47845" y="680.1853"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="light-armor" target="iron-plate"></edge>
+      <edge id="1" source="heavy-armor" target="copper-plate"></edge>
+      <edge id="2" source="heavy-armor" target="steel-plate"></edge>
+      <edge id="3" source="modular-armor" target="steel-plate"></edge>
+      <edge id="4" source="modular-armor" target="advanced-circuit"></edge>
+      <edge id="5" source="modular-armor" target="processing-unit"></edge>
+      <edge id="6" source="power-armor" target="steel-plate"></edge>
+      <edge id="7" source="power-armor" target="alien-artifact"></edge>
+      <edge id="8" source="power-armor" target="processing-unit"></edge>
+      <edge id="9" source="power-armor" target="electric-engine-unit"></edge>
+      <edge id="10" source="power-armor-mk2" target="speed-module-3"></edge>
+      <edge id="11" source="power-armor-mk2" target="effectivity-module-3"></edge>
+      <edge id="12" source="power-armor-mk2" target="steel-plate"></edge>
+      <edge id="13" source="power-armor-mk2" target="alien-artifact"></edge>
+      <edge id="14" source="power-armor-mk2" target="processing-unit"></edge>
+      <edge id="15" source="energy-shield-equipment" target="steel-plate"></edge>
+      <edge id="16" source="energy-shield-equipment" target="advanced-circuit"></edge>
+      <edge id="17" source="energy-shield-mk2-equipment" target="processing-unit"></edge>
+      <edge id="18" source="energy-shield-mk2-equipment" target="energy-shield-equipment"></edge>
+      <edge id="19" source="battery-equipment" target="steel-plate"></edge>
+      <edge id="20" source="battery-equipment" target="battery"></edge>
+      <edge id="21" source="battery-mk2-equipment" target="processing-unit"></edge>
+      <edge id="22" source="battery-mk2-equipment" target="battery-equipment"></edge>
+      <edge id="23" source="solar-panel-equipment" target="solar-panel"></edge>
+      <edge id="24" source="solar-panel-equipment" target="steel-plate"></edge>
+      <edge id="25" source="solar-panel-equipment" target="processing-unit"></edge>
+      <edge id="26" source="fusion-reactor-equipment" target="alien-artifact"></edge>
+      <edge id="27" source="fusion-reactor-equipment" target="processing-unit"></edge>
+      <edge id="28" source="personal-laser-defense-equipment" target="steel-plate"></edge>
+      <edge id="29" source="personal-laser-defense-equipment" target="processing-unit"></edge>
+      <edge id="30" source="personal-laser-defense-equipment" target="laser-turret"></edge>
+      <edge id="31" source="discharge-defense-equipment" target="steel-plate"></edge>
+      <edge id="32" source="discharge-defense-equipment" target="processing-unit"></edge>
+      <edge id="33" source="discharge-defense-equipment" target="laser-turret"></edge>
+      <edge id="34" source="exoskeleton-equipment" target="steel-plate"></edge>
+      <edge id="35" source="exoskeleton-equipment" target="processing-unit"></edge>
+      <edge id="36" source="exoskeleton-equipment" target="electric-engine-unit"></edge>
+      <edge id="37" source="night-vision-equipment" target="steel-plate"></edge>
+      <edge id="38" source="night-vision-equipment" target="advanced-circuit"></edge>
+      <edge id="39" source="personal-roboport-equipment" target="processing-unit"></edge>
+      <edge id="40" source="personal-roboport-equipment" target="iron-gear-wheel"></edge>
+      <edge id="41" source="personal-roboport-equipment" target="steel-plate"></edge>
+      <edge id="42" source="personal-roboport-equipment" target="battery"></edge>
+      <edge id="43" source="repair-pack" target="iron-gear-wheel"></edge>
+      <edge id="44" source="repair-pack" target="electronic-circuit"></edge>
+      <edge id="45" source="iron-axe" target="iron-plate"></edge>
+      <edge id="46" source="iron-axe" target="iron-stick"></edge>
+      <edge id="47" source="steel-axe" target="steel-plate"></edge>
+      <edge id="48" source="steel-axe" target="iron-stick"></edge>
+      <edge id="49" source="gun-turret" target="iron-plate"></edge>
+      <edge id="50" source="gun-turret" target="copper-plate"></edge>
+      <edge id="51" source="gun-turret" target="iron-gear-wheel"></edge>
+      <edge id="52" source="laser-turret" target="steel-plate"></edge>
+      <edge id="53" source="laser-turret" target="electronic-circuit"></edge>
+      <edge id="54" source="laser-turret" target="battery"></edge>
+      <edge id="55" source="flamethrower-turret" target="steel-plate"></edge>
+      <edge id="56" source="flamethrower-turret" target="iron-gear-wheel"></edge>
+      <edge id="57" source="flamethrower-turret" target="pipe"></edge>
+      <edge id="58" source="flamethrower-turret" target="engine-unit"></edge>
+      <edge id="59" source="rocket-silo" target="steel-plate"></edge>
+      <edge id="60" source="rocket-silo" target="concrete"></edge>
+      <edge id="61" source="rocket-silo" target="pipe"></edge>
+      <edge id="62" source="rocket-silo" target="processing-unit"></edge>
+      <edge id="63" source="rocket-silo" target="electric-engine-unit"></edge>
+      <edge id="64" source="land-mine" target="steel-plate" weight="4.0"></edge>
+      <edge id="65" source="land-mine" target="explosives" weight="4.0"></edge>
+      <edge id="66" source="pistol" target="iron-plate"></edge>
+      <edge id="67" source="pistol" target="copper-plate"></edge>
+      <edge id="68" source="submachine-gun" target="iron-plate"></edge>
+      <edge id="69" source="submachine-gun" target="copper-plate"></edge>
+      <edge id="70" source="submachine-gun" target="iron-gear-wheel"></edge>
+      <edge id="71" source="rocket-launcher" target="iron-plate"></edge>
+      <edge id="72" source="rocket-launcher" target="iron-gear-wheel"></edge>
+      <edge id="73" source="rocket-launcher" target="electronic-circuit"></edge>
+      <edge id="74" source="flame-thrower" target="steel-plate"></edge>
+      <edge id="75" source="flame-thrower" target="iron-gear-wheel"></edge>
+      <edge id="76" source="flame-thrower-ammo" target="iron-plate"></edge>
+      <edge id="77" source="flame-thrower-ammo" target="light-oil"></edge>
+      <edge id="78" source="flame-thrower-ammo" target="heavy-oil"></edge>
+      <edge id="79" source="rocket" target="iron-plate"></edge>
+      <edge id="80" source="rocket" target="electronic-circuit"></edge>
+      <edge id="81" source="rocket" target="explosives"></edge>
+      <edge id="82" source="explosive-rocket" target="rocket"></edge>
+      <edge id="83" source="explosive-rocket" target="explosives"></edge>
+      <edge id="84" source="firearm-magazine" target="iron-plate"></edge>
+      <edge id="85" source="piercing-rounds-magazine" target="copper-plate"></edge>
+      <edge id="86" source="piercing-rounds-magazine" target="steel-plate"></edge>
+      <edge id="87" source="shotgun" target="wood"></edge>
+      <edge id="88" source="shotgun" target="iron-plate"></edge>
+      <edge id="89" source="shotgun" target="copper-plate"></edge>
+      <edge id="90" source="shotgun" target="iron-gear-wheel"></edge>
+      <edge id="91" source="combat-shotgun" target="wood"></edge>
+      <edge id="92" source="combat-shotgun" target="copper-plate"></edge>
+      <edge id="93" source="combat-shotgun" target="steel-plate"></edge>
+      <edge id="94" source="combat-shotgun" target="iron-gear-wheel"></edge>
+      <edge id="95" source="shotgun-shell" target="iron-plate"></edge>
+      <edge id="96" source="shotgun-shell" target="copper-plate"></edge>
+      <edge id="97" source="piercing-shotgun-shell" target="copper-plate"></edge>
+      <edge id="98" source="piercing-shotgun-shell" target="steel-plate"></edge>
+      <edge id="99" source="defender-capsule" target="piercing-rounds-magazine" weight="2.0"></edge>
+      <edge id="100" source="defender-capsule" target="iron-gear-wheel"></edge>
+      <edge id="101" source="defender-capsule" target="electronic-circuit"></edge>
+      <edge id="102" source="distractor-capsule" target="advanced-circuit"></edge>
+      <edge id="103" source="distractor-capsule" target="defender-capsule"></edge>
+      <edge id="104" source="destroyer-capsule" target="speed-module"></edge>
+      <edge id="105" source="destroyer-capsule" target="distractor-capsule"></edge>
+      <edge id="106" source="poison-capsule" target="coal"></edge>
+      <edge id="107" source="poison-capsule" target="steel-plate"></edge>
+      <edge id="108" source="poison-capsule" target="electronic-circuit"></edge>
+      <edge id="109" source="slowdown-capsule" target="coal"></edge>
+      <edge id="110" source="slowdown-capsule" target="steel-plate"></edge>
+      <edge id="111" source="slowdown-capsule" target="electronic-circuit"></edge>
+      <edge id="112" source="grenade" target="coal"></edge>
+      <edge id="113" source="grenade" target="iron-plate"></edge>
+      <edge id="114" source="cluster-grenade" target="grenade"></edge>
+      <edge id="115" source="cluster-grenade" target="explosives"></edge>
+      <edge id="116" source="cluster-grenade" target="steel-plate"></edge>
+      <edge id="117" source="discharge-defense-remote" target="electronic-circuit"></edge>
+      <edge id="118" source="cannon-shell" target="steel-plate"></edge>
+      <edge id="119" source="cannon-shell" target="plastic-bar"></edge>
+      <edge id="120" source="cannon-shell" target="explosives"></edge>
+      <edge id="121" source="explosive-cannon-shell" target="steel-plate"></edge>
+      <edge id="122" source="explosive-cannon-shell" target="plastic-bar"></edge>
+      <edge id="123" source="explosive-cannon-shell" target="explosives"></edge>
+      <edge id="124" source="logistic-robot" target="advanced-circuit"></edge>
+      <edge id="125" source="logistic-robot" target="flying-robot-frame"></edge>
+      <edge id="126" source="construction-robot" target="electronic-circuit"></edge>
+      <edge id="127" source="construction-robot" target="flying-robot-frame"></edge>
+      <edge id="128" source="logistic-chest-active-provider" target="steel-chest"></edge>
+      <edge id="129" source="logistic-chest-active-provider" target="electronic-circuit"></edge>
+      <edge id="130" source="logistic-chest-active-provider" target="advanced-circuit"></edge>
+      <edge id="131" source="logistic-chest-passive-provider" target="steel-chest"></edge>
+      <edge id="132" source="logistic-chest-passive-provider" target="electronic-circuit"></edge>
+      <edge id="133" source="logistic-chest-passive-provider" target="advanced-circuit"></edge>
+      <edge id="134" source="logistic-chest-storage" target="steel-chest"></edge>
+      <edge id="135" source="logistic-chest-storage" target="electronic-circuit"></edge>
+      <edge id="136" source="logistic-chest-storage" target="advanced-circuit"></edge>
+      <edge id="137" source="logistic-chest-requester" target="steel-chest"></edge>
+      <edge id="138" source="logistic-chest-requester" target="electronic-circuit"></edge>
+      <edge id="139" source="logistic-chest-requester" target="advanced-circuit"></edge>
+      <edge id="140" source="roboport" target="steel-plate"></edge>
+      <edge id="141" source="roboport" target="iron-gear-wheel"></edge>
+      <edge id="142" source="roboport" target="advanced-circuit"></edge>
+      <edge id="143" source="blueprint" target="advanced-circuit"></edge>
+      <edge id="144" source="deconstruction-planner" target="advanced-circuit"></edge>
+      <edge id="145" source="blueprint-book" target="advanced-circuit"></edge>
+      <edge id="146" source="transport-belt" target="iron-plate" weight="2.0"></edge>
+      <edge id="147" source="transport-belt" target="iron-gear-wheel" weight="2.0"></edge>
+      <edge id="148" source="fast-transport-belt" target="transport-belt"></edge>
+      <edge id="149" source="fast-transport-belt" target="iron-gear-wheel"></edge>
+      <edge id="150" source="express-transport-belt" target="fast-transport-belt"></edge>
+      <edge id="151" source="express-transport-belt" target="iron-gear-wheel"></edge>
+      <edge id="152" source="express-transport-belt" target="lubricant"></edge>
+      <edge id="153" source="underground-belt" target="transport-belt" weight="2.0"></edge>
+      <edge id="154" source="underground-belt" target="iron-plate" weight="2.0"></edge>
+      <edge id="155" source="fast-underground-belt" target="underground-belt" weight="2.0"></edge>
+      <edge id="156" source="fast-underground-belt" target="iron-gear-wheel" weight="2.0"></edge>
+      <edge id="157" source="express-underground-belt" target="fast-underground-belt" weight="2.0"></edge>
+      <edge id="158" source="express-underground-belt" target="iron-gear-wheel" weight="2.0"></edge>
+      <edge id="159" source="express-underground-belt" target="lubricant" weight="2.0"></edge>
+      <edge id="160" source="splitter" target="transport-belt"></edge>
+      <edge id="161" source="splitter" target="iron-plate"></edge>
+      <edge id="162" source="splitter" target="electronic-circuit"></edge>
+      <edge id="163" source="fast-splitter" target="splitter"></edge>
+      <edge id="164" source="fast-splitter" target="iron-gear-wheel"></edge>
+      <edge id="165" source="fast-splitter" target="electronic-circuit"></edge>
+      <edge id="166" source="express-splitter" target="fast-splitter"></edge>
+      <edge id="167" source="express-splitter" target="iron-gear-wheel"></edge>
+      <edge id="168" source="express-splitter" target="advanced-circuit"></edge>
+      <edge id="169" source="express-splitter" target="lubricant"></edge>
+      <edge id="170" source="burner-inserter" target="iron-plate"></edge>
+      <edge id="171" source="burner-inserter" target="iron-gear-wheel"></edge>
+      <edge id="172" source="inserter" target="iron-plate"></edge>
+      <edge id="173" source="inserter" target="iron-gear-wheel"></edge>
+      <edge id="174" source="inserter" target="electronic-circuit"></edge>
+      <edge id="175" source="long-handed-inserter" target="inserter"></edge>
+      <edge id="176" source="long-handed-inserter" target="iron-plate"></edge>
+      <edge id="177" source="long-handed-inserter" target="iron-gear-wheel"></edge>
+      <edge id="178" source="fast-inserter" target="inserter"></edge>
+      <edge id="179" source="fast-inserter" target="iron-plate"></edge>
+      <edge id="180" source="fast-inserter" target="electronic-circuit"></edge>
+      <edge id="181" source="filter-inserter" target="fast-inserter"></edge>
+      <edge id="182" source="filter-inserter" target="electronic-circuit"></edge>
+      <edge id="183" source="stack-inserter" target="iron-gear-wheel"></edge>
+      <edge id="184" source="stack-inserter" target="electronic-circuit"></edge>
+      <edge id="185" source="stack-inserter" target="advanced-circuit"></edge>
+      <edge id="186" source="stack-inserter" target="fast-inserter"></edge>
+      <edge id="187" source="stack-filter-inserter" target="stack-inserter"></edge>
+      <edge id="188" source="stack-filter-inserter" target="electronic-circuit"></edge>
+      <edge id="189" source="wooden-chest" target="wood"></edge>
+      <edge id="190" source="iron-chest" target="iron-plate"></edge>
+      <edge id="191" source="steel-chest" target="steel-plate"></edge>
+      <edge id="192" source="arithmetic-combinator" target="copper-cable"></edge>
+      <edge id="193" source="arithmetic-combinator" target="electronic-circuit"></edge>
+      <edge id="194" source="decider-combinator" target="copper-cable"></edge>
+      <edge id="195" source="decider-combinator" target="electronic-circuit"></edge>
+      <edge id="196" source="constant-combinator" target="copper-cable"></edge>
+      <edge id="197" source="constant-combinator" target="electronic-circuit"></edge>
+      <edge id="198" source="car" target="iron-plate"></edge>
+      <edge id="199" source="car" target="steel-plate"></edge>
+      <edge id="200" source="car" target="engine-unit"></edge>
+      <edge id="201" source="tank" target="steel-plate"></edge>
+      <edge id="202" source="tank" target="iron-gear-wheel"></edge>
+      <edge id="203" source="tank" target="advanced-circuit"></edge>
+      <edge id="204" source="tank" target="engine-unit"></edge>
+      <edge id="205" source="straight-rail" target="stone" weight="2.0"></edge>
+      <edge id="206" source="straight-rail" target="steel-plate" weight="2.0"></edge>
+      <edge id="207" source="straight-rail" target="iron-stick" weight="2.0"></edge>
+      <edge id="208" source="diesel-locomotive" target="steel-plate"></edge>
+      <edge id="209" source="diesel-locomotive" target="electronic-circuit"></edge>
+      <edge id="210" source="diesel-locomotive" target="engine-unit"></edge>
+      <edge id="211" source="cargo-wagon" target="iron-plate"></edge>
+      <edge id="212" source="cargo-wagon" target="steel-plate"></edge>
+      <edge id="213" source="cargo-wagon" target="iron-gear-wheel"></edge>
+      <edge id="214" source="train-stop" target="iron-plate"></edge>
+      <edge id="215" source="train-stop" target="steel-plate"></edge>
+      <edge id="216" source="train-stop" target="electronic-circuit"></edge>
+      <edge id="217" source="rail-signal" target="iron-plate"></edge>
+      <edge id="218" source="rail-signal" target="electronic-circuit"></edge>
+      <edge id="219" source="rail-chain-signal" target="electronic-circuit"></edge>
+      <edge id="220" source="rail-chain-signal" target="iron-plate"></edge>
+      <edge id="221" source="stone-furnace" target="stone"></edge>
+      <edge id="222" source="steel-furnace" target="steel-plate"></edge>
+      <edge id="223" source="steel-furnace" target="stone-brick"></edge>
+      <edge id="224" source="electric-furnace" target="steel-plate"></edge>
+      <edge id="225" source="electric-furnace" target="stone-brick"></edge>
+      <edge id="226" source="electric-furnace" target="advanced-circuit"></edge>
+      <edge id="227" source="burner-mining-drill" target="stone-furnace"></edge>
+      <edge id="228" source="burner-mining-drill" target="iron-plate"></edge>
+      <edge id="229" source="burner-mining-drill" target="iron-gear-wheel"></edge>
+      <edge id="230" source="electric-mining-drill" target="iron-plate"></edge>
+      <edge id="231" source="electric-mining-drill" target="iron-gear-wheel"></edge>
+      <edge id="232" source="electric-mining-drill" target="electronic-circuit"></edge>
+      <edge id="233" source="assembling-machine-1" target="iron-plate"></edge>
+      <edge id="234" source="assembling-machine-1" target="iron-gear-wheel"></edge>
+      <edge id="235" source="assembling-machine-1" target="electronic-circuit"></edge>
+      <edge id="236" source="assembling-machine-2" target="assembling-machine-1"></edge>
+      <edge id="237" source="assembling-machine-2" target="iron-plate"></edge>
+      <edge id="238" source="assembling-machine-2" target="iron-gear-wheel"></edge>
+      <edge id="239" source="assembling-machine-2" target="electronic-circuit"></edge>
+      <edge id="240" source="assembling-machine-3" target="assembling-machine-2"></edge>
+      <edge id="241" source="assembling-machine-3" target="speed-module"></edge>
+      <edge id="242" source="oil-refinery" target="pipe"></edge>
+      <edge id="243" source="oil-refinery" target="steel-plate"></edge>
+      <edge id="244" source="oil-refinery" target="stone-brick"></edge>
+      <edge id="245" source="oil-refinery" target="iron-gear-wheel"></edge>
+      <edge id="246" source="oil-refinery" target="electronic-circuit"></edge>
+      <edge id="247" source="chemical-plant" target="pipe"></edge>
+      <edge id="248" source="chemical-plant" target="steel-plate"></edge>
+      <edge id="249" source="chemical-plant" target="iron-gear-wheel"></edge>
+      <edge id="250" source="chemical-plant" target="electronic-circuit"></edge>
+      <edge id="251" source="offshore-pump" target="pipe"></edge>
+      <edge id="252" source="offshore-pump" target="iron-gear-wheel"></edge>
+      <edge id="253" source="offshore-pump" target="electronic-circuit"></edge>
+      <edge id="254" source="small-pump" target="pipe"></edge>
+      <edge id="255" source="small-pump" target="steel-plate"></edge>
+      <edge id="256" source="small-pump" target="electric-engine-unit"></edge>
+      <edge id="257" source="pipe" target="iron-plate"></edge>
+      <edge id="258" source="pipe-to-ground" target="pipe" weight="2.0"></edge>
+      <edge id="259" source="pipe-to-ground" target="iron-plate" weight="2.0"></edge>
+      <edge id="260" source="storage-tank" target="iron-plate"></edge>
+      <edge id="261" source="storage-tank" target="steel-plate"></edge>
+      <edge id="262" source="pumpjack" target="pipe"></edge>
+      <edge id="263" source="pumpjack" target="steel-plate"></edge>
+      <edge id="264" source="pumpjack" target="iron-gear-wheel"></edge>
+      <edge id="265" source="pumpjack" target="electronic-circuit"></edge>
+      <edge id="266" source="empty-barrel" target="steel-plate"></edge>
+      <edge id="267" source="sulfuric-acid" target="iron-plate" weight="5.0"></edge>
+      <edge id="268" source="sulfuric-acid" target="sulfur" weight="5.0"></edge>
+      <edge id="269" source="sulfuric-acid" target="water" weight="5.0"></edge>
+      <edge id="270" source="lubricant" target="heavy-oil"></edge>
+      <edge id="271" source="wood" target="raw-wood" weight="2.0"></edge>
+      <edge id="272" source="copper-plate" target="copper-ore"></edge>
+      <edge id="273" source="iron-plate" target="iron-ore"></edge>
+      <edge id="274" source="steel-plate" target="iron-plate"></edge>
+      <edge id="275" source="iron-gear-wheel" target="iron-plate"></edge>
+      <edge id="276" source="iron-stick" target="iron-plate" weight="2.0"></edge>
+      <edge id="277" source="copper-cable" target="copper-plate" weight="2.0"></edge>
+      <edge id="278" source="electronic-circuit" target="iron-plate"></edge>
+      <edge id="279" source="electronic-circuit" target="copper-cable"></edge>
+      <edge id="280" source="advanced-circuit" target="plastic-bar"></edge>
+      <edge id="281" source="advanced-circuit" target="electronic-circuit"></edge>
+      <edge id="282" source="advanced-circuit" target="copper-cable"></edge>
+      <edge id="283" source="processing-unit" target="electronic-circuit"></edge>
+      <edge id="284" source="processing-unit" target="advanced-circuit"></edge>
+      <edge id="285" source="processing-unit" target="sulfuric-acid"></edge>
+      <edge id="286" source="red-wire" target="electronic-circuit"></edge>
+      <edge id="287" source="red-wire" target="copper-cable"></edge>
+      <edge id="288" source="green-wire" target="electronic-circuit"></edge>
+      <edge id="289" source="green-wire" target="copper-cable"></edge>
+      <edge id="290" source="sulfur" target="water" weight="2.0"></edge>
+      <edge id="291" source="sulfur" target="petroleum-gas" weight="2.0"></edge>
+      <edge id="292" source="plastic-bar" target="coal" weight="2.0"></edge>
+      <edge id="293" source="plastic-bar" target="petroleum-gas" weight="2.0"></edge>
+      <edge id="294" source="engine-unit" target="pipe"></edge>
+      <edge id="295" source="engine-unit" target="steel-plate"></edge>
+      <edge id="296" source="engine-unit" target="iron-gear-wheel"></edge>
+      <edge id="297" source="electric-engine-unit" target="electronic-circuit"></edge>
+      <edge id="298" source="electric-engine-unit" target="engine-unit"></edge>
+      <edge id="299" source="electric-engine-unit" target="lubricant"></edge>
+      <edge id="300" source="flying-robot-frame" target="steel-plate"></edge>
+      <edge id="301" source="flying-robot-frame" target="electronic-circuit"></edge>
+      <edge id="302" source="flying-robot-frame" target="electric-engine-unit"></edge>
+      <edge id="303" source="flying-robot-frame" target="battery"></edge>
+      <edge id="304" source="explosives" target="coal"></edge>
+      <edge id="305" source="explosives" target="sulfur"></edge>
+      <edge id="306" source="explosives" target="water"></edge>
+      <edge id="307" source="battery" target="iron-plate"></edge>
+      <edge id="308" source="battery" target="copper-plate"></edge>
+      <edge id="309" source="battery" target="sulfuric-acid"></edge>
+      <edge id="310" source="low-density-structure" target="steel-plate"></edge>
+      <edge id="311" source="low-density-structure" target="copper-plate"></edge>
+      <edge id="312" source="low-density-structure" target="plastic-bar"></edge>
+      <edge id="313" source="rocket-control-unit" target="processing-unit"></edge>
+      <edge id="314" source="rocket-control-unit" target="speed-module"></edge>
+      <edge id="315" source="rocket-fuel" target="solid-fuel"></edge>
+      <edge id="316" source="rocket-part" target="low-density-structure"></edge>
+      <edge id="317" source="rocket-part" target="rocket-fuel"></edge>
+      <edge id="318" source="rocket-part" target="rocket-control-unit"></edge>
+      <edge id="319" source="satellite" target="low-density-structure"></edge>
+      <edge id="320" source="satellite" target="solar-panel"></edge>
+      <edge id="321" source="satellite" target="accumulator"></edge>
+      <edge id="322" source="satellite" target="radar"></edge>
+      <edge id="323" source="satellite" target="processing-unit"></edge>
+      <edge id="324" source="satellite" target="rocket-fuel"></edge>
+      <edge id="325" source="stone-brick" target="stone"></edge>
+      <edge id="326" source="concrete" target="stone-brick" weight="10.0"></edge>
+      <edge id="327" source="concrete" target="iron-ore" weight="10.0"></edge>
+      <edge id="328" source="concrete" target="water" weight="10.0"></edge>
+      <edge id="329" source="hazard-concrete" target="concrete" weight="10.0"></edge>
+      <edge id="330" source="landfill" target="stone"></edge>
+      <edge id="331" source="boiler" target="pipe"></edge>
+      <edge id="332" source="boiler" target="stone-furnace"></edge>
+      <edge id="333" source="steam-engine" target="pipe"></edge>
+      <edge id="334" source="steam-engine" target="iron-plate"></edge>
+      <edge id="335" source="steam-engine" target="iron-gear-wheel"></edge>
+      <edge id="336" source="solar-panel" target="copper-plate"></edge>
+      <edge id="337" source="solar-panel" target="steel-plate"></edge>
+      <edge id="338" source="solar-panel" target="electronic-circuit"></edge>
+      <edge id="339" source="accumulator" target="iron-plate"></edge>
+      <edge id="340" source="accumulator" target="battery"></edge>
+      <edge id="341" source="small-electric-pole" target="wood" weight="2.0"></edge>
+      <edge id="342" source="small-electric-pole" target="copper-cable" weight="2.0"></edge>
+      <edge id="343" source="medium-electric-pole" target="copper-plate"></edge>
+      <edge id="344" source="medium-electric-pole" target="steel-plate"></edge>
+      <edge id="345" source="big-electric-pole" target="copper-plate"></edge>
+      <edge id="346" source="big-electric-pole" target="steel-plate"></edge>
+      <edge id="347" source="substation" target="copper-plate"></edge>
+      <edge id="348" source="substation" target="steel-plate"></edge>
+      <edge id="349" source="substation" target="advanced-circuit"></edge>
+      <edge id="350" source="power-switch" target="iron-plate"></edge>
+      <edge id="351" source="power-switch" target="copper-cable"></edge>
+      <edge id="352" source="power-switch" target="electronic-circuit"></edge>
+      <edge id="353" source="lab" target="transport-belt"></edge>
+      <edge id="354" source="lab" target="iron-gear-wheel"></edge>
+      <edge id="355" source="lab" target="electronic-circuit"></edge>
+      <edge id="356" source="science-pack-1" target="copper-plate"></edge>
+      <edge id="357" source="science-pack-1" target="iron-gear-wheel"></edge>
+      <edge id="358" source="science-pack-2" target="transport-belt"></edge>
+      <edge id="359" source="science-pack-2" target="inserter"></edge>
+      <edge id="360" source="science-pack-3" target="filter-inserter"></edge>
+      <edge id="361" source="science-pack-3" target="steel-plate"></edge>
+      <edge id="362" source="science-pack-3" target="advanced-circuit"></edge>
+      <edge id="363" source="science-pack-3" target="battery"></edge>
+      <edge id="364" source="alien-science-pack" target="alien-artifact" weight="10.0"></edge>
+      <edge id="365" source="beacon" target="steel-plate"></edge>
+      <edge id="366" source="beacon" target="electronic-circuit"></edge>
+      <edge id="367" source="beacon" target="advanced-circuit"></edge>
+      <edge id="368" source="beacon" target="copper-cable"></edge>
+      <edge id="369" source="speed-module" target="electronic-circuit"></edge>
+      <edge id="370" source="speed-module" target="advanced-circuit"></edge>
+      <edge id="371" source="speed-module-2" target="speed-module"></edge>
+      <edge id="372" source="speed-module-2" target="advanced-circuit"></edge>
+      <edge id="373" source="speed-module-2" target="processing-unit"></edge>
+      <edge id="374" source="speed-module-3" target="speed-module-2"></edge>
+      <edge id="375" source="speed-module-3" target="alien-artifact"></edge>
+      <edge id="376" source="speed-module-3" target="advanced-circuit"></edge>
+      <edge id="377" source="speed-module-3" target="processing-unit"></edge>
+      <edge id="378" source="productivity-module" target="electronic-circuit"></edge>
+      <edge id="379" source="productivity-module" target="advanced-circuit"></edge>
+      <edge id="380" source="productivity-module-2" target="productivity-module"></edge>
+      <edge id="381" source="productivity-module-2" target="advanced-circuit"></edge>
+      <edge id="382" source="productivity-module-2" target="processing-unit"></edge>
+      <edge id="383" source="productivity-module-3" target="productivity-module-2"></edge>
+      <edge id="384" source="productivity-module-3" target="alien-artifact"></edge>
+      <edge id="385" source="productivity-module-3" target="advanced-circuit"></edge>
+      <edge id="386" source="productivity-module-3" target="processing-unit"></edge>
+      <edge id="387" source="effectivity-module" target="electronic-circuit"></edge>
+      <edge id="388" source="effectivity-module" target="advanced-circuit"></edge>
+      <edge id="389" source="effectivity-module-2" target="effectivity-module"></edge>
+      <edge id="390" source="effectivity-module-2" target="advanced-circuit"></edge>
+      <edge id="391" source="effectivity-module-2" target="processing-unit"></edge>
+      <edge id="392" source="effectivity-module-3" target="effectivity-module-2"></edge>
+      <edge id="393" source="effectivity-module-3" target="alien-artifact"></edge>
+      <edge id="394" source="effectivity-module-3" target="advanced-circuit"></edge>
+      <edge id="395" source="effectivity-module-3" target="processing-unit"></edge>
+      <edge id="396" source="radar" target="iron-plate"></edge>
+      <edge id="397" source="radar" target="iron-gear-wheel"></edge>
+      <edge id="398" source="radar" target="electronic-circuit"></edge>
+      <edge id="399" source="stone-wall" target="stone-brick"></edge>
+      <edge id="400" source="small-lamp" target="iron-plate"></edge>
+      <edge id="401" source="small-lamp" target="iron-stick"></edge>
+      <edge id="402" source="small-lamp" target="electronic-circuit"></edge>
+      <edge id="403" source="gate" target="steel-plate"></edge>
+      <edge id="404" source="gate" target="electronic-circuit"></edge>
+      <edge id="405" source="gate" target="stone-wall"></edge>
+      <edge id="406" source="small-plane" target="plastic-bar"></edge>
+      <edge id="407" source="small-plane" target="advanced-circuit"></edge>
+      <edge id="408" source="small-plane" target="electric-engine-unit"></edge>
+      <edge id="409" source="small-plane" target="battery"></edge>
+      <edge id="410" source="heavy-oil" target="crude-oil" weight="4.0"></edge>
+      <edge id="411" source="light-oil" target="crude-oil" weight="7.5"></edge>
+      <edge id="412" source="petroleum-gas" target="crude-oil" weight="9.5"></edge>
+      <edge id="413" source="heavy-oil" target="water"></edge>
+      <edge id="414" source="light-oil" target="water" weight="7.5"></edge>
+      <edge id="415" source="petroleum-gas" target="water" weight="7.5"></edge>
+      <edge id="416" source="empty-barrel" target="crude-oil-barrel"></edge>
+      <edge id="417" source="crude-oil" target="crude-oil-barrel" weight="25.0"></edge>
+      <edge id="418" source="crude-oil-barrel" target="empty-barrel"></edge>
+      <edge id="419" source="crude-oil-barrel" target="crude-oil"></edge>
+      <edge id="420" source="petroleum-gas" target="light-oil" weight="2.0"></edge>
+      <edge id="421" source="light-oil" target="heavy-oil" weight="3.0"></edge>
+      <edge id="422" source="solid-fuel" target="light-oil"></edge>
+      <edge id="423" source="solid-fuel" target="heavy-oil"></edge>
+      <edge id="424" source="solid-fuel" target="petroleum-gas"></edge>
+    </edges>
+  </graph>
+</gexf>
