@@ -1,0 +1,1237 @@
+<gexf version="1.3" xmlns="http://www.gexf.net/1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-05-14"/>
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="lon" title="lon" type="double"></attribute>
+      <attribute id="lat" title="lat" type="double"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="kind" title="kind" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Albania" label="Albania">
+        <attvalues>
+          <attvalue for="lon" value="19.8"></attvalue>
+          <attvalue for="lat" value="41.333"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-18.018198" y="-129.94727"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Armenia" label="Armenia">
+        <attvalues>
+          <attvalue for="lon" value="44.516667"></attvalue>
+          <attvalue for="lat" value="40.183333"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="413.36902" y="-156.43842"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Australia" label="Australia">
+        <attvalues>
+          <attvalue for="lon" value="149.124389"></attvalue>
+          <attvalue for="lat" value="-35.308294"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="2239.1182" y="-1582.9485"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Azerbaijan" label="Azerbaijan">
+        <attvalues>
+          <attvalue for="lon" value="49.833"></attvalue>
+          <attvalue for="lat" value="40.417"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="506.15652" y="-151.09106"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Bulgaria" label="Bulgaria">
+        <attvalues>
+          <attvalue for="lon" value="25.5"></attvalue>
+          <attvalue for="lat" value="42.75"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="81.465576" y="-96.64404"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="France" label="France">
+        <attvalues>
+          <attvalue for="lon" value="2.351"></attvalue>
+          <attvalue for="lat" value="48.857"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-322.5607" y="56.478333"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Greece" label="Greece">
+        <attvalues>
+          <attvalue for="lon" value="23.717"></attvalue>
+          <attvalue for="lat" value="37.967"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="50.346348" y="-206.27344"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Italy" label="Italy">
+        <attvalues>
+          <attvalue for="lon" value="12.483"></attvalue>
+          <attvalue for="lat" value="41.9"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-145.72394" y="-116.710205"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Portugal" label="Portugal">
+        <attvalues>
+          <attvalue for="lon" value="-9.139444"></attvalue>
+          <attvalue for="lat" value="38.713889"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-523.10675" y="-189.6532"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Romania" label="Romania">
+        <attvalues>
+          <attvalue for="lon" value="26.103889"></attvalue>
+          <attvalue for="lat" value="44.4325"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="92.005424" y="-56.095825"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="United Kingdom" label="United Kingdom">
+        <attvalues>
+          <attvalue for="lon" value="-0.117"></attvalue>
+          <attvalue for="lat" value="51.5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-365.63544" y="128.53497"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Austria" label="Austria">
+        <attvalues>
+          <attvalue for="lon" value="16.35"></attvalue>
+          <attvalue for="lat" value="48.2"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-78.232056" y="39.163025"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Cyprus" label="Cyprus">
+        <attvalues>
+          <attvalue for="lon" value="33.467"></attvalue>
+          <attvalue for="lat" value="35.133"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="220.51596" y="-267.85803"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Moldova" label="Moldova">
+        <attvalues>
+          <attvalue for="lon" value="28.917"></attvalue>
+          <attvalue for="lat" value="47.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="141.10347" y="8.100891"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Norway" label="Norway">
+        <attvalues>
+          <attvalue for="lon" value="10.683"></attvalue>
+          <attvalue for="lat" value="59.933"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-177.13986" y="391.09076"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Sweden" label="Sweden">
+        <attvalues>
+          <attvalue for="lon" value="18.067"></attvalue>
+          <attvalue for="lat" value="59.35"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-48.264755" y="370.95746"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Denmark" label="Denmark">
+        <attvalues>
+          <attvalue for="lon" value="12.567"></attvalue>
+          <attvalue for="lat" value="55.717"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-144.25786" y="252.7193"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Poland" label="Poland">
+        <attvalues>
+          <attvalue for="lon" value="21.008433"></attvalue>
+          <attvalue for="lat" value="52.2323"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="3.0729363" y="149.23358"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="The Netherlands" label="The Netherlands">
+        <attvalues>
+          <attvalue for="lon" value="5.55"></attvalue>
+          <attvalue for="lat" value="52.317"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-266.7276" y="151.6496"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Belarus" label="Belarus">
+        <attvalues>
+          <attvalue for="lon" value="27.55"></attvalue>
+          <attvalue for="lat" value="53.917"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="117.24482" y="198.18439"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Belgium" label="Belgium">
+        <attvalues>
+          <attvalue for="lon" value="4.35"></attvalue>
+          <attvalue for="lat" value="50.85"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-287.67157" y="110.43939"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Hungary" label="Hungary">
+        <attvalues>
+          <attvalue for="lon" value="19.25"></attvalue>
+          <attvalue for="lat" value="47.433"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-27.61751" y="19.227234"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Croatia" label="Croatia">
+        <attvalues>
+          <attvalue for="lon" value="15.5"></attvalue>
+          <attvalue for="lat" value="45.166667"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-93.06735" y="-38.037354"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Israel" label="Israel">
+        <attvalues>
+          <attvalue for="lon" value="35.217"></attvalue>
+          <attvalue for="lat" value="31.783"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="251.05922" y="-337.9585"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Ukraine" label="Ukraine">
+        <attvalues>
+          <attvalue for="lon" value="32.0"></attvalue>
+          <attvalue for="lat" value="49.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="194.91197" y="60.27716"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Czech Republic" label="Czech Republic">
+        <attvalues>
+          <attvalue for="lon" value="14.42046"></attvalue>
+          <attvalue for="lat" value="50.087811"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-111.90888" y="89.53894"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Estonia" label="Estonia">
+        <attvalues>
+          <attvalue for="lon" value="24.75"></attvalue>
+          <attvalue for="lat" value="59.417"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="68.3756" y="373.2536"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="F.Y.R. Macedonia" label="F.Y.R. Macedonia">
+        <attvalues>
+          <attvalue for="lon" value="21.7"></attvalue>
+          <attvalue for="lat" value="41.6"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="15.143058" y="-123.728455"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Finland" label="Finland">
+        <attvalues>
+          <attvalue for="lon" value="24.933"></attvalue>
+          <attvalue for="lat" value="60.167"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="71.56956" y="399.27142"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Georgia" label="Georgia">
+        <attvalues>
+          <attvalue for="lon" value="44.783"></attvalue>
+          <attvalue for="lat" value="41.717"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="418.01743" y="-120.99524"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Germany" label="Germany">
+        <attvalues>
+          <attvalue for="lon" value="13.383"></attvalue>
+          <attvalue for="lat" value="52.517"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-130.01598" y="157.37286"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Iceland" label="Iceland">
+        <attvalues>
+          <attvalue for="lon" value="-21.933"></attvalue>
+          <attvalue for="lat" value="64.133"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-746.3964" y="547.6855"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Ireland" label="Ireland">
+        <attvalues>
+          <attvalue for="lon" value="-6.26"></attvalue>
+          <attvalue for="lat" value="53.348"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-472.851" y="181.4361"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Latvia" label="Latvia">
+        <attvalues>
+          <attvalue for="lon" value="24.1"></attvalue>
+          <attvalue for="lat" value="56.95"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="57.03096" y="291.5429"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Lithuania" label="Lithuania">
+        <attvalues>
+          <attvalue for="lon" value="25.317"></attvalue>
+          <attvalue for="lat" value="54.683"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="78.27162" y="221.09576"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Malta" label="Malta">
+        <attvalues>
+          <attvalue for="lon" value="14.5"></attvalue>
+          <attvalue for="lat" value="35.883"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-110.520645" y="-251.77747"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Montenegro" label="Montenegro">
+        <attvalues>
+          <attvalue for="lon" value="19.467"></attvalue>
+          <attvalue for="lat" value="42.783"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-23.830145" y="-95.8595"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="San Marino" label="San Marino">
+        <attvalues>
+          <attvalue for="lon" value="12.433"></attvalue>
+          <attvalue for="lat" value="43.933"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-146.5966" y="-68.25281"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Serbia" label="Serbia">
+        <attvalues>
+          <attvalue for="lon" value="20.467"></attvalue>
+          <attvalue for="lat" value="44.8"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-6.376852" y="-47.085083"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Slovenia" label="Slovenia">
+        <attvalues>
+          <attvalue for="lon" value="14.5"></attvalue>
+          <attvalue for="lat" value="46.05"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-110.520645" y="-15.998413"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Spain" label="Spain">
+        <attvalues>
+          <attvalue for="lon" value="-3.7"></attvalue>
+          <attvalue for="lat" value="40.433"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-428.17056" y="-150.72424"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+      <node id="Switzerland" label="Switzerland">
+        <attvalues>
+          <attvalue for="lon" value="7.45"></attvalue>
+          <attvalue for="lat" value="46.95"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-233.56636" y="6.8219604"></viz:position>
+        <viz:color b="127" g="127" r="127"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="Albania-Jury&gt;Armenia" kind="Jury" source="Albania" target="Armenia" weight="7.0"></edge>
+      <edge id="Albania-Jury&gt;Australia" kind="Jury" source="Albania" target="Australia" weight="4.0"></edge>
+      <edge id="Albania-Jury&gt;Azerbaijan" kind="Jury" source="Albania" target="Azerbaijan" weight="2.0"></edge>
+      <edge id="Albania-Jury&gt;Bulgaria" kind="Jury" source="Albania" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Albania-Jury&gt;France" kind="Jury" source="Albania" target="France" weight="5.0"></edge>
+      <edge id="Albania-Jury&gt;Greece" kind="Jury" source="Albania" target="Greece"></edge>
+      <edge id="Albania-Jury&gt;Italy" kind="Jury" source="Albania" target="Italy" weight="12.0"></edge>
+      <edge id="Albania-Jury&gt;Portugal" kind="Jury" source="Albania" target="Portugal" weight="6.0"></edge>
+      <edge id="Albania-Jury&gt;Romania" kind="Jury" source="Albania" target="Romania" weight="3.0"></edge>
+      <edge id="Albania-Jury&gt;United Kingdom" kind="Jury" source="Albania" target="United Kingdom" weight="8.0"></edge>
+      <edge id="Armenia-Jury&gt;Austria" kind="Jury" source="Armenia" target="Austria"></edge>
+      <edge id="Armenia-Jury&gt;Cyprus" kind="Jury" source="Armenia" target="Cyprus" weight="7.0"></edge>
+      <edge id="Armenia-Jury&gt;France" kind="Jury" source="Armenia" target="France" weight="3.0"></edge>
+      <edge id="Armenia-Jury&gt;Greece" kind="Jury" source="Armenia" target="Greece" weight="10.0"></edge>
+      <edge id="Armenia-Jury&gt;Italy" kind="Jury" source="Armenia" target="Italy" weight="2.0"></edge>
+      <edge id="Armenia-Jury&gt;Moldova" kind="Jury" source="Armenia" target="Moldova" weight="8.0"></edge>
+      <edge id="Armenia-Jury&gt;Norway" kind="Jury" source="Armenia" target="Norway" weight="5.0"></edge>
+      <edge id="Armenia-Jury&gt;Portugal" kind="Jury" source="Armenia" target="Portugal" weight="12.0"></edge>
+      <edge id="Armenia-Jury&gt;Sweden" kind="Jury" source="Armenia" target="Sweden" weight="6.0"></edge>
+      <edge id="Armenia-Jury&gt;United Kingdom" kind="Jury" source="Armenia" target="United Kingdom" weight="4.0"></edge>
+      <edge id="Australia-Jury&gt;Armenia" kind="Jury" source="Australia" target="Armenia"></edge>
+      <edge id="Australia-Jury&gt;Austria" kind="Jury" source="Australia" target="Austria" weight="3.0"></edge>
+      <edge id="Australia-Jury&gt;Bulgaria" kind="Jury" source="Australia" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Australia-Jury&gt;Denmark" kind="Jury" source="Australia" target="Denmark" weight="5.0"></edge>
+      <edge id="Australia-Jury&gt;Moldova" kind="Jury" source="Australia" target="Moldova" weight="10.0"></edge>
+      <edge id="Australia-Jury&gt;Poland" kind="Jury" source="Australia" target="Poland" weight="2.0"></edge>
+      <edge id="Australia-Jury&gt;Portugal" kind="Jury" source="Australia" target="Portugal" weight="7.0"></edge>
+      <edge id="Australia-Jury&gt;Sweden" kind="Jury" source="Australia" target="Sweden" weight="6.0"></edge>
+      <edge id="Australia-Jury&gt;The Netherlands" kind="Jury" source="Australia" target="The Netherlands" weight="4.0"></edge>
+      <edge id="Australia-Jury&gt;United Kingdom" kind="Jury" source="Australia" target="United Kingdom" weight="12.0"></edge>
+      <edge id="Austria-Jury&gt;Belarus" kind="Jury" source="Austria" target="Belarus" weight="7.0"></edge>
+      <edge id="Austria-Jury&gt;Belgium" kind="Jury" source="Austria" target="Belgium" weight="2.0"></edge>
+      <edge id="Austria-Jury&gt;Bulgaria" kind="Jury" source="Austria" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Austria-Jury&gt;Hungary" kind="Jury" source="Austria" target="Hungary" weight="5.0"></edge>
+      <edge id="Austria-Jury&gt;Italy" kind="Jury" source="Austria" target="Italy" weight="6.0"></edge>
+      <edge id="Austria-Jury&gt;Norway" kind="Jury" source="Austria" target="Norway" weight="3.0"></edge>
+      <edge id="Austria-Jury&gt;Portugal" kind="Jury" source="Austria" target="Portugal" weight="8.0"></edge>
+      <edge id="Austria-Jury&gt;Sweden" kind="Jury" source="Austria" target="Sweden" weight="4.0"></edge>
+      <edge id="Austria-Jury&gt;The Netherlands" kind="Jury" source="Austria" target="The Netherlands" weight="12.0"></edge>
+      <edge id="Austria-Jury&gt;United Kingdom" kind="Jury" source="Austria" target="United Kingdom"></edge>
+      <edge id="Azerbaijan-Jury&gt;Belarus" kind="Jury" source="Azerbaijan" target="Belarus" weight="12.0"></edge>
+      <edge id="Azerbaijan-Jury&gt;Bulgaria" kind="Jury" source="Azerbaijan" target="Bulgaria" weight="2.0"></edge>
+      <edge id="Azerbaijan-Jury&gt;Croatia" kind="Jury" source="Azerbaijan" target="Croatia"></edge>
+      <edge id="Azerbaijan-Jury&gt;Greece" kind="Jury" source="Azerbaijan" target="Greece" weight="5.0"></edge>
+      <edge id="Azerbaijan-Jury&gt;Israel" kind="Jury" source="Azerbaijan" target="Israel" weight="4.0"></edge>
+      <edge id="Azerbaijan-Jury&gt;Moldova" kind="Jury" source="Azerbaijan" target="Moldova" weight="10.0"></edge>
+      <edge id="Azerbaijan-Jury&gt;Poland" kind="Jury" source="Azerbaijan" target="Poland" weight="6.0"></edge>
+      <edge id="Azerbaijan-Jury&gt;Portugal" kind="Jury" source="Azerbaijan" target="Portugal" weight="8.0"></edge>
+      <edge id="Azerbaijan-Jury&gt;Romania" kind="Jury" source="Azerbaijan" target="Romania" weight="3.0"></edge>
+      <edge id="Azerbaijan-Jury&gt;Ukraine" kind="Jury" source="Azerbaijan" target="Ukraine" weight="7.0"></edge>
+      <edge id="Belarus-Jury&gt;Australia" kind="Jury" source="Belarus" target="Australia" weight="7.0"></edge>
+      <edge id="Belarus-Jury&gt;Austria" kind="Jury" source="Belarus" target="Austria" weight="4.0"></edge>
+      <edge id="Belarus-Jury&gt;Bulgaria" kind="Jury" source="Belarus" target="Bulgaria" weight="12.0"></edge>
+      <edge id="Belarus-Jury&gt;Denmark" kind="Jury" source="Belarus" target="Denmark" weight="3.0"></edge>
+      <edge id="Belarus-Jury&gt;Israel" kind="Jury" source="Belarus" target="Israel"></edge>
+      <edge id="Belarus-Jury&gt;Norway" kind="Jury" source="Belarus" target="Norway" weight="6.0"></edge>
+      <edge id="Belarus-Jury&gt;Poland" kind="Jury" source="Belarus" target="Poland" weight="2.0"></edge>
+      <edge id="Belarus-Jury&gt;Portugal" kind="Jury" source="Belarus" target="Portugal" weight="10.0"></edge>
+      <edge id="Belarus-Jury&gt;Sweden" kind="Jury" source="Belarus" target="Sweden" weight="8.0"></edge>
+      <edge id="Belarus-Jury&gt;The Netherlands" kind="Jury" source="Belarus" target="The Netherlands" weight="5.0"></edge>
+      <edge id="Belgium-Jury&gt;Australia" kind="Jury" source="Belgium" target="Australia" weight="6.0"></edge>
+      <edge id="Belgium-Jury&gt;Austria" kind="Jury" source="Belgium" target="Austria" weight="3.0"></edge>
+      <edge id="Belgium-Jury&gt;Azerbaijan" kind="Jury" source="Belgium" target="Azerbaijan" weight="4.0"></edge>
+      <edge id="Belgium-Jury&gt;Bulgaria" kind="Jury" source="Belgium" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Belgium-Jury&gt;Cyprus" kind="Jury" source="Belgium" target="Cyprus" weight="5.0"></edge>
+      <edge id="Belgium-Jury&gt;France" kind="Jury" source="Belgium" target="France"></edge>
+      <edge id="Belgium-Jury&gt;Norway" kind="Jury" source="Belgium" target="Norway" weight="7.0"></edge>
+      <edge id="Belgium-Jury&gt;Portugal" kind="Jury" source="Belgium" target="Portugal" weight="8.0"></edge>
+      <edge id="Belgium-Jury&gt;Sweden" kind="Jury" source="Belgium" target="Sweden" weight="12.0"></edge>
+      <edge id="Belgium-Jury&gt;United Kingdom" kind="Jury" source="Belgium" target="United Kingdom" weight="2.0"></edge>
+      <edge id="Bulgaria-Jury&gt;Armenia" kind="Jury" source="Bulgaria" target="Armenia" weight="4.0"></edge>
+      <edge id="Bulgaria-Jury&gt;Austria" kind="Jury" source="Bulgaria" target="Austria" weight="12.0"></edge>
+      <edge id="Bulgaria-Jury&gt;Azerbaijan" kind="Jury" source="Bulgaria" target="Azerbaijan" weight="5.0"></edge>
+      <edge id="Bulgaria-Jury&gt;Belarus" kind="Jury" source="Bulgaria" target="Belarus" weight="2.0"></edge>
+      <edge id="Bulgaria-Jury&gt;Greece" kind="Jury" source="Bulgaria" target="Greece" weight="6.0"></edge>
+      <edge id="Bulgaria-Jury&gt;Israel" kind="Jury" source="Bulgaria" target="Israel" weight="8.0"></edge>
+      <edge id="Bulgaria-Jury&gt;Poland" kind="Jury" source="Bulgaria" target="Poland" weight="7.0"></edge>
+      <edge id="Bulgaria-Jury&gt;Romania" kind="Jury" source="Bulgaria" target="Romania" weight="3.0"></edge>
+      <edge id="Bulgaria-Jury&gt;The Netherlands" kind="Jury" source="Bulgaria" target="The Netherlands" weight="10.0"></edge>
+      <edge id="Bulgaria-Jury&gt;Ukraine" kind="Jury" source="Bulgaria" target="Ukraine"></edge>
+      <edge id="Croatia-Jury&gt;Australia" kind="Jury" source="Croatia" target="Australia" weight="6.0"></edge>
+      <edge id="Croatia-Jury&gt;Austria" kind="Jury" source="Croatia" target="Austria"></edge>
+      <edge id="Croatia-Jury&gt;Belarus" kind="Jury" source="Croatia" target="Belarus" weight="5.0"></edge>
+      <edge id="Croatia-Jury&gt;Bulgaria" kind="Jury" source="Croatia" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Croatia-Jury&gt;Denmark" kind="Jury" source="Croatia" target="Denmark" weight="3.0"></edge>
+      <edge id="Croatia-Jury&gt;Hungary" kind="Jury" source="Croatia" target="Hungary" weight="12.0"></edge>
+      <edge id="Croatia-Jury&gt;Norway" kind="Jury" source="Croatia" target="Norway" weight="2.0"></edge>
+      <edge id="Croatia-Jury&gt;Portugal" kind="Jury" source="Croatia" target="Portugal" weight="7.0"></edge>
+      <edge id="Croatia-Jury&gt;Sweden" kind="Jury" source="Croatia" target="Sweden" weight="4.0"></edge>
+      <edge id="Croatia-Jury&gt;The Netherlands" kind="Jury" source="Croatia" target="The Netherlands" weight="8.0"></edge>
+      <edge id="Cyprus-Jury&gt;Australia" kind="Jury" source="Cyprus" target="Australia" weight="4.0"></edge>
+      <edge id="Cyprus-Jury&gt;Azerbaijan" kind="Jury" source="Cyprus" target="Azerbaijan"></edge>
+      <edge id="Cyprus-Jury&gt;Belgium" kind="Jury" source="Cyprus" target="Belgium" weight="3.0"></edge>
+      <edge id="Cyprus-Jury&gt;Bulgaria" kind="Jury" source="Cyprus" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Cyprus-Jury&gt;France" kind="Jury" source="Cyprus" target="France" weight="2.0"></edge>
+      <edge id="Cyprus-Jury&gt;Greece" kind="Jury" source="Cyprus" target="Greece" weight="12.0"></edge>
+      <edge id="Cyprus-Jury&gt;Italy" kind="Jury" source="Cyprus" target="Italy" weight="10.0"></edge>
+      <edge id="Cyprus-Jury&gt;Portugal" kind="Jury" source="Cyprus" target="Portugal" weight="8.0"></edge>
+      <edge id="Cyprus-Jury&gt;Sweden" kind="Jury" source="Cyprus" target="Sweden" weight="6.0"></edge>
+      <edge id="Cyprus-Jury&gt;United Kingdom" kind="Jury" source="Cyprus" target="United Kingdom" weight="5.0"></edge>
+      <edge id="Czech Republic-Jury&gt;Australia" kind="Jury" source="Czech Republic" target="Australia" weight="10.0"></edge>
+      <edge id="Czech Republic-Jury&gt;Austria" kind="Jury" source="Czech Republic" target="Austria" weight="4.0"></edge>
+      <edge id="Czech Republic-Jury&gt;Bulgaria" kind="Jury" source="Czech Republic" target="Bulgaria" weight="2.0"></edge>
+      <edge id="Czech Republic-Jury&gt;Denmark" kind="Jury" source="Czech Republic" target="Denmark" weight="6.0"></edge>
+      <edge id="Czech Republic-Jury&gt;Moldova" kind="Jury" source="Czech Republic" target="Moldova" weight="3.0"></edge>
+      <edge id="Czech Republic-Jury&gt;Poland" kind="Jury" source="Czech Republic" target="Poland"></edge>
+      <edge id="Czech Republic-Jury&gt;Portugal" kind="Jury" source="Czech Republic" target="Portugal" weight="12.0"></edge>
+      <edge id="Czech Republic-Jury&gt;Sweden" kind="Jury" source="Czech Republic" target="Sweden" weight="7.0"></edge>
+      <edge id="Czech Republic-Jury&gt;The Netherlands" kind="Jury" source="Czech Republic" target="The Netherlands" weight="8.0"></edge>
+      <edge id="Czech Republic-Jury&gt;United Kingdom" kind="Jury" source="Czech Republic" target="United Kingdom" weight="5.0"></edge>
+      <edge id="Denmark-Jury&gt;Armenia" kind="Jury" source="Denmark" target="Armenia"></edge>
+      <edge id="Denmark-Jury&gt;Australia" kind="Jury" source="Denmark" target="Australia" weight="8.0"></edge>
+      <edge id="Denmark-Jury&gt;Austria" kind="Jury" source="Denmark" target="Austria" weight="7.0"></edge>
+      <edge id="Denmark-Jury&gt;Belgium" kind="Jury" source="Denmark" target="Belgium" weight="2.0"></edge>
+      <edge id="Denmark-Jury&gt;Bulgaria" kind="Jury" source="Denmark" target="Bulgaria" weight="4.0"></edge>
+      <edge id="Denmark-Jury&gt;Moldova" kind="Jury" source="Denmark" target="Moldova" weight="3.0"></edge>
+      <edge id="Denmark-Jury&gt;Norway" kind="Jury" source="Denmark" target="Norway" weight="6.0"></edge>
+      <edge id="Denmark-Jury&gt;Portugal" kind="Jury" source="Denmark" target="Portugal" weight="10.0"></edge>
+      <edge id="Denmark-Jury&gt;Sweden" kind="Jury" source="Denmark" target="Sweden" weight="12.0"></edge>
+      <edge id="Denmark-Jury&gt;The Netherlands" kind="Jury" source="Denmark" target="The Netherlands" weight="5.0"></edge>
+      <edge id="Estonia-Jury&gt;Australia" kind="Jury" source="Estonia" target="Australia" weight="7.0"></edge>
+      <edge id="Estonia-Jury&gt;Belgium" kind="Jury" source="Estonia" target="Belgium" weight="2.0"></edge>
+      <edge id="Estonia-Jury&gt;Bulgaria" kind="Jury" source="Estonia" target="Bulgaria" weight="12.0"></edge>
+      <edge id="Estonia-Jury&gt;Denmark" kind="Jury" source="Estonia" target="Denmark" weight="5.0"></edge>
+      <edge id="Estonia-Jury&gt;Hungary" kind="Jury" source="Estonia" target="Hungary"></edge>
+      <edge id="Estonia-Jury&gt;Norway" kind="Jury" source="Estonia" target="Norway" weight="10.0"></edge>
+      <edge id="Estonia-Jury&gt;Portugal" kind="Jury" source="Estonia" target="Portugal" weight="8.0"></edge>
+      <edge id="Estonia-Jury&gt;Sweden" kind="Jury" source="Estonia" target="Sweden" weight="3.0"></edge>
+      <edge id="Estonia-Jury&gt;The Netherlands" kind="Jury" source="Estonia" target="The Netherlands" weight="4.0"></edge>
+      <edge id="Estonia-Jury&gt;United Kingdom" kind="Jury" source="Estonia" target="United Kingdom" weight="6.0"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;Australia" kind="Jury" source="F.Y.R. Macedonia" target="Australia" weight="8.0"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;Bulgaria" kind="Jury" source="F.Y.R. Macedonia" target="Bulgaria" weight="12.0"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;Denmark" kind="Jury" source="F.Y.R. Macedonia" target="Denmark" weight="7.0"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;France" kind="Jury" source="F.Y.R. Macedonia" target="France" weight="5.0"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;Moldova" kind="Jury" source="F.Y.R. Macedonia" target="Moldova" weight="6.0"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;Norway" kind="Jury" source="F.Y.R. Macedonia" target="Norway" weight="2.0"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;Portugal" kind="Jury" source="F.Y.R. Macedonia" target="Portugal" weight="10.0"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;Romania" kind="Jury" source="F.Y.R. Macedonia" target="Romania" weight="4.0"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;Sweden" kind="Jury" source="F.Y.R. Macedonia" target="Sweden"></edge>
+      <edge id="F.Y.R. Macedonia-Jury&gt;United Kingdom" kind="Jury" source="F.Y.R. Macedonia" target="United Kingdom" weight="3.0"></edge>
+      <edge id="Finland-Jury&gt;Australia" kind="Jury" source="Finland" target="Australia" weight="10.0"></edge>
+      <edge id="Finland-Jury&gt;Bulgaria" kind="Jury" source="Finland" target="Bulgaria" weight="6.0"></edge>
+      <edge id="Finland-Jury&gt;Cyprus" kind="Jury" source="Finland" target="Cyprus" weight="5.0"></edge>
+      <edge id="Finland-Jury&gt;Denmark" kind="Jury" source="Finland" target="Denmark" weight="4.0"></edge>
+      <edge id="Finland-Jury&gt;Italy" kind="Jury" source="Finland" target="Italy" weight="7.0"></edge>
+      <edge id="Finland-Jury&gt;Moldova" kind="Jury" source="Finland" target="Moldova" weight="3.0"></edge>
+      <edge id="Finland-Jury&gt;Norway" kind="Jury" source="Finland" target="Norway"></edge>
+      <edge id="Finland-Jury&gt;Portugal" kind="Jury" source="Finland" target="Portugal" weight="8.0"></edge>
+      <edge id="Finland-Jury&gt;Sweden" kind="Jury" source="Finland" target="Sweden" weight="12.0"></edge>
+      <edge id="Finland-Jury&gt;United Kingdom" kind="Jury" source="Finland" target="United Kingdom" weight="2.0"></edge>
+      <edge id="France-Jury&gt;Australia" kind="Jury" source="France" target="Australia" weight="2.0"></edge>
+      <edge id="France-Jury&gt;Austria" kind="Jury" source="France" target="Austria"></edge>
+      <edge id="France-Jury&gt;Bulgaria" kind="Jury" source="France" target="Bulgaria" weight="5.0"></edge>
+      <edge id="France-Jury&gt;Israel" kind="Jury" source="France" target="Israel" weight="6.0"></edge>
+      <edge id="France-Jury&gt;Italy" kind="Jury" source="France" target="Italy" weight="10.0"></edge>
+      <edge id="France-Jury&gt;Norway" kind="Jury" source="France" target="Norway" weight="7.0"></edge>
+      <edge id="France-Jury&gt;Portugal" kind="Jury" source="France" target="Portugal" weight="12.0"></edge>
+      <edge id="France-Jury&gt;Sweden" kind="Jury" source="France" target="Sweden" weight="8.0"></edge>
+      <edge id="France-Jury&gt;The Netherlands" kind="Jury" source="France" target="The Netherlands" weight="4.0"></edge>
+      <edge id="France-Jury&gt;United Kingdom" kind="Jury" source="France" target="United Kingdom" weight="3.0"></edge>
+      <edge id="Georgia-Jury&gt;Armenia" kind="Jury" source="Georgia" target="Armenia" weight="3.0"></edge>
+      <edge id="Georgia-Jury&gt;Austria" kind="Jury" source="Georgia" target="Austria" weight="5.0"></edge>
+      <edge id="Georgia-Jury&gt;Azerbaijan" kind="Jury" source="Georgia" target="Azerbaijan" weight="10.0"></edge>
+      <edge id="Georgia-Jury&gt;Bulgaria" kind="Jury" source="Georgia" target="Bulgaria" weight="6.0"></edge>
+      <edge id="Georgia-Jury&gt;Cyprus" kind="Jury" source="Georgia" target="Cyprus" weight="4.0"></edge>
+      <edge id="Georgia-Jury&gt;Italy" kind="Jury" source="Georgia" target="Italy" weight="2.0"></edge>
+      <edge id="Georgia-Jury&gt;Norway" kind="Jury" source="Georgia" target="Norway" weight="7.0"></edge>
+      <edge id="Georgia-Jury&gt;Portugal" kind="Jury" source="Georgia" target="Portugal" weight="12.0"></edge>
+      <edge id="Georgia-Jury&gt;Sweden" kind="Jury" source="Georgia" target="Sweden" weight="8.0"></edge>
+      <edge id="Georgia-Jury&gt;The Netherlands" kind="Jury" source="Georgia" target="The Netherlands"></edge>
+      <edge id="Germany-Jury&gt;Australia" kind="Jury" source="Germany" target="Australia" weight="5.0"></edge>
+      <edge id="Germany-Jury&gt;Austria" kind="Jury" source="Germany" target="Austria" weight="2.0"></edge>
+      <edge id="Germany-Jury&gt;Bulgaria" kind="Jury" source="Germany" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Germany-Jury&gt;Croatia" kind="Jury" source="Germany" target="Croatia" weight="3.0"></edge>
+      <edge id="Germany-Jury&gt;Hungary" kind="Jury" source="Germany" target="Hungary"></edge>
+      <edge id="Germany-Jury&gt;Norway" kind="Jury" source="Germany" target="Norway" weight="12.0"></edge>
+      <edge id="Germany-Jury&gt;Portugal" kind="Jury" source="Germany" target="Portugal" weight="10.0"></edge>
+      <edge id="Germany-Jury&gt;Sweden" kind="Jury" source="Germany" target="Sweden" weight="4.0"></edge>
+      <edge id="Germany-Jury&gt;The Netherlands" kind="Jury" source="Germany" target="The Netherlands" weight="7.0"></edge>
+      <edge id="Germany-Jury&gt;United Kingdom" kind="Jury" source="Germany" target="United Kingdom" weight="6.0"></edge>
+      <edge id="Greece-Jury&gt;Armenia" kind="Jury" source="Greece" target="Armenia" weight="8.0"></edge>
+      <edge id="Greece-Jury&gt;Azerbaijan" kind="Jury" source="Greece" target="Azerbaijan" weight="10.0"></edge>
+      <edge id="Greece-Jury&gt;Belarus" kind="Jury" source="Greece" target="Belarus" weight="3.0"></edge>
+      <edge id="Greece-Jury&gt;Bulgaria" kind="Jury" source="Greece" target="Bulgaria" weight="2.0"></edge>
+      <edge id="Greece-Jury&gt;Cyprus" kind="Jury" source="Greece" target="Cyprus" weight="12.0"></edge>
+      <edge id="Greece-Jury&gt;Italy" kind="Jury" source="Greece" target="Italy" weight="4.0"></edge>
+      <edge id="Greece-Jury&gt;Moldova" kind="Jury" source="Greece" target="Moldova" weight="7.0"></edge>
+      <edge id="Greece-Jury&gt;Portugal" kind="Jury" source="Greece" target="Portugal" weight="5.0"></edge>
+      <edge id="Greece-Jury&gt;Romania" kind="Jury" source="Greece" target="Romania" weight="6.0"></edge>
+      <edge id="Greece-Jury&gt;United Kingdom" kind="Jury" source="Greece" target="United Kingdom"></edge>
+      <edge id="Hungary-Jury&gt;Armenia" kind="Jury" source="Hungary" target="Armenia" weight="2.0"></edge>
+      <edge id="Hungary-Jury&gt;Australia" kind="Jury" source="Hungary" target="Australia" weight="7.0"></edge>
+      <edge id="Hungary-Jury&gt;Azerbaijan" kind="Jury" source="Hungary" target="Azerbaijan" weight="4.0"></edge>
+      <edge id="Hungary-Jury&gt;Bulgaria" kind="Jury" source="Hungary" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Hungary-Jury&gt;Denmark" kind="Jury" source="Hungary" target="Denmark" weight="5.0"></edge>
+      <edge id="Hungary-Jury&gt;Norway" kind="Jury" source="Hungary" target="Norway" weight="6.0"></edge>
+      <edge id="Hungary-Jury&gt;Portugal" kind="Jury" source="Hungary" target="Portugal" weight="12.0"></edge>
+      <edge id="Hungary-Jury&gt;Sweden" kind="Jury" source="Hungary" target="Sweden"></edge>
+      <edge id="Hungary-Jury&gt;The Netherlands" kind="Jury" source="Hungary" target="The Netherlands" weight="8.0"></edge>
+      <edge id="Hungary-Jury&gt;United Kingdom" kind="Jury" source="Hungary" target="United Kingdom" weight="3.0"></edge>
+      <edge id="Iceland-Jury&gt;Australia" kind="Jury" source="Iceland" target="Australia" weight="10.0"></edge>
+      <edge id="Iceland-Jury&gt;Belgium" kind="Jury" source="Iceland" target="Belgium" weight="2.0"></edge>
+      <edge id="Iceland-Jury&gt;Bulgaria" kind="Jury" source="Iceland" target="Bulgaria" weight="6.0"></edge>
+      <edge id="Iceland-Jury&gt;Denmark" kind="Jury" source="Iceland" target="Denmark" weight="3.0"></edge>
+      <edge id="Iceland-Jury&gt;Hungary" kind="Jury" source="Iceland" target="Hungary" weight="4.0"></edge>
+      <edge id="Iceland-Jury&gt;Italy" kind="Jury" source="Iceland" target="Italy" weight="5.0"></edge>
+      <edge id="Iceland-Jury&gt;Norway" kind="Jury" source="Iceland" target="Norway"></edge>
+      <edge id="Iceland-Jury&gt;Portugal" kind="Jury" source="Iceland" target="Portugal" weight="12.0"></edge>
+      <edge id="Iceland-Jury&gt;Sweden" kind="Jury" source="Iceland" target="Sweden" weight="8.0"></edge>
+      <edge id="Iceland-Jury&gt;United Kingdom" kind="Jury" source="Iceland" target="United Kingdom" weight="7.0"></edge>
+      <edge id="Ireland-Jury&gt;Austria" kind="Jury" source="Ireland" target="Austria" weight="7.0"></edge>
+      <edge id="Ireland-Jury&gt;Azerbaijan" kind="Jury" source="Ireland" target="Azerbaijan"></edge>
+      <edge id="Ireland-Jury&gt;Belgium" kind="Jury" source="Ireland" target="Belgium" weight="12.0"></edge>
+      <edge id="Ireland-Jury&gt;Bulgaria" kind="Jury" source="Ireland" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Ireland-Jury&gt;Germany" kind="Jury" source="Ireland" target="Germany" weight="3.0"></edge>
+      <edge id="Ireland-Jury&gt;Norway" kind="Jury" source="Ireland" target="Norway" weight="2.0"></edge>
+      <edge id="Ireland-Jury&gt;Portugal" kind="Jury" source="Ireland" target="Portugal" weight="5.0"></edge>
+      <edge id="Ireland-Jury&gt;Romania" kind="Jury" source="Ireland" target="Romania" weight="8.0"></edge>
+      <edge id="Ireland-Jury&gt;Sweden" kind="Jury" source="Ireland" target="Sweden" weight="6.0"></edge>
+      <edge id="Ireland-Jury&gt;The Netherlands" kind="Jury" source="Ireland" target="The Netherlands" weight="4.0"></edge>
+      <edge id="Israel-Jury&gt;Belarus" kind="Jury" source="Israel" target="Belarus"></edge>
+      <edge id="Israel-Jury&gt;Belgium" kind="Jury" source="Israel" target="Belgium" weight="8.0"></edge>
+      <edge id="Israel-Jury&gt;Bulgaria" kind="Jury" source="Israel" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Israel-Jury&gt;France" kind="Jury" source="Israel" target="France" weight="6.0"></edge>
+      <edge id="Israel-Jury&gt;Italy" kind="Jury" source="Israel" target="Italy" weight="2.0"></edge>
+      <edge id="Israel-Jury&gt;Moldova" kind="Jury" source="Israel" target="Moldova" weight="3.0"></edge>
+      <edge id="Israel-Jury&gt;Norway" kind="Jury" source="Israel" target="Norway" weight="5.0"></edge>
+      <edge id="Israel-Jury&gt;Portugal" kind="Jury" source="Israel" target="Portugal" weight="12.0"></edge>
+      <edge id="Israel-Jury&gt;Sweden" kind="Jury" source="Israel" target="Sweden" weight="10.0"></edge>
+      <edge id="Israel-Jury&gt;Ukraine" kind="Jury" source="Israel" target="Ukraine" weight="4.0"></edge>
+      <edge id="Italy-Jury&gt;Armenia" kind="Jury" source="Italy" target="Armenia" weight="4.0"></edge>
+      <edge id="Italy-Jury&gt;Austria" kind="Jury" source="Italy" target="Austria"></edge>
+      <edge id="Italy-Jury&gt;Azerbaijan" kind="Jury" source="Italy" target="Azerbaijan" weight="12.0"></edge>
+      <edge id="Italy-Jury&gt;Belgium" kind="Jury" source="Italy" target="Belgium" weight="7.0"></edge>
+      <edge id="Italy-Jury&gt;Bulgaria" kind="Jury" source="Italy" target="Bulgaria" weight="2.0"></edge>
+      <edge id="Italy-Jury&gt;France" kind="Jury" source="Italy" target="France" weight="6.0"></edge>
+      <edge id="Italy-Jury&gt;Moldova" kind="Jury" source="Italy" target="Moldova" weight="8.0"></edge>
+      <edge id="Italy-Jury&gt;Norway" kind="Jury" source="Italy" target="Norway" weight="3.0"></edge>
+      <edge id="Italy-Jury&gt;Portugal" kind="Jury" source="Italy" target="Portugal" weight="5.0"></edge>
+      <edge id="Italy-Jury&gt;Sweden" kind="Jury" source="Italy" target="Sweden" weight="10.0"></edge>
+      <edge id="Latvia-Jury&gt;Australia" kind="Jury" source="Latvia" target="Australia" weight="5.0"></edge>
+      <edge id="Latvia-Jury&gt;Austria" kind="Jury" source="Latvia" target="Austria" weight="6.0"></edge>
+      <edge id="Latvia-Jury&gt;Belarus" kind="Jury" source="Latvia" target="Belarus" weight="2.0"></edge>
+      <edge id="Latvia-Jury&gt;Belgium" kind="Jury" source="Latvia" target="Belgium" weight="10.0"></edge>
+      <edge id="Latvia-Jury&gt;Bulgaria" kind="Jury" source="Latvia" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Latvia-Jury&gt;Moldova" kind="Jury" source="Latvia" target="Moldova"></edge>
+      <edge id="Latvia-Jury&gt;Norway" kind="Jury" source="Latvia" target="Norway" weight="7.0"></edge>
+      <edge id="Latvia-Jury&gt;Portugal" kind="Jury" source="Latvia" target="Portugal" weight="12.0"></edge>
+      <edge id="Latvia-Jury&gt;Romania" kind="Jury" source="Latvia" target="Romania" weight="3.0"></edge>
+      <edge id="Latvia-Jury&gt;United Kingdom" kind="Jury" source="Latvia" target="United Kingdom" weight="4.0"></edge>
+      <edge id="Lithuania-Jury&gt;Armenia" kind="Jury" source="Lithuania" target="Armenia" weight="3.0"></edge>
+      <edge id="Lithuania-Jury&gt;Australia" kind="Jury" source="Lithuania" target="Australia"></edge>
+      <edge id="Lithuania-Jury&gt;Austria" kind="Jury" source="Lithuania" target="Austria" weight="5.0"></edge>
+      <edge id="Lithuania-Jury&gt;Belgium" kind="Jury" source="Lithuania" target="Belgium" weight="4.0"></edge>
+      <edge id="Lithuania-Jury&gt;Bulgaria" kind="Jury" source="Lithuania" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Lithuania-Jury&gt;Italy" kind="Jury" source="Lithuania" target="Italy" weight="8.0"></edge>
+      <edge id="Lithuania-Jury&gt;Norway" kind="Jury" source="Lithuania" target="Norway" weight="10.0"></edge>
+      <edge id="Lithuania-Jury&gt;Portugal" kind="Jury" source="Lithuania" target="Portugal" weight="12.0"></edge>
+      <edge id="Lithuania-Jury&gt;Sweden" kind="Jury" source="Lithuania" target="Sweden" weight="6.0"></edge>
+      <edge id="Lithuania-Jury&gt;The Netherlands" kind="Jury" source="Lithuania" target="The Netherlands" weight="2.0"></edge>
+      <edge id="Malta-Jury&gt;Armenia" kind="Jury" source="Malta" target="Armenia"></edge>
+      <edge id="Malta-Jury&gt;Belarus" kind="Jury" source="Malta" target="Belarus" weight="2.0"></edge>
+      <edge id="Malta-Jury&gt;Bulgaria" kind="Jury" source="Malta" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Malta-Jury&gt;Croatia" kind="Jury" source="Malta" target="Croatia" weight="6.0"></edge>
+      <edge id="Malta-Jury&gt;France" kind="Jury" source="Malta" target="France" weight="4.0"></edge>
+      <edge id="Malta-Jury&gt;Hungary" kind="Jury" source="Malta" target="Hungary" weight="3.0"></edge>
+      <edge id="Malta-Jury&gt;Israel" kind="Jury" source="Malta" target="Israel" weight="7.0"></edge>
+      <edge id="Malta-Jury&gt;Italy" kind="Jury" source="Malta" target="Italy" weight="12.0"></edge>
+      <edge id="Malta-Jury&gt;Portugal" kind="Jury" source="Malta" target="Portugal" weight="10.0"></edge>
+      <edge id="Malta-Jury&gt;Romania" kind="Jury" source="Malta" target="Romania" weight="5.0"></edge>
+      <edge id="Moldova-Jury&gt;Armenia" kind="Jury" source="Moldova" target="Armenia" weight="6.0"></edge>
+      <edge id="Moldova-Jury&gt;Australia" kind="Jury" source="Moldova" target="Australia" weight="4.0"></edge>
+      <edge id="Moldova-Jury&gt;Austria" kind="Jury" source="Moldova" target="Austria" weight="2.0"></edge>
+      <edge id="Moldova-Jury&gt;Azerbaijan" kind="Jury" source="Moldova" target="Azerbaijan" weight="5.0"></edge>
+      <edge id="Moldova-Jury&gt;Belarus" kind="Jury" source="Moldova" target="Belarus" weight="3.0"></edge>
+      <edge id="Moldova-Jury&gt;Bulgaria" kind="Jury" source="Moldova" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Moldova-Jury&gt;Hungary" kind="Jury" source="Moldova" target="Hungary"></edge>
+      <edge id="Moldova-Jury&gt;Portugal" kind="Jury" source="Moldova" target="Portugal" weight="7.0"></edge>
+      <edge id="Moldova-Jury&gt;Romania" kind="Jury" source="Moldova" target="Romania" weight="12.0"></edge>
+      <edge id="Moldova-Jury&gt;Sweden" kind="Jury" source="Moldova" target="Sweden" weight="8.0"></edge>
+      <edge id="Montenegro-Jury&gt;Armenia" kind="Jury" source="Montenegro" target="Armenia" weight="4.0"></edge>
+      <edge id="Montenegro-Jury&gt;Austria" kind="Jury" source="Montenegro" target="Austria"></edge>
+      <edge id="Montenegro-Jury&gt;Belgium" kind="Jury" source="Montenegro" target="Belgium" weight="6.0"></edge>
+      <edge id="Montenegro-Jury&gt;Bulgaria" kind="Jury" source="Montenegro" target="Bulgaria" weight="2.0"></edge>
+      <edge id="Montenegro-Jury&gt;Croatia" kind="Jury" source="Montenegro" target="Croatia" weight="5.0"></edge>
+      <edge id="Montenegro-Jury&gt;France" kind="Jury" source="Montenegro" target="France" weight="3.0"></edge>
+      <edge id="Montenegro-Jury&gt;Greece" kind="Jury" source="Montenegro" target="Greece" weight="12.0"></edge>
+      <edge id="Montenegro-Jury&gt;Italy" kind="Jury" source="Montenegro" target="Italy" weight="8.0"></edge>
+      <edge id="Montenegro-Jury&gt;Romania" kind="Jury" source="Montenegro" target="Romania" weight="10.0"></edge>
+      <edge id="Montenegro-Jury&gt;Sweden" kind="Jury" source="Montenegro" target="Sweden" weight="7.0"></edge>
+      <edge id="Norway-Jury&gt;Australia" kind="Jury" source="Norway" target="Australia" weight="3.0"></edge>
+      <edge id="Norway-Jury&gt;Bulgaria" kind="Jury" source="Norway" target="Bulgaria" weight="12.0"></edge>
+      <edge id="Norway-Jury&gt;Denmark" kind="Jury" source="Norway" target="Denmark" weight="8.0"></edge>
+      <edge id="Norway-Jury&gt;Israel" kind="Jury" source="Norway" target="Israel" weight="5.0"></edge>
+      <edge id="Norway-Jury&gt;Italy" kind="Jury" source="Norway" target="Italy" weight="7.0"></edge>
+      <edge id="Norway-Jury&gt;Moldova" kind="Jury" source="Norway" target="Moldova" weight="2.0"></edge>
+      <edge id="Norway-Jury&gt;Portugal" kind="Jury" source="Norway" target="Portugal" weight="10.0"></edge>
+      <edge id="Norway-Jury&gt;Sweden" kind="Jury" source="Norway" target="Sweden" weight="6.0"></edge>
+      <edge id="Norway-Jury&gt;The Netherlands" kind="Jury" source="Norway" target="The Netherlands" weight="4.0"></edge>
+      <edge id="Norway-Jury&gt;United Kingdom" kind="Jury" source="Norway" target="United Kingdom"></edge>
+      <edge id="Poland-Jury&gt;Armenia" kind="Jury" source="Poland" target="Armenia" weight="2.0"></edge>
+      <edge id="Poland-Jury&gt;Australia" kind="Jury" source="Poland" target="Australia" weight="7.0"></edge>
+      <edge id="Poland-Jury&gt;Azerbaijan" kind="Jury" source="Poland" target="Azerbaijan"></edge>
+      <edge id="Poland-Jury&gt;Belgium" kind="Jury" source="Poland" target="Belgium" weight="10.0"></edge>
+      <edge id="Poland-Jury&gt;Bulgaria" kind="Jury" source="Poland" target="Bulgaria" weight="6.0"></edge>
+      <edge id="Poland-Jury&gt;Norway" kind="Jury" source="Poland" target="Norway" weight="3.0"></edge>
+      <edge id="Poland-Jury&gt;Portugal" kind="Jury" source="Poland" target="Portugal" weight="12.0"></edge>
+      <edge id="Poland-Jury&gt;Sweden" kind="Jury" source="Poland" target="Sweden" weight="4.0"></edge>
+      <edge id="Poland-Jury&gt;The Netherlands" kind="Jury" source="Poland" target="The Netherlands" weight="8.0"></edge>
+      <edge id="Poland-Jury&gt;United Kingdom" kind="Jury" source="Poland" target="United Kingdom" weight="5.0"></edge>
+      <edge id="Portugal-Jury&gt;Australia" kind="Jury" source="Portugal" target="Australia" weight="5.0"></edge>
+      <edge id="Portugal-Jury&gt;Austria" kind="Jury" source="Portugal" target="Austria" weight="10.0"></edge>
+      <edge id="Portugal-Jury&gt;Azerbaijan" kind="Jury" source="Portugal" target="Azerbaijan" weight="12.0"></edge>
+      <edge id="Portugal-Jury&gt;Belgium" kind="Jury" source="Portugal" target="Belgium" weight="8.0"></edge>
+      <edge id="Portugal-Jury&gt;Cyprus" kind="Jury" source="Portugal" target="Cyprus"></edge>
+      <edge id="Portugal-Jury&gt;France" kind="Jury" source="Portugal" target="France" weight="4.0"></edge>
+      <edge id="Portugal-Jury&gt;Moldova" kind="Jury" source="Portugal" target="Moldova" weight="6.0"></edge>
+      <edge id="Portugal-Jury&gt;Norway" kind="Jury" source="Portugal" target="Norway" weight="2.0"></edge>
+      <edge id="Portugal-Jury&gt;Sweden" kind="Jury" source="Portugal" target="Sweden" weight="7.0"></edge>
+      <edge id="Portugal-Jury&gt;The Netherlands" kind="Jury" source="Portugal" target="The Netherlands" weight="3.0"></edge>
+      <edge id="Romania-Jury&gt;Australia" kind="Jury" source="Romania" target="Australia" weight="4.0"></edge>
+      <edge id="Romania-Jury&gt;Austria" kind="Jury" source="Romania" target="Austria"></edge>
+      <edge id="Romania-Jury&gt;Bulgaria" kind="Jury" source="Romania" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Romania-Jury&gt;Croatia" kind="Jury" source="Romania" target="Croatia" weight="3.0"></edge>
+      <edge id="Romania-Jury&gt;Denmark" kind="Jury" source="Romania" target="Denmark" weight="5.0"></edge>
+      <edge id="Romania-Jury&gt;Israel" kind="Jury" source="Romania" target="Israel" weight="2.0"></edge>
+      <edge id="Romania-Jury&gt;Moldova" kind="Jury" source="Romania" target="Moldova" weight="8.0"></edge>
+      <edge id="Romania-Jury&gt;Portugal" kind="Jury" source="Romania" target="Portugal" weight="6.0"></edge>
+      <edge id="Romania-Jury&gt;Sweden" kind="Jury" source="Romania" target="Sweden" weight="7.0"></edge>
+      <edge id="Romania-Jury&gt;The Netherlands" kind="Jury" source="Romania" target="The Netherlands" weight="12.0"></edge>
+      <edge id="San Marino-Jury&gt;Armenia" kind="Jury" source="San Marino" target="Armenia" weight="4.0"></edge>
+      <edge id="San Marino-Jury&gt;Azerbaijan" kind="Jury" source="San Marino" target="Azerbaijan" weight="5.0"></edge>
+      <edge id="San Marino-Jury&gt;Belgium" kind="Jury" source="San Marino" target="Belgium" weight="8.0"></edge>
+      <edge id="San Marino-Jury&gt;Bulgaria" kind="Jury" source="San Marino" target="Bulgaria" weight="2.0"></edge>
+      <edge id="San Marino-Jury&gt;Italy" kind="Jury" source="San Marino" target="Italy" weight="3.0"></edge>
+      <edge id="San Marino-Jury&gt;Norway" kind="Jury" source="San Marino" target="Norway" weight="10.0"></edge>
+      <edge id="San Marino-Jury&gt;Poland" kind="Jury" source="San Marino" target="Poland"></edge>
+      <edge id="San Marino-Jury&gt;Portugal" kind="Jury" source="San Marino" target="Portugal" weight="12.0"></edge>
+      <edge id="San Marino-Jury&gt;The Netherlands" kind="Jury" source="San Marino" target="The Netherlands" weight="7.0"></edge>
+      <edge id="San Marino-Jury&gt;United Kingdom" kind="Jury" source="San Marino" target="United Kingdom" weight="6.0"></edge>
+      <edge id="Serbia-Jury&gt;Armenia" kind="Jury" source="Serbia" target="Armenia" weight="5.0"></edge>
+      <edge id="Serbia-Jury&gt;Australia" kind="Jury" source="Serbia" target="Australia" weight="3.0"></edge>
+      <edge id="Serbia-Jury&gt;Austria" kind="Jury" source="Serbia" target="Austria" weight="4.0"></edge>
+      <edge id="Serbia-Jury&gt;Bulgaria" kind="Jury" source="Serbia" target="Bulgaria" weight="6.0"></edge>
+      <edge id="Serbia-Jury&gt;Hungary" kind="Jury" source="Serbia" target="Hungary" weight="10.0"></edge>
+      <edge id="Serbia-Jury&gt;Israel" kind="Jury" source="Serbia" target="Israel"></edge>
+      <edge id="Serbia-Jury&gt;Italy" kind="Jury" source="Serbia" target="Italy" weight="8.0"></edge>
+      <edge id="Serbia-Jury&gt;Moldova" kind="Jury" source="Serbia" target="Moldova" weight="7.0"></edge>
+      <edge id="Serbia-Jury&gt;Portugal" kind="Jury" source="Serbia" target="Portugal" weight="12.0"></edge>
+      <edge id="Serbia-Jury&gt;Sweden" kind="Jury" source="Serbia" target="Sweden" weight="2.0"></edge>
+      <edge id="Slovenia-Jury&gt;Armenia" kind="Jury" source="Slovenia" target="Armenia" weight="3.0"></edge>
+      <edge id="Slovenia-Jury&gt;Australia" kind="Jury" source="Slovenia" target="Australia" weight="7.0"></edge>
+      <edge id="Slovenia-Jury&gt;Belgium" kind="Jury" source="Slovenia" target="Belgium" weight="5.0"></edge>
+      <edge id="Slovenia-Jury&gt;Bulgaria" kind="Jury" source="Slovenia" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Slovenia-Jury&gt;Italy" kind="Jury" source="Slovenia" target="Italy" weight="2.0"></edge>
+      <edge id="Slovenia-Jury&gt;Poland" kind="Jury" source="Slovenia" target="Poland" weight="4.0"></edge>
+      <edge id="Slovenia-Jury&gt;Portugal" kind="Jury" source="Slovenia" target="Portugal" weight="12.0"></edge>
+      <edge id="Slovenia-Jury&gt;Sweden" kind="Jury" source="Slovenia" target="Sweden" weight="6.0"></edge>
+      <edge id="Slovenia-Jury&gt;The Netherlands" kind="Jury" source="Slovenia" target="The Netherlands"></edge>
+      <edge id="Slovenia-Jury&gt;United Kingdom" kind="Jury" source="Slovenia" target="United Kingdom" weight="10.0"></edge>
+      <edge id="Spain-Jury&gt;Australia" kind="Jury" source="Spain" target="Australia" weight="8.0"></edge>
+      <edge id="Spain-Jury&gt;Austria" kind="Jury" source="Spain" target="Austria" weight="3.0"></edge>
+      <edge id="Spain-Jury&gt;Belgium" kind="Jury" source="Spain" target="Belgium" weight="4.0"></edge>
+      <edge id="Spain-Jury&gt;Bulgaria" kind="Jury" source="Spain" target="Bulgaria" weight="6.0"></edge>
+      <edge id="Spain-Jury&gt;Greece" kind="Jury" source="Spain" target="Greece" weight="2.0"></edge>
+      <edge id="Spain-Jury&gt;Italy" kind="Jury" source="Spain" target="Italy" weight="10.0"></edge>
+      <edge id="Spain-Jury&gt;Moldova" kind="Jury" source="Spain" target="Moldova" weight="7.0"></edge>
+      <edge id="Spain-Jury&gt;Portugal" kind="Jury" source="Spain" target="Portugal" weight="12.0"></edge>
+      <edge id="Spain-Jury&gt;Sweden" kind="Jury" source="Spain" target="Sweden" weight="5.0"></edge>
+      <edge id="Spain-Jury&gt;The Netherlands" kind="Jury" source="Spain" target="The Netherlands"></edge>
+      <edge id="Sweden-Jury&gt;Australia" kind="Jury" source="Sweden" target="Australia" weight="10.0"></edge>
+      <edge id="Sweden-Jury&gt;Austria" kind="Jury" source="Sweden" target="Austria" weight="4.0"></edge>
+      <edge id="Sweden-Jury&gt;Belgium" kind="Jury" source="Sweden" target="Belgium"></edge>
+      <edge id="Sweden-Jury&gt;Bulgaria" kind="Jury" source="Sweden" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Sweden-Jury&gt;Cyprus" kind="Jury" source="Sweden" target="Cyprus" weight="2.0"></edge>
+      <edge id="Sweden-Jury&gt;Denmark" kind="Jury" source="Sweden" target="Denmark" weight="5.0"></edge>
+      <edge id="Sweden-Jury&gt;Italy" kind="Jury" source="Sweden" target="Italy" weight="6.0"></edge>
+      <edge id="Sweden-Jury&gt;Moldova" kind="Jury" source="Sweden" target="Moldova" weight="8.0"></edge>
+      <edge id="Sweden-Jury&gt;Portugal" kind="Jury" source="Sweden" target="Portugal" weight="12.0"></edge>
+      <edge id="Sweden-Jury&gt;The Netherlands" kind="Jury" source="Sweden" target="The Netherlands" weight="3.0"></edge>
+      <edge id="Switzerland-Jury&gt;Australia" kind="Jury" source="Switzerland" target="Australia" weight="4.0"></edge>
+      <edge id="Switzerland-Jury&gt;Belgium" kind="Jury" source="Switzerland" target="Belgium" weight="6.0"></edge>
+      <edge id="Switzerland-Jury&gt;Bulgaria" kind="Jury" source="Switzerland" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Switzerland-Jury&gt;France" kind="Jury" source="Switzerland" target="France"></edge>
+      <edge id="Switzerland-Jury&gt;Hungary" kind="Jury" source="Switzerland" target="Hungary" weight="3.0"></edge>
+      <edge id="Switzerland-Jury&gt;Italy" kind="Jury" source="Switzerland" target="Italy" weight="2.0"></edge>
+      <edge id="Switzerland-Jury&gt;Norway" kind="Jury" source="Switzerland" target="Norway" weight="5.0"></edge>
+      <edge id="Switzerland-Jury&gt;Portugal" kind="Jury" source="Switzerland" target="Portugal" weight="12.0"></edge>
+      <edge id="Switzerland-Jury&gt;Sweden" kind="Jury" source="Switzerland" target="Sweden" weight="10.0"></edge>
+      <edge id="Switzerland-Jury&gt;The Netherlands" kind="Jury" source="Switzerland" target="The Netherlands" weight="7.0"></edge>
+      <edge id="The Netherlands-Jury&gt;Australia" kind="Jury" source="The Netherlands" target="Australia" weight="4.0"></edge>
+      <edge id="The Netherlands-Jury&gt;Austria" kind="Jury" source="The Netherlands" target="Austria" weight="3.0"></edge>
+      <edge id="The Netherlands-Jury&gt;Belgium" kind="Jury" source="The Netherlands" target="Belgium" weight="2.0"></edge>
+      <edge id="The Netherlands-Jury&gt;Bulgaria" kind="Jury" source="The Netherlands" target="Bulgaria" weight="10.0"></edge>
+      <edge id="The Netherlands-Jury&gt;Denmark" kind="Jury" source="The Netherlands" target="Denmark" weight="8.0"></edge>
+      <edge id="The Netherlands-Jury&gt;Norway" kind="Jury" source="The Netherlands" target="Norway" weight="7.0"></edge>
+      <edge id="The Netherlands-Jury&gt;Portugal" kind="Jury" source="The Netherlands" target="Portugal" weight="12.0"></edge>
+      <edge id="The Netherlands-Jury&gt;Romania" kind="Jury" source="The Netherlands" target="Romania"></edge>
+      <edge id="The Netherlands-Jury&gt;Sweden" kind="Jury" source="The Netherlands" target="Sweden" weight="6.0"></edge>
+      <edge id="The Netherlands-Jury&gt;United Kingdom" kind="Jury" source="The Netherlands" target="United Kingdom" weight="5.0"></edge>
+      <edge id="Ukraine-Jury&gt;Austria" kind="Jury" source="Ukraine" target="Austria" weight="2.0"></edge>
+      <edge id="Ukraine-Jury&gt;Azerbaijan" kind="Jury" source="Ukraine" target="Azerbaijan" weight="6.0"></edge>
+      <edge id="Ukraine-Jury&gt;Belarus" kind="Jury" source="Ukraine" target="Belarus" weight="12.0"></edge>
+      <edge id="Ukraine-Jury&gt;Belgium" kind="Jury" source="Ukraine" target="Belgium"></edge>
+      <edge id="Ukraine-Jury&gt;Croatia" kind="Jury" source="Ukraine" target="Croatia" weight="7.0"></edge>
+      <edge id="Ukraine-Jury&gt;France" kind="Jury" source="Ukraine" target="France" weight="5.0"></edge>
+      <edge id="Ukraine-Jury&gt;Hungary" kind="Jury" source="Ukraine" target="Hungary" weight="8.0"></edge>
+      <edge id="Ukraine-Jury&gt;Moldova" kind="Jury" source="Ukraine" target="Moldova" weight="4.0"></edge>
+      <edge id="Ukraine-Jury&gt;Portugal" kind="Jury" source="Ukraine" target="Portugal" weight="10.0"></edge>
+      <edge id="Ukraine-Jury&gt;The Netherlands" kind="Jury" source="Ukraine" target="The Netherlands" weight="3.0"></edge>
+      <edge id="United Kingdom-Jury&gt;Australia" kind="Jury" source="United Kingdom" target="Australia" weight="10.0"></edge>
+      <edge id="United Kingdom-Jury&gt;Austria" kind="Jury" source="United Kingdom" target="Austria" weight="3.0"></edge>
+      <edge id="United Kingdom-Jury&gt;Belarus" kind="Jury" source="United Kingdom" target="Belarus"></edge>
+      <edge id="United Kingdom-Jury&gt;Belgium" kind="Jury" source="United Kingdom" target="Belgium" weight="5.0"></edge>
+      <edge id="United Kingdom-Jury&gt;Bulgaria" kind="Jury" source="United Kingdom" target="Bulgaria" weight="7.0"></edge>
+      <edge id="United Kingdom-Jury&gt;Denmark" kind="Jury" source="United Kingdom" target="Denmark" weight="2.0"></edge>
+      <edge id="United Kingdom-Jury&gt;Moldova" kind="Jury" source="United Kingdom" target="Moldova" weight="6.0"></edge>
+      <edge id="United Kingdom-Jury&gt;Portugal" kind="Jury" source="United Kingdom" target="Portugal" weight="12.0"></edge>
+      <edge id="United Kingdom-Jury&gt;Sweden" kind="Jury" source="United Kingdom" target="Sweden" weight="8.0"></edge>
+      <edge id="United Kingdom-Jury&gt;The Netherlands" kind="Jury" source="United Kingdom" target="The Netherlands" weight="4.0"></edge>
+      <edge id="Albania-Televote&gt;Belgium" kind="Televote" source="Albania" target="Belgium" weight="5.0"></edge>
+      <edge id="Albania-Televote&gt;Bulgaria" kind="Televote" source="Albania" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Albania-Televote&gt;Croatia" kind="Televote" source="Albania" target="Croatia" weight="7.0"></edge>
+      <edge id="Albania-Televote&gt;France" kind="Televote" source="Albania" target="France"></edge>
+      <edge id="Albania-Televote&gt;Greece" kind="Televote" source="Albania" target="Greece" weight="3.0"></edge>
+      <edge id="Albania-Televote&gt;Hungary" kind="Televote" source="Albania" target="Hungary" weight="6.0"></edge>
+      <edge id="Albania-Televote&gt;Italy" kind="Televote" source="Albania" target="Italy" weight="12.0"></edge>
+      <edge id="Albania-Televote&gt;Portugal" kind="Televote" source="Albania" target="Portugal" weight="8.0"></edge>
+      <edge id="Albania-Televote&gt;Romania" kind="Televote" source="Albania" target="Romania" weight="4.0"></edge>
+      <edge id="Albania-Televote&gt;Sweden" kind="Televote" source="Albania" target="Sweden" weight="2.0"></edge>
+      <edge id="Armenia-Televote&gt;Belgium" kind="Televote" source="Armenia" target="Belgium" weight="5.0"></edge>
+      <edge id="Armenia-Televote&gt;Bulgaria" kind="Televote" source="Armenia" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Armenia-Televote&gt;Cyprus" kind="Televote" source="Armenia" target="Cyprus" weight="12.0"></edge>
+      <edge id="Armenia-Televote&gt;France" kind="Televote" source="Armenia" target="France" weight="8.0"></edge>
+      <edge id="Armenia-Televote&gt;Greece" kind="Televote" source="Armenia" target="Greece"></edge>
+      <edge id="Armenia-Televote&gt;Italy" kind="Televote" source="Armenia" target="Italy" weight="4.0"></edge>
+      <edge id="Armenia-Televote&gt;Moldova" kind="Televote" source="Armenia" target="Moldova" weight="6.0"></edge>
+      <edge id="Armenia-Televote&gt;Portugal" kind="Televote" source="Armenia" target="Portugal" weight="10.0"></edge>
+      <edge id="Armenia-Televote&gt;Romania" kind="Televote" source="Armenia" target="Romania" weight="2.0"></edge>
+      <edge id="Armenia-Televote&gt;Sweden" kind="Televote" source="Armenia" target="Sweden" weight="3.0"></edge>
+      <edge id="Australia-Televote&gt;Belgium" kind="Televote" source="Australia" target="Belgium" weight="4.0"></edge>
+      <edge id="Australia-Televote&gt;Bulgaria" kind="Televote" source="Australia" target="Bulgaria" weight="5.0"></edge>
+      <edge id="Australia-Televote&gt;Croatia" kind="Televote" source="Australia" target="Croatia"></edge>
+      <edge id="Australia-Televote&gt;Denmark" kind="Televote" source="Australia" target="Denmark" weight="8.0"></edge>
+      <edge id="Australia-Televote&gt;Italy" kind="Televote" source="Australia" target="Italy" weight="2.0"></edge>
+      <edge id="Australia-Televote&gt;Moldova" kind="Televote" source="Australia" target="Moldova" weight="12.0"></edge>
+      <edge id="Australia-Televote&gt;Portugal" kind="Televote" source="Australia" target="Portugal" weight="7.0"></edge>
+      <edge id="Australia-Televote&gt;Romania" kind="Televote" source="Australia" target="Romania" weight="10.0"></edge>
+      <edge id="Australia-Televote&gt;Sweden" kind="Televote" source="Australia" target="Sweden" weight="6.0"></edge>
+      <edge id="Australia-Televote&gt;United Kingdom" kind="Televote" source="Australia" target="United Kingdom" weight="3.0"></edge>
+      <edge id="Austria-Televote&gt;Belgium" kind="Televote" source="Austria" target="Belgium" weight="8.0"></edge>
+      <edge id="Austria-Televote&gt;Bulgaria" kind="Televote" source="Austria" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Austria-Televote&gt;Croatia" kind="Televote" source="Austria" target="Croatia" weight="4.0"></edge>
+      <edge id="Austria-Televote&gt;Hungary" kind="Televote" source="Austria" target="Hungary" weight="5.0"></edge>
+      <edge id="Austria-Televote&gt;Italy" kind="Televote" source="Austria" target="Italy" weight="6.0"></edge>
+      <edge id="Austria-Televote&gt;Moldova" kind="Televote" source="Austria" target="Moldova" weight="3.0"></edge>
+      <edge id="Austria-Televote&gt;Poland" kind="Televote" source="Austria" target="Poland" weight="2.0"></edge>
+      <edge id="Austria-Televote&gt;Portugal" kind="Televote" source="Austria" target="Portugal" weight="12.0"></edge>
+      <edge id="Austria-Televote&gt;Romania" kind="Televote" source="Austria" target="Romania" weight="10.0"></edge>
+      <edge id="Austria-Televote&gt;Sweden" kind="Televote" source="Austria" target="Sweden"></edge>
+      <edge id="Azerbaijan-Televote&gt;Belgium" kind="Televote" source="Azerbaijan" target="Belgium" weight="4.0"></edge>
+      <edge id="Azerbaijan-Televote&gt;Bulgaria" kind="Televote" source="Azerbaijan" target="Bulgaria" weight="12.0"></edge>
+      <edge id="Azerbaijan-Televote&gt;France" kind="Televote" source="Azerbaijan" target="France" weight="5.0"></edge>
+      <edge id="Azerbaijan-Televote&gt;Hungary" kind="Televote" source="Azerbaijan" target="Hungary" weight="7.0"></edge>
+      <edge id="Azerbaijan-Televote&gt;Israel" kind="Televote" source="Azerbaijan" target="Israel"></edge>
+      <edge id="Azerbaijan-Televote&gt;Italy" kind="Televote" source="Azerbaijan" target="Italy" weight="6.0"></edge>
+      <edge id="Azerbaijan-Televote&gt;Moldova" kind="Televote" source="Azerbaijan" target="Moldova" weight="10.0"></edge>
+      <edge id="Azerbaijan-Televote&gt;Portugal" kind="Televote" source="Azerbaijan" target="Portugal" weight="8.0"></edge>
+      <edge id="Azerbaijan-Televote&gt;Romania" kind="Televote" source="Azerbaijan" target="Romania" weight="2.0"></edge>
+      <edge id="Azerbaijan-Televote&gt;Sweden" kind="Televote" source="Azerbaijan" target="Sweden" weight="3.0"></edge>
+      <edge id="Belarus-Televote&gt;Belgium" kind="Televote" source="Belarus" target="Belgium" weight="6.0"></edge>
+      <edge id="Belarus-Televote&gt;Bulgaria" kind="Televote" source="Belarus" target="Bulgaria" weight="12.0"></edge>
+      <edge id="Belarus-Televote&gt;France" kind="Televote" source="Belarus" target="France" weight="4.0"></edge>
+      <edge id="Belarus-Televote&gt;Hungary" kind="Televote" source="Belarus" target="Hungary" weight="8.0"></edge>
+      <edge id="Belarus-Televote&gt;Moldova" kind="Televote" source="Belarus" target="Moldova" weight="10.0"></edge>
+      <edge id="Belarus-Televote&gt;Norway" kind="Televote" source="Belarus" target="Norway" weight="5.0"></edge>
+      <edge id="Belarus-Televote&gt;Portugal" kind="Televote" source="Belarus" target="Portugal" weight="7.0"></edge>
+      <edge id="Belarus-Televote&gt;Romania" kind="Televote" source="Belarus" target="Romania" weight="2.0"></edge>
+      <edge id="Belarus-Televote&gt;Sweden" kind="Televote" source="Belarus" target="Sweden" weight="3.0"></edge>
+      <edge id="Belarus-Televote&gt;Ukraine" kind="Televote" source="Belarus" target="Ukraine"></edge>
+      <edge id="Belgium-Televote&gt;Bulgaria" kind="Televote" source="Belgium" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Belgium-Televote&gt;France" kind="Televote" source="Belgium" target="France" weight="3.0"></edge>
+      <edge id="Belgium-Televote&gt;Hungary" kind="Televote" source="Belgium" target="Hungary"></edge>
+      <edge id="Belgium-Televote&gt;Italy" kind="Televote" source="Belgium" target="Italy" weight="5.0"></edge>
+      <edge id="Belgium-Televote&gt;Moldova" kind="Televote" source="Belgium" target="Moldova" weight="7.0"></edge>
+      <edge id="Belgium-Televote&gt;Poland" kind="Televote" source="Belgium" target="Poland" weight="4.0"></edge>
+      <edge id="Belgium-Televote&gt;Portugal" kind="Televote" source="Belgium" target="Portugal" weight="12.0"></edge>
+      <edge id="Belgium-Televote&gt;Romania" kind="Televote" source="Belgium" target="Romania" weight="6.0"></edge>
+      <edge id="Belgium-Televote&gt;Sweden" kind="Televote" source="Belgium" target="Sweden" weight="2.0"></edge>
+      <edge id="Belgium-Televote&gt;The Netherlands" kind="Televote" source="Belgium" target="The Netherlands" weight="10.0"></edge>
+      <edge id="Bulgaria-Televote&gt;Belgium" kind="Televote" source="Bulgaria" target="Belgium" weight="4.0"></edge>
+      <edge id="Bulgaria-Televote&gt;Croatia" kind="Televote" source="Bulgaria" target="Croatia"></edge>
+      <edge id="Bulgaria-Televote&gt;Cyprus" kind="Televote" source="Bulgaria" target="Cyprus" weight="3.0"></edge>
+      <edge id="Bulgaria-Televote&gt;France" kind="Televote" source="Bulgaria" target="France" weight="12.0"></edge>
+      <edge id="Bulgaria-Televote&gt;Greece" kind="Televote" source="Bulgaria" target="Greece" weight="5.0"></edge>
+      <edge id="Bulgaria-Televote&gt;Hungary" kind="Televote" source="Bulgaria" target="Hungary" weight="6.0"></edge>
+      <edge id="Bulgaria-Televote&gt;Moldova" kind="Televote" source="Bulgaria" target="Moldova" weight="10.0"></edge>
+      <edge id="Bulgaria-Televote&gt;Portugal" kind="Televote" source="Bulgaria" target="Portugal" weight="7.0"></edge>
+      <edge id="Bulgaria-Televote&gt;Romania" kind="Televote" source="Bulgaria" target="Romania" weight="8.0"></edge>
+      <edge id="Bulgaria-Televote&gt;Sweden" kind="Televote" source="Bulgaria" target="Sweden" weight="2.0"></edge>
+      <edge id="Croatia-Televote&gt;Belgium" kind="Televote" source="Croatia" target="Belgium" weight="5.0"></edge>
+      <edge id="Croatia-Televote&gt;Bulgaria" kind="Televote" source="Croatia" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Croatia-Televote&gt;France" kind="Televote" source="Croatia" target="France" weight="3.0"></edge>
+      <edge id="Croatia-Televote&gt;Hungary" kind="Televote" source="Croatia" target="Hungary" weight="12.0"></edge>
+      <edge id="Croatia-Televote&gt;Italy" kind="Televote" source="Croatia" target="Italy" weight="7.0"></edge>
+      <edge id="Croatia-Televote&gt;Moldova" kind="Televote" source="Croatia" target="Moldova" weight="4.0"></edge>
+      <edge id="Croatia-Televote&gt;Portugal" kind="Televote" source="Croatia" target="Portugal" weight="10.0"></edge>
+      <edge id="Croatia-Televote&gt;Romania" kind="Televote" source="Croatia" target="Romania" weight="6.0"></edge>
+      <edge id="Croatia-Televote&gt;Sweden" kind="Televote" source="Croatia" target="Sweden" weight="2.0"></edge>
+      <edge id="Croatia-Televote&gt;The Netherlands" kind="Televote" source="Croatia" target="The Netherlands"></edge>
+      <edge id="Cyprus-Televote&gt;Armenia" kind="Televote" source="Cyprus" target="Armenia"></edge>
+      <edge id="Cyprus-Televote&gt;Belgium" kind="Televote" source="Cyprus" target="Belgium" weight="2.0"></edge>
+      <edge id="Cyprus-Televote&gt;Bulgaria" kind="Televote" source="Cyprus" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Cyprus-Televote&gt;France" kind="Televote" source="Cyprus" target="France" weight="3.0"></edge>
+      <edge id="Cyprus-Televote&gt;Greece" kind="Televote" source="Cyprus" target="Greece" weight="12.0"></edge>
+      <edge id="Cyprus-Televote&gt;Italy" kind="Televote" source="Cyprus" target="Italy" weight="8.0"></edge>
+      <edge id="Cyprus-Televote&gt;Moldova" kind="Televote" source="Cyprus" target="Moldova" weight="6.0"></edge>
+      <edge id="Cyprus-Televote&gt;Portugal" kind="Televote" source="Cyprus" target="Portugal" weight="7.0"></edge>
+      <edge id="Cyprus-Televote&gt;Romania" kind="Televote" source="Cyprus" target="Romania" weight="4.0"></edge>
+      <edge id="Cyprus-Televote&gt;Sweden" kind="Televote" source="Cyprus" target="Sweden" weight="5.0"></edge>
+      <edge id="Czech Republic-Televote&gt;Armenia" kind="Televote" source="Czech Republic" target="Armenia" weight="2.0"></edge>
+      <edge id="Czech Republic-Televote&gt;Azerbaijan" kind="Televote" source="Czech Republic" target="Azerbaijan" weight="10.0"></edge>
+      <edge id="Czech Republic-Televote&gt;Belarus" kind="Televote" source="Czech Republic" target="Belarus" weight="3.0"></edge>
+      <edge id="Czech Republic-Televote&gt;Belgium" kind="Televote" source="Czech Republic" target="Belgium" weight="4.0"></edge>
+      <edge id="Czech Republic-Televote&gt;Bulgaria" kind="Televote" source="Czech Republic" target="Bulgaria" weight="12.0"></edge>
+      <edge id="Czech Republic-Televote&gt;Italy" kind="Televote" source="Czech Republic" target="Italy"></edge>
+      <edge id="Czech Republic-Televote&gt;Moldova" kind="Televote" source="Czech Republic" target="Moldova" weight="5.0"></edge>
+      <edge id="Czech Republic-Televote&gt;Portugal" kind="Televote" source="Czech Republic" target="Portugal" weight="8.0"></edge>
+      <edge id="Czech Republic-Televote&gt;Romania" kind="Televote" source="Czech Republic" target="Romania" weight="6.0"></edge>
+      <edge id="Czech Republic-Televote&gt;Ukraine" kind="Televote" source="Czech Republic" target="Ukraine" weight="7.0"></edge>
+      <edge id="Denmark-Televote&gt;Australia" kind="Televote" source="Denmark" target="Australia" weight="2.0"></edge>
+      <edge id="Denmark-Televote&gt;Belgium" kind="Televote" source="Denmark" target="Belgium" weight="6.0"></edge>
+      <edge id="Denmark-Televote&gt;Bulgaria" kind="Televote" source="Denmark" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Denmark-Televote&gt;Hungary" kind="Televote" source="Denmark" target="Hungary" weight="3.0"></edge>
+      <edge id="Denmark-Televote&gt;Moldova" kind="Televote" source="Denmark" target="Moldova" weight="8.0"></edge>
+      <edge id="Denmark-Televote&gt;Norway" kind="Televote" source="Denmark" target="Norway" weight="7.0"></edge>
+      <edge id="Denmark-Televote&gt;Portugal" kind="Televote" source="Denmark" target="Portugal" weight="5.0"></edge>
+      <edge id="Denmark-Televote&gt;Romania" kind="Televote" source="Denmark" target="Romania" weight="4.0"></edge>
+      <edge id="Denmark-Televote&gt;Sweden" kind="Televote" source="Denmark" target="Sweden" weight="12.0"></edge>
+      <edge id="Denmark-Televote&gt;The Netherlands" kind="Televote" source="Denmark" target="The Netherlands"></edge>
+      <edge id="Estonia-Televote&gt;Belarus" kind="Televote" source="Estonia" target="Belarus" weight="2.0"></edge>
+      <edge id="Estonia-Televote&gt;Belgium" kind="Televote" source="Estonia" target="Belgium" weight="12.0"></edge>
+      <edge id="Estonia-Televote&gt;Bulgaria" kind="Televote" source="Estonia" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Estonia-Televote&gt;France" kind="Televote" source="Estonia" target="France"></edge>
+      <edge id="Estonia-Televote&gt;Hungary" kind="Televote" source="Estonia" target="Hungary" weight="8.0"></edge>
+      <edge id="Estonia-Televote&gt;Italy" kind="Televote" source="Estonia" target="Italy" weight="5.0"></edge>
+      <edge id="Estonia-Televote&gt;Moldova" kind="Televote" source="Estonia" target="Moldova" weight="4.0"></edge>
+      <edge id="Estonia-Televote&gt;Portugal" kind="Televote" source="Estonia" target="Portugal" weight="10.0"></edge>
+      <edge id="Estonia-Televote&gt;Romania" kind="Televote" source="Estonia" target="Romania" weight="6.0"></edge>
+      <edge id="Estonia-Televote&gt;Sweden" kind="Televote" source="Estonia" target="Sweden" weight="3.0"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;Belgium" kind="Televote" source="F.Y.R. Macedonia" target="Belgium" weight="4.0"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;Bulgaria" kind="Televote" source="F.Y.R. Macedonia" target="Bulgaria" weight="12.0"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;Croatia" kind="Televote" source="F.Y.R. Macedonia" target="Croatia" weight="10.0"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;France" kind="Televote" source="F.Y.R. Macedonia" target="France" weight="6.0"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;Hungary" kind="Televote" source="F.Y.R. Macedonia" target="Hungary" weight="3.0"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;Israel" kind="Televote" source="F.Y.R. Macedonia" target="Israel"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;Italy" kind="Televote" source="F.Y.R. Macedonia" target="Italy" weight="8.0"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;Moldova" kind="Televote" source="F.Y.R. Macedonia" target="Moldova" weight="2.0"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;Portugal" kind="Televote" source="F.Y.R. Macedonia" target="Portugal" weight="7.0"></edge>
+      <edge id="F.Y.R. Macedonia-Televote&gt;Sweden" kind="Televote" source="F.Y.R. Macedonia" target="Sweden" weight="5.0"></edge>
+      <edge id="Finland-Televote&gt;Belgium" kind="Televote" source="Finland" target="Belgium" weight="10.0"></edge>
+      <edge id="Finland-Televote&gt;Bulgaria" kind="Televote" source="Finland" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Finland-Televote&gt;France" kind="Televote" source="Finland" target="France"></edge>
+      <edge id="Finland-Televote&gt;Hungary" kind="Televote" source="Finland" target="Hungary" weight="4.0"></edge>
+      <edge id="Finland-Televote&gt;Italy" kind="Televote" source="Finland" target="Italy" weight="8.0"></edge>
+      <edge id="Finland-Televote&gt;Moldova" kind="Televote" source="Finland" target="Moldova" weight="5.0"></edge>
+      <edge id="Finland-Televote&gt;Norway" kind="Televote" source="Finland" target="Norway" weight="2.0"></edge>
+      <edge id="Finland-Televote&gt;Portugal" kind="Televote" source="Finland" target="Portugal" weight="12.0"></edge>
+      <edge id="Finland-Televote&gt;Romania" kind="Televote" source="Finland" target="Romania" weight="3.0"></edge>
+      <edge id="Finland-Televote&gt;Sweden" kind="Televote" source="Finland" target="Sweden" weight="6.0"></edge>
+      <edge id="France-Televote&gt;Armenia" kind="Televote" source="France" target="Armenia" weight="6.0"></edge>
+      <edge id="France-Televote&gt;Belgium" kind="Televote" source="France" target="Belgium" weight="8.0"></edge>
+      <edge id="France-Televote&gt;Bulgaria" kind="Televote" source="France" target="Bulgaria" weight="4.0"></edge>
+      <edge id="France-Televote&gt;Hungary" kind="Televote" source="France" target="Hungary" weight="2.0"></edge>
+      <edge id="France-Televote&gt;Israel" kind="Televote" source="France" target="Israel" weight="3.0"></edge>
+      <edge id="France-Televote&gt;Italy" kind="Televote" source="France" target="Italy" weight="5.0"></edge>
+      <edge id="France-Televote&gt;Moldova" kind="Televote" source="France" target="Moldova" weight="7.0"></edge>
+      <edge id="France-Televote&gt;Poland" kind="Televote" source="France" target="Poland"></edge>
+      <edge id="France-Televote&gt;Portugal" kind="Televote" source="France" target="Portugal" weight="12.0"></edge>
+      <edge id="France-Televote&gt;Romania" kind="Televote" source="France" target="Romania" weight="10.0"></edge>
+      <edge id="Georgia-Televote&gt;Armenia" kind="Televote" source="Georgia" target="Armenia" weight="10.0"></edge>
+      <edge id="Georgia-Televote&gt;Azerbaijan" kind="Televote" source="Georgia" target="Azerbaijan" weight="12.0"></edge>
+      <edge id="Georgia-Televote&gt;Belarus" kind="Televote" source="Georgia" target="Belarus" weight="6.0"></edge>
+      <edge id="Georgia-Televote&gt;Bulgaria" kind="Televote" source="Georgia" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Georgia-Televote&gt;Cyprus" kind="Televote" source="Georgia" target="Cyprus" weight="2.0"></edge>
+      <edge id="Georgia-Televote&gt;France" kind="Televote" source="Georgia" target="France" weight="3.0"></edge>
+      <edge id="Georgia-Televote&gt;Italy" kind="Televote" source="Georgia" target="Italy" weight="5.0"></edge>
+      <edge id="Georgia-Televote&gt;Portugal" kind="Televote" source="Georgia" target="Portugal" weight="8.0"></edge>
+      <edge id="Georgia-Televote&gt;Sweden" kind="Televote" source="Georgia" target="Sweden"></edge>
+      <edge id="Georgia-Televote&gt;Ukraine" kind="Televote" source="Georgia" target="Ukraine" weight="4.0"></edge>
+      <edge id="Germany-Televote&gt;Belgium" kind="Televote" source="Germany" target="Belgium" weight="10.0"></edge>
+      <edge id="Germany-Televote&gt;Bulgaria" kind="Televote" source="Germany" target="Bulgaria" weight="5.0"></edge>
+      <edge id="Germany-Televote&gt;Croatia" kind="Televote" source="Germany" target="Croatia" weight="8.0"></edge>
+      <edge id="Germany-Televote&gt;Hungary" kind="Televote" source="Germany" target="Hungary" weight="3.0"></edge>
+      <edge id="Germany-Televote&gt;Italy" kind="Televote" source="Germany" target="Italy" weight="4.0"></edge>
+      <edge id="Germany-Televote&gt;Moldova" kind="Televote" source="Germany" target="Moldova" weight="7.0"></edge>
+      <edge id="Germany-Televote&gt;Poland" kind="Televote" source="Germany" target="Poland" weight="2.0"></edge>
+      <edge id="Germany-Televote&gt;Portugal" kind="Televote" source="Germany" target="Portugal" weight="12.0"></edge>
+      <edge id="Germany-Televote&gt;Romania" kind="Televote" source="Germany" target="Romania" weight="6.0"></edge>
+      <edge id="Germany-Televote&gt;The Netherlands" kind="Televote" source="Germany" target="The Netherlands"></edge>
+      <edge id="Greece-Televote&gt;Armenia" kind="Televote" source="Greece" target="Armenia" weight="2.0"></edge>
+      <edge id="Greece-Televote&gt;Belgium" kind="Televote" source="Greece" target="Belgium" weight="5.0"></edge>
+      <edge id="Greece-Televote&gt;Bulgaria" kind="Televote" source="Greece" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Greece-Televote&gt;Cyprus" kind="Televote" source="Greece" target="Cyprus" weight="12.0"></edge>
+      <edge id="Greece-Televote&gt;France" kind="Televote" source="Greece" target="France" weight="4.0"></edge>
+      <edge id="Greece-Televote&gt;Italy" kind="Televote" source="Greece" target="Italy" weight="7.0"></edge>
+      <edge id="Greece-Televote&gt;Moldova" kind="Televote" source="Greece" target="Moldova" weight="6.0"></edge>
+      <edge id="Greece-Televote&gt;Portugal" kind="Televote" source="Greece" target="Portugal" weight="8.0"></edge>
+      <edge id="Greece-Televote&gt;Romania" kind="Televote" source="Greece" target="Romania"></edge>
+      <edge id="Greece-Televote&gt;Sweden" kind="Televote" source="Greece" target="Sweden" weight="3.0"></edge>
+      <edge id="Hungary-Televote&gt;Belgium" kind="Televote" source="Hungary" target="Belgium" weight="8.0"></edge>
+      <edge id="Hungary-Televote&gt;Bulgaria" kind="Televote" source="Hungary" target="Bulgaria" weight="12.0"></edge>
+      <edge id="Hungary-Televote&gt;Croatia" kind="Televote" source="Hungary" target="Croatia" weight="5.0"></edge>
+      <edge id="Hungary-Televote&gt;Cyprus" kind="Televote" source="Hungary" target="Cyprus" weight="2.0"></edge>
+      <edge id="Hungary-Televote&gt;France" kind="Televote" source="Hungary" target="France"></edge>
+      <edge id="Hungary-Televote&gt;Italy" kind="Televote" source="Hungary" target="Italy" weight="4.0"></edge>
+      <edge id="Hungary-Televote&gt;Moldova" kind="Televote" source="Hungary" target="Moldova" weight="10.0"></edge>
+      <edge id="Hungary-Televote&gt;Portugal" kind="Televote" source="Hungary" target="Portugal" weight="7.0"></edge>
+      <edge id="Hungary-Televote&gt;Romania" kind="Televote" source="Hungary" target="Romania" weight="6.0"></edge>
+      <edge id="Hungary-Televote&gt;Sweden" kind="Televote" source="Hungary" target="Sweden" weight="3.0"></edge>
+      <edge id="Iceland-Televote&gt;Belgium" kind="Televote" source="Iceland" target="Belgium" weight="10.0"></edge>
+      <edge id="Iceland-Televote&gt;Bulgaria" kind="Televote" source="Iceland" target="Bulgaria" weight="4.0"></edge>
+      <edge id="Iceland-Televote&gt;Hungary" kind="Televote" source="Iceland" target="Hungary" weight="2.0"></edge>
+      <edge id="Iceland-Televote&gt;Italy" kind="Televote" source="Iceland" target="Italy" weight="7.0"></edge>
+      <edge id="Iceland-Televote&gt;Moldova" kind="Televote" source="Iceland" target="Moldova" weight="6.0"></edge>
+      <edge id="Iceland-Televote&gt;Norway" kind="Televote" source="Iceland" target="Norway"></edge>
+      <edge id="Iceland-Televote&gt;Poland" kind="Televote" source="Iceland" target="Poland" weight="3.0"></edge>
+      <edge id="Iceland-Televote&gt;Portugal" kind="Televote" source="Iceland" target="Portugal" weight="12.0"></edge>
+      <edge id="Iceland-Televote&gt;Romania" kind="Televote" source="Iceland" target="Romania" weight="5.0"></edge>
+      <edge id="Iceland-Televote&gt;Sweden" kind="Televote" source="Iceland" target="Sweden" weight="8.0"></edge>
+      <edge id="Ireland-Televote&gt;Belgium" kind="Televote" source="Ireland" target="Belgium" weight="5.0"></edge>
+      <edge id="Ireland-Televote&gt;Bulgaria" kind="Televote" source="Ireland" target="Bulgaria" weight="6.0"></edge>
+      <edge id="Ireland-Televote&gt;Croatia" kind="Televote" source="Ireland" target="Croatia" weight="3.0"></edge>
+      <edge id="Ireland-Televote&gt;Hungary" kind="Televote" source="Ireland" target="Hungary" weight="2.0"></edge>
+      <edge id="Ireland-Televote&gt;Italy" kind="Televote" source="Ireland" target="Italy"></edge>
+      <edge id="Ireland-Televote&gt;Moldova" kind="Televote" source="Ireland" target="Moldova" weight="8.0"></edge>
+      <edge id="Ireland-Televote&gt;Poland" kind="Televote" source="Ireland" target="Poland" weight="7.0"></edge>
+      <edge id="Ireland-Televote&gt;Portugal" kind="Televote" source="Ireland" target="Portugal" weight="10.0"></edge>
+      <edge id="Ireland-Televote&gt;Romania" kind="Televote" source="Ireland" target="Romania" weight="12.0"></edge>
+      <edge id="Ireland-Televote&gt;United Kingdom" kind="Televote" source="Ireland" target="United Kingdom" weight="4.0"></edge>
+      <edge id="Israel-Televote&gt;Belarus" kind="Televote" source="Israel" target="Belarus" weight="2.0"></edge>
+      <edge id="Israel-Televote&gt;Belgium" kind="Televote" source="Israel" target="Belgium" weight="6.0"></edge>
+      <edge id="Israel-Televote&gt;Bulgaria" kind="Televote" source="Israel" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Israel-Televote&gt;France" kind="Televote" source="Israel" target="France" weight="4.0"></edge>
+      <edge id="Israel-Televote&gt;Hungary" kind="Televote" source="Israel" target="Hungary"></edge>
+      <edge id="Israel-Televote&gt;Italy" kind="Televote" source="Israel" target="Italy" weight="8.0"></edge>
+      <edge id="Israel-Televote&gt;Moldova" kind="Televote" source="Israel" target="Moldova" weight="5.0"></edge>
+      <edge id="Israel-Televote&gt;Portugal" kind="Televote" source="Israel" target="Portugal" weight="12.0"></edge>
+      <edge id="Israel-Televote&gt;Romania" kind="Televote" source="Israel" target="Romania" weight="7.0"></edge>
+      <edge id="Israel-Televote&gt;Sweden" kind="Televote" source="Israel" target="Sweden" weight="3.0"></edge>
+      <edge id="Italy-Televote&gt;Belgium" kind="Televote" source="Italy" target="Belgium" weight="2.0"></edge>
+      <edge id="Italy-Televote&gt;Bulgaria" kind="Televote" source="Italy" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Italy-Televote&gt;Croatia" kind="Televote" source="Italy" target="Croatia" weight="6.0"></edge>
+      <edge id="Italy-Televote&gt;France" kind="Televote" source="Italy" target="France"></edge>
+      <edge id="Italy-Televote&gt;Hungary" kind="Televote" source="Italy" target="Hungary" weight="4.0"></edge>
+      <edge id="Italy-Televote&gt;Moldova" kind="Televote" source="Italy" target="Moldova" weight="12.0"></edge>
+      <edge id="Italy-Televote&gt;Poland" kind="Televote" source="Italy" target="Poland" weight="3.0"></edge>
+      <edge id="Italy-Televote&gt;Portugal" kind="Televote" source="Italy" target="Portugal" weight="5.0"></edge>
+      <edge id="Italy-Televote&gt;Romania" kind="Televote" source="Italy" target="Romania" weight="10.0"></edge>
+      <edge id="Italy-Televote&gt;Ukraine" kind="Televote" source="Italy" target="Ukraine" weight="7.0"></edge>
+      <edge id="Latvia-Televote&gt;Belarus" kind="Televote" source="Latvia" target="Belarus" weight="6.0"></edge>
+      <edge id="Latvia-Televote&gt;Belgium" kind="Televote" source="Latvia" target="Belgium" weight="12.0"></edge>
+      <edge id="Latvia-Televote&gt;Bulgaria" kind="Televote" source="Latvia" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Latvia-Televote&gt;Hungary" kind="Televote" source="Latvia" target="Hungary" weight="2.0"></edge>
+      <edge id="Latvia-Televote&gt;Italy" kind="Televote" source="Latvia" target="Italy" weight="3.0"></edge>
+      <edge id="Latvia-Televote&gt;Moldova" kind="Televote" source="Latvia" target="Moldova" weight="8.0"></edge>
+      <edge id="Latvia-Televote&gt;Norway" kind="Televote" source="Latvia" target="Norway"></edge>
+      <edge id="Latvia-Televote&gt;Portugal" kind="Televote" source="Latvia" target="Portugal" weight="10.0"></edge>
+      <edge id="Latvia-Televote&gt;Romania" kind="Televote" source="Latvia" target="Romania" weight="5.0"></edge>
+      <edge id="Latvia-Televote&gt;Sweden" kind="Televote" source="Latvia" target="Sweden" weight="4.0"></edge>
+      <edge id="Lithuania-Televote&gt;Belarus" kind="Televote" source="Lithuania" target="Belarus"></edge>
+      <edge id="Lithuania-Televote&gt;Belgium" kind="Televote" source="Lithuania" target="Belgium" weight="10.0"></edge>
+      <edge id="Lithuania-Televote&gt;Bulgaria" kind="Televote" source="Lithuania" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Lithuania-Televote&gt;Hungary" kind="Televote" source="Lithuania" target="Hungary" weight="2.0"></edge>
+      <edge id="Lithuania-Televote&gt;Italy" kind="Televote" source="Lithuania" target="Italy" weight="5.0"></edge>
+      <edge id="Lithuania-Televote&gt;Moldova" kind="Televote" source="Lithuania" target="Moldova" weight="8.0"></edge>
+      <edge id="Lithuania-Televote&gt;Norway" kind="Televote" source="Lithuania" target="Norway" weight="6.0"></edge>
+      <edge id="Lithuania-Televote&gt;Portugal" kind="Televote" source="Lithuania" target="Portugal" weight="12.0"></edge>
+      <edge id="Lithuania-Televote&gt;Romania" kind="Televote" source="Lithuania" target="Romania" weight="4.0"></edge>
+      <edge id="Lithuania-Televote&gt;Sweden" kind="Televote" source="Lithuania" target="Sweden" weight="3.0"></edge>
+      <edge id="Malta-Televote&gt;Belgium" kind="Televote" source="Malta" target="Belgium" weight="5.0"></edge>
+      <edge id="Malta-Televote&gt;Bulgaria" kind="Televote" source="Malta" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Malta-Televote&gt;Croatia" kind="Televote" source="Malta" target="Croatia" weight="3.0"></edge>
+      <edge id="Malta-Televote&gt;Hungary" kind="Televote" source="Malta" target="Hungary" weight="2.0"></edge>
+      <edge id="Malta-Televote&gt;Italy" kind="Televote" source="Malta" target="Italy" weight="12.0"></edge>
+      <edge id="Malta-Televote&gt;Moldova" kind="Televote" source="Malta" target="Moldova"></edge>
+      <edge id="Malta-Televote&gt;Portugal" kind="Televote" source="Malta" target="Portugal" weight="8.0"></edge>
+      <edge id="Malta-Televote&gt;Romania" kind="Televote" source="Malta" target="Romania" weight="6.0"></edge>
+      <edge id="Malta-Televote&gt;Sweden" kind="Televote" source="Malta" target="Sweden" weight="7.0"></edge>
+      <edge id="Malta-Televote&gt;United Kingdom" kind="Televote" source="Malta" target="United Kingdom" weight="4.0"></edge>
+      <edge id="Moldova-Televote&gt;Azerbaijan" kind="Televote" source="Moldova" target="Azerbaijan" weight="10.0"></edge>
+      <edge id="Moldova-Televote&gt;Belarus" kind="Televote" source="Moldova" target="Belarus"></edge>
+      <edge id="Moldova-Televote&gt;Belgium" kind="Televote" source="Moldova" target="Belgium" weight="2.0"></edge>
+      <edge id="Moldova-Televote&gt;Bulgaria" kind="Televote" source="Moldova" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Moldova-Televote&gt;France" kind="Televote" source="Moldova" target="France" weight="5.0"></edge>
+      <edge id="Moldova-Televote&gt;Greece" kind="Televote" source="Moldova" target="Greece" weight="7.0"></edge>
+      <edge id="Moldova-Televote&gt;Israel" kind="Televote" source="Moldova" target="Israel" weight="4.0"></edge>
+      <edge id="Moldova-Televote&gt;Portugal" kind="Televote" source="Moldova" target="Portugal" weight="6.0"></edge>
+      <edge id="Moldova-Televote&gt;Romania" kind="Televote" source="Moldova" target="Romania" weight="12.0"></edge>
+      <edge id="Moldova-Televote&gt;Sweden" kind="Televote" source="Moldova" target="Sweden" weight="3.0"></edge>
+      <edge id="Montenegro-Televote&gt;Azerbaijan" kind="Televote" source="Montenegro" target="Azerbaijan" weight="5.0"></edge>
+      <edge id="Montenegro-Televote&gt;Belgium" kind="Televote" source="Montenegro" target="Belgium" weight="4.0"></edge>
+      <edge id="Montenegro-Televote&gt;Bulgaria" kind="Televote" source="Montenegro" target="Bulgaria" weight="6.0"></edge>
+      <edge id="Montenegro-Televote&gt;Croatia" kind="Televote" source="Montenegro" target="Croatia" weight="12.0"></edge>
+      <edge id="Montenegro-Televote&gt;Cyprus" kind="Televote" source="Montenegro" target="Cyprus"></edge>
+      <edge id="Montenegro-Televote&gt;France" kind="Televote" source="Montenegro" target="France" weight="2.0"></edge>
+      <edge id="Montenegro-Televote&gt;Hungary" kind="Televote" source="Montenegro" target="Hungary" weight="7.0"></edge>
+      <edge id="Montenegro-Televote&gt;Italy" kind="Televote" source="Montenegro" target="Italy" weight="10.0"></edge>
+      <edge id="Montenegro-Televote&gt;Moldova" kind="Televote" source="Montenegro" target="Moldova" weight="3.0"></edge>
+      <edge id="Montenegro-Televote&gt;Portugal" kind="Televote" source="Montenegro" target="Portugal" weight="8.0"></edge>
+      <edge id="Norway-Televote&gt;Belgium" kind="Televote" source="Norway" target="Belgium" weight="7.0"></edge>
+      <edge id="Norway-Televote&gt;Bulgaria" kind="Televote" source="Norway" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Norway-Televote&gt;Croatia" kind="Televote" source="Norway" target="Croatia"></edge>
+      <edge id="Norway-Televote&gt;Hungary" kind="Televote" source="Norway" target="Hungary" weight="4.0"></edge>
+      <edge id="Norway-Televote&gt;Italy" kind="Televote" source="Norway" target="Italy" weight="2.0"></edge>
+      <edge id="Norway-Televote&gt;Moldova" kind="Televote" source="Norway" target="Moldova" weight="6.0"></edge>
+      <edge id="Norway-Televote&gt;Poland" kind="Televote" source="Norway" target="Poland" weight="3.0"></edge>
+      <edge id="Norway-Televote&gt;Portugal" kind="Televote" source="Norway" target="Portugal" weight="12.0"></edge>
+      <edge id="Norway-Televote&gt;Romania" kind="Televote" source="Norway" target="Romania" weight="10.0"></edge>
+      <edge id="Norway-Televote&gt;Sweden" kind="Televote" source="Norway" target="Sweden" weight="5.0"></edge>
+      <edge id="Poland-Televote&gt;Belarus" kind="Televote" source="Poland" target="Belarus" weight="4.0"></edge>
+      <edge id="Poland-Televote&gt;Belgium" kind="Televote" source="Poland" target="Belgium" weight="12.0"></edge>
+      <edge id="Poland-Televote&gt;Bulgaria" kind="Televote" source="Poland" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Poland-Televote&gt;Croatia" kind="Televote" source="Poland" target="Croatia"></edge>
+      <edge id="Poland-Televote&gt;Hungary" kind="Televote" source="Poland" target="Hungary" weight="5.0"></edge>
+      <edge id="Poland-Televote&gt;Moldova" kind="Televote" source="Poland" target="Moldova" weight="6.0"></edge>
+      <edge id="Poland-Televote&gt;Portugal" kind="Televote" source="Poland" target="Portugal" weight="10.0"></edge>
+      <edge id="Poland-Televote&gt;Romania" kind="Televote" source="Poland" target="Romania" weight="7.0"></edge>
+      <edge id="Poland-Televote&gt;Sweden" kind="Televote" source="Poland" target="Sweden" weight="3.0"></edge>
+      <edge id="Poland-Televote&gt;Ukraine" kind="Televote" source="Poland" target="Ukraine" weight="2.0"></edge>
+      <edge id="Portugal-Televote&gt;Belgium" kind="Televote" source="Portugal" target="Belgium" weight="10.0"></edge>
+      <edge id="Portugal-Televote&gt;Bulgaria" kind="Televote" source="Portugal" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Portugal-Televote&gt;France" kind="Televote" source="Portugal" target="France" weight="6.0"></edge>
+      <edge id="Portugal-Televote&gt;Hungary" kind="Televote" source="Portugal" target="Hungary" weight="2.0"></edge>
+      <edge id="Portugal-Televote&gt;Italy" kind="Televote" source="Portugal" target="Italy" weight="4.0"></edge>
+      <edge id="Portugal-Televote&gt;Moldova" kind="Televote" source="Portugal" target="Moldova" weight="12.0"></edge>
+      <edge id="Portugal-Televote&gt;Romania" kind="Televote" source="Portugal" target="Romania" weight="7.0"></edge>
+      <edge id="Portugal-Televote&gt;Spain" kind="Televote" source="Portugal" target="Spain" weight="5.0"></edge>
+      <edge id="Portugal-Televote&gt;Sweden" kind="Televote" source="Portugal" target="Sweden"></edge>
+      <edge id="Portugal-Televote&gt;Ukraine" kind="Televote" source="Portugal" target="Ukraine" weight="3.0"></edge>
+      <edge id="Romania-Televote&gt;Belgium" kind="Televote" source="Romania" target="Belgium" weight="5.0"></edge>
+      <edge id="Romania-Televote&gt;Bulgaria" kind="Televote" source="Romania" target="Bulgaria" weight="8.0"></edge>
+      <edge id="Romania-Televote&gt;Croatia" kind="Televote" source="Romania" target="Croatia" weight="3.0"></edge>
+      <edge id="Romania-Televote&gt;France" kind="Televote" source="Romania" target="France" weight="4.0"></edge>
+      <edge id="Romania-Televote&gt;Greece" kind="Televote" source="Romania" target="Greece"></edge>
+      <edge id="Romania-Televote&gt;Hungary" kind="Televote" source="Romania" target="Hungary" weight="10.0"></edge>
+      <edge id="Romania-Televote&gt;Italy" kind="Televote" source="Romania" target="Italy" weight="6.0"></edge>
+      <edge id="Romania-Televote&gt;Moldova" kind="Televote" source="Romania" target="Moldova" weight="12.0"></edge>
+      <edge id="Romania-Televote&gt;Portugal" kind="Televote" source="Romania" target="Portugal" weight="7.0"></edge>
+      <edge id="Romania-Televote&gt;Sweden" kind="Televote" source="Romania" target="Sweden" weight="2.0"></edge>
+      <edge id="San Marino-Televote&gt;Azerbaijan" kind="Televote" source="San Marino" target="Azerbaijan"></edge>
+      <edge id="San Marino-Televote&gt;Belgium" kind="Televote" source="San Marino" target="Belgium" weight="5.0"></edge>
+      <edge id="San Marino-Televote&gt;Bulgaria" kind="Televote" source="San Marino" target="Bulgaria" weight="12.0"></edge>
+      <edge id="San Marino-Televote&gt;Croatia" kind="Televote" source="San Marino" target="Croatia" weight="3.0"></edge>
+      <edge id="San Marino-Televote&gt;Hungary" kind="Televote" source="San Marino" target="Hungary" weight="4.0"></edge>
+      <edge id="San Marino-Televote&gt;Italy" kind="Televote" source="San Marino" target="Italy" weight="10.0"></edge>
+      <edge id="San Marino-Televote&gt;Moldova" kind="Televote" source="San Marino" target="Moldova" weight="8.0"></edge>
+      <edge id="San Marino-Televote&gt;Portugal" kind="Televote" source="San Marino" target="Portugal" weight="7.0"></edge>
+      <edge id="San Marino-Televote&gt;Romania" kind="Televote" source="San Marino" target="Romania" weight="6.0"></edge>
+      <edge id="San Marino-Televote&gt;Sweden" kind="Televote" source="San Marino" target="Sweden" weight="2.0"></edge>
+      <edge id="Serbia-Televote&gt;Belgium" kind="Televote" source="Serbia" target="Belgium" weight="3.0"></edge>
+      <edge id="Serbia-Televote&gt;Bulgaria" kind="Televote" source="Serbia" target="Bulgaria" weight="10.0"></edge>
+      <edge id="Serbia-Televote&gt;Croatia" kind="Televote" source="Serbia" target="Croatia" weight="5.0"></edge>
+      <edge id="Serbia-Televote&gt;France" kind="Televote" source="Serbia" target="France" weight="2.0"></edge>
+      <edge id="Serbia-Televote&gt;Hungary" kind="Televote" source="Serbia" target="Hungary" weight="12.0"></edge>
+      <edge id="Serbia-Televote&gt;Italy" kind="Televote" source="Serbia" target="Italy" weight="6.0"></edge>
+      <edge id="Serbia-Televote&gt;Moldova" kind="Televote" source="Serbia" target="Moldova" weight="7.0"></edge>
+      <edge id="Serbia-Televote&gt;Portugal" kind="Televote" source="Serbia" target="Portugal" weight="8.0"></edge>
+      <edge id="Serbia-Televote&gt;Romania" kind="Televote" source="Serbia" target="Romania" weight="4.0"></edge>
+      <edge id="Serbia-Televote&gt;Sweden" kind="Televote" source="Serbia" target="Sweden"></edge>
+      <edge id="Slovenia-Televote&gt;Azerbaijan" kind="Televote" source="Slovenia" target="Azerbaijan" weight="4.0"></edge>
+      <edge id="Slovenia-Televote&gt;Belgium" kind="Televote" source="Slovenia" target="Belgium" weight="6.0"></edge>
+      <edge id="Slovenia-Televote&gt;Bulgaria" kind="Televote" source="Slovenia" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Slovenia-Televote&gt;Croatia" kind="Televote" source="Slovenia" target="Croatia" weight="12.0"></edge>
+      <edge id="Slovenia-Televote&gt;Hungary" kind="Televote" source="Slovenia" target="Hungary" weight="5.0"></edge>
+      <edge id="Slovenia-Televote&gt;Italy" kind="Televote" source="Slovenia" target="Italy" weight="10.0"></edge>
+      <edge id="Slovenia-Televote&gt;Moldova" kind="Televote" source="Slovenia" target="Moldova" weight="3.0"></edge>
+      <edge id="Slovenia-Televote&gt;Portugal" kind="Televote" source="Slovenia" target="Portugal" weight="8.0"></edge>
+      <edge id="Slovenia-Televote&gt;Romania" kind="Televote" source="Slovenia" target="Romania" weight="2.0"></edge>
+      <edge id="Slovenia-Televote&gt;Sweden" kind="Televote" source="Slovenia" target="Sweden"></edge>
+      <edge id="Spain-Televote&gt;Belgium" kind="Televote" source="Spain" target="Belgium" weight="12.0"></edge>
+      <edge id="Spain-Televote&gt;Bulgaria" kind="Televote" source="Spain" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Spain-Televote&gt;Croatia" kind="Televote" source="Spain" target="Croatia" weight="2.0"></edge>
+      <edge id="Spain-Televote&gt;Hungary" kind="Televote" source="Spain" target="Hungary" weight="4.0"></edge>
+      <edge id="Spain-Televote&gt;Italy" kind="Televote" source="Spain" target="Italy"></edge>
+      <edge id="Spain-Televote&gt;Moldova" kind="Televote" source="Spain" target="Moldova" weight="8.0"></edge>
+      <edge id="Spain-Televote&gt;Norway" kind="Televote" source="Spain" target="Norway" weight="6.0"></edge>
+      <edge id="Spain-Televote&gt;Poland" kind="Televote" source="Spain" target="Poland" weight="5.0"></edge>
+      <edge id="Spain-Televote&gt;Portugal" kind="Televote" source="Spain" target="Portugal" weight="10.0"></edge>
+      <edge id="Spain-Televote&gt;Romania" kind="Televote" source="Spain" target="Romania" weight="3.0"></edge>
+      <edge id="Sweden-Televote&gt;Belgium" kind="Televote" source="Sweden" target="Belgium" weight="12.0"></edge>
+      <edge id="Sweden-Televote&gt;Bulgaria" kind="Televote" source="Sweden" target="Bulgaria" weight="7.0"></edge>
+      <edge id="Sweden-Televote&gt;Croatia" kind="Televote" source="Sweden" target="Croatia" weight="2.0"></edge>
+      <edge id="Sweden-Televote&gt;Hungary" kind="Televote" source="Sweden" target="Hungary" weight="4.0"></edge>
+      <edge id="Sweden-Televote&gt;Italy" kind="Televote" source="Sweden" target="Italy"></edge>
+      <edge id="Sweden-Televote&gt;Moldova" kind="Televote" source="Sweden" target="Moldova" weight="8.0"></edge>
+      <edge id="Sweden-Televote&gt;Norway" kind="Televote" source="Sweden" target="Norway" weight="6.0"></edge>
+      <edge id="Sweden-Televote&gt;Poland" kind="Televote" source="Sweden" target="Poland" weight="5.0"></edge>
+      <edge id="Sweden-Televote&gt;Portugal" kind="Televote" source="Sweden" target="Portugal" weight="10.0"></edge>
+      <edge id="Sweden-Televote&gt;Romania" kind="Televote" source="Sweden" target="Romania" weight="3.0"></edge>
+      <edge id="Switzerland-Televote&gt;Belgium" kind="Televote" source="Switzerland" target="Belgium" weight="7.0"></edge>
+      <edge id="Switzerland-Televote&gt;Bulgaria" kind="Televote" source="Switzerland" target="Bulgaria" weight="6.0"></edge>
+      <edge id="Switzerland-Televote&gt;Croatia" kind="Televote" source="Switzerland" target="Croatia" weight="8.0"></edge>
+      <edge id="Switzerland-Televote&gt;France" kind="Televote" source="Switzerland" target="France" weight="2.0"></edge>
+      <edge id="Switzerland-Televote&gt;Germany" kind="Televote" source="Switzerland" target="Germany" weight="3.0"></edge>
+      <edge id="Switzerland-Televote&gt;Hungary" kind="Televote" source="Switzerland" target="Hungary" weight="5.0"></edge>
+      <edge id="Switzerland-Televote&gt;Italy" kind="Televote" source="Switzerland" target="Italy" weight="10.0"></edge>
+      <edge id="Switzerland-Televote&gt;Portugal" kind="Televote" source="Switzerland" target="Portugal" weight="12.0"></edge>
+      <edge id="Switzerland-Televote&gt;Romania" kind="Televote" source="Switzerland" target="Romania" weight="4.0"></edge>
+      <edge id="Switzerland-Televote&gt;Sweden" kind="Televote" source="Switzerland" target="Sweden"></edge>
+      <edge id="The Netherlands-Televote&gt;Belgium" kind="Televote" source="The Netherlands" target="Belgium" weight="10.0"></edge>
+      <edge id="The Netherlands-Televote&gt;Bulgaria" kind="Televote" source="The Netherlands" target="Bulgaria" weight="8.0"></edge>
+      <edge id="The Netherlands-Televote&gt;Croatia" kind="Televote" source="The Netherlands" target="Croatia" weight="3.0"></edge>
+      <edge id="The Netherlands-Televote&gt;Hungary" kind="Televote" source="The Netherlands" target="Hungary" weight="6.0"></edge>
+      <edge id="The Netherlands-Televote&gt;Italy" kind="Televote" source="The Netherlands" target="Italy" weight="2.0"></edge>
+      <edge id="The Netherlands-Televote&gt;Moldova" kind="Televote" source="The Netherlands" target="Moldova" weight="5.0"></edge>
+      <edge id="The Netherlands-Televote&gt;Poland" kind="Televote" source="The Netherlands" target="Poland"></edge>
+      <edge id="The Netherlands-Televote&gt;Portugal" kind="Televote" source="The Netherlands" target="Portugal" weight="12.0"></edge>
+      <edge id="The Netherlands-Televote&gt;Romania" kind="Televote" source="The Netherlands" target="Romania" weight="7.0"></edge>
+      <edge id="The Netherlands-Televote&gt;Sweden" kind="Televote" source="The Netherlands" target="Sweden" weight="4.0"></edge>
+      <edge id="Ukraine-Televote&gt;Belarus" kind="Televote" source="Ukraine" target="Belarus" weight="8.0"></edge>
+      <edge id="Ukraine-Televote&gt;Belgium" kind="Televote" source="Ukraine" target="Belgium" weight="5.0"></edge>
+      <edge id="Ukraine-Televote&gt;Bulgaria" kind="Televote" source="Ukraine" target="Bulgaria" weight="2.0"></edge>
+      <edge id="Ukraine-Televote&gt;France" kind="Televote" source="Ukraine" target="France" weight="6.0"></edge>
+      <edge id="Ukraine-Televote&gt;Hungary" kind="Televote" source="Ukraine" target="Hungary" weight="4.0"></edge>
+      <edge id="Ukraine-Televote&gt;Moldova" kind="Televote" source="Ukraine" target="Moldova" weight="12.0"></edge>
+      <edge id="Ukraine-Televote&gt;Norway" kind="Televote" source="Ukraine" target="Norway"></edge>
+      <edge id="Ukraine-Televote&gt;Portugal" kind="Televote" source="Ukraine" target="Portugal" weight="10.0"></edge>
+      <edge id="Ukraine-Televote&gt;Romania" kind="Televote" source="Ukraine" target="Romania" weight="3.0"></edge>
+      <edge id="Ukraine-Televote&gt;Sweden" kind="Televote" source="Ukraine" target="Sweden" weight="7.0"></edge>
+      <edge id="United Kingdom-Televote&gt;Belgium" kind="Televote" source="United Kingdom" target="Belgium" weight="3.0"></edge>
+      <edge id="United Kingdom-Televote&gt;Bulgaria" kind="Televote" source="United Kingdom" target="Bulgaria" weight="12.0"></edge>
+      <edge id="United Kingdom-Televote&gt;Croatia" kind="Televote" source="United Kingdom" target="Croatia" weight="5.0"></edge>
+      <edge id="United Kingdom-Televote&gt;Hungary" kind="Televote" source="United Kingdom" target="Hungary"></edge>
+      <edge id="United Kingdom-Televote&gt;Italy" kind="Televote" source="United Kingdom" target="Italy" weight="2.0"></edge>
+      <edge id="United Kingdom-Televote&gt;Moldova" kind="Televote" source="United Kingdom" target="Moldova" weight="6.0"></edge>
+      <edge id="United Kingdom-Televote&gt;Poland" kind="Televote" source="United Kingdom" target="Poland" weight="10.0"></edge>
+      <edge id="United Kingdom-Televote&gt;Portugal" kind="Televote" source="United Kingdom" target="Portugal" weight="8.0"></edge>
+      <edge id="United Kingdom-Televote&gt;Romania" kind="Televote" source="United Kingdom" target="Romania" weight="7.0"></edge>
+      <edge id="United Kingdom-Televote&gt;Sweden" kind="Televote" source="United Kingdom" target="Sweden" weight="4.0"></edge>
+    </edges>
+  </graph>
+</gexf>
