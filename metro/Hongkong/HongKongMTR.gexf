@@ -1,0 +1,3333 @@
+<gexf version="1.3" xmlns="http://www.gexf.net/1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+ <meta lastmodifieddate="2018-05-27"/>
+ <creator>
+  Gephi 0.9
+ </creator>
+ <description>
+ </description>
+ <graph defaultedgetype="undirected" mode="static">
+  <attributes class="node" mode="static">
+   <attribute id="latin_name" title="latin_name" type="string">
+   </attribute>
+   <attribute id="local_name" title="local_name" type="string">
+   </attribute>
+   <attribute id="location" title="location" type="string">
+   </attribute>
+   <attribute id="lat" title="lat" type="double">
+   </attribute>
+   <attribute id="lng" title="lng" type="double">
+   </attribute>
+   <attribute id="eccentricity" title="Eccentricity" type="double">
+    <default>
+     0.0
+    </default>
+   </attribute>
+   <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+    <default>
+     0.0
+    </default>
+   </attribute>
+   <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+    <default>
+     0.0
+    </default>
+   </attribute>
+   <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+    <default>
+     0.0
+    </default>
+   </attribute>
+  </attributes>
+  <attributes class="edge" mode="static">
+   <attribute id="kind" title="kind" type="string">
+   </attribute>
+  </attributes>
+  <nodes>
+   <node id="ADM">
+    <attvalues>
+     <attvalue for="latin_name" value="Admiralty">
+     </attvalue>
+     <attvalue for="local_name" value="金鐘">
+     </attvalue>
+     <attvalue for="location" value="Central and Western">
+     </attvalue>
+     <attvalue for="lat" value="22.2788">
+     </attvalue>
+     <attvalue for="lng" value="114.1646">
+     </attvalue>
+     <attvalue for="eccentricity" value="16.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11070559610705596">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.17860530800091234">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="1236.666666666667">
+     </attvalue>
+    </attvalues>
+    <viz:size value="50.0">
+    </viz:size>
+    <viz:position x="78.977356" y="-441.2133">
+    </viz:position>
+    <viz:color b="146" g="193" r="210">
+    </viz:color>
+   </node>
+   <node id="AIR">
+    <attvalues>
+     <attvalue for="latin_name" value="Airport">
+     </attvalue>
+     <attvalue for="local_name" value="機場">
+     </attvalue>
+     <attvalue for="location" value="Islands">
+     </attvalue>
+     <attvalue for="lat" value="22.316">
+     </attvalue>
+     <attvalue for="lng" value="113.9366">
+     </attvalue>
+     <attvalue for="eccentricity" value="23.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08992094861660078">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.14977462525322183">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="90.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-626.5892" y="22.683117">
+    </viz:position>
+    <viz:color b="0" g="186" r="167">
+    </viz:color>
+   </node>
+   <node id="AUS">
+    <attvalues>
+     <attvalue for="latin_name" value="Austin">
+     </attvalue>
+     <attvalue for="local_name" value="柯士甸">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.3046">
+     </attvalue>
+     <attvalue for="lng" value="114.1665">
+     </attvalue>
+     <attvalue for="eccentricity" value="19.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11124694376528117">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1724288717969185">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="733.5">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-289.9862" y="91.624146">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="AWE">
+    <attvalues>
+     <attvalue for="latin_name" value="AsiWorld-Expo">
+     </attvalue>
+     <attvalue for="local_name" value="博覽館">
+     </attvalue>
+     <attvalue for="location" value="Islands">
+     </attvalue>
+     <attvalue for="lat" value="22.3218">
+     </attvalue>
+     <attvalue for="lng" value="113.9412">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08257713248638839">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.12298212593324999">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="-657.41693" y="24.69387">
+    </viz:position>
+    <viz:color b="0" g="186" r="167">
+    </viz:color>
+   </node>
+   <node id="CAB">
+    <attvalues>
+     <attvalue for="latin_name" value="Causeway Bay">
+     </attvalue>
+     <attvalue for="local_name" value="銅鑼灣">
+     </attvalue>
+     <attvalue for="location" value="Wan Chai">
+     </attvalue>
+     <attvalue for="lat" value="22.2802">
+     </attvalue>
+     <attvalue for="lng" value="114.1835">
+     </attvalue>
+     <attvalue for="eccentricity" value="18.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09891304347826087">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.14756747956489383">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="569.6666666666667">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="242.03148" y="-451.80627">
+    </viz:position>
+    <viz:color b="109" g="98" r="255">
+    </viz:color>
+   </node>
+   <node id="CEN">
+    <attvalues>
+     <attvalue for="latin_name" value="Central">
+     </attvalue>
+     <attvalue for="local_name" value="中環">
+     </attvalue>
+     <attvalue for="location" value="Central and Western">
+     </attvalue>
+     <attvalue for="lat" value="22.282">
+     </attvalue>
+     <attvalue for="lng" value="114.1576">
+     </attvalue>
+     <attvalue for="eccentricity" value="17.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.1006637168141593">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.15226044066541797">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="348.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="27.5">
+    </viz:size>
+    <viz:position x="10.5613985" y="-500.40417">
+    </viz:position>
+    <viz:color b="146" g="193" r="210">
+    </viz:color>
+   </node>
+   <node id="CHH">
+    <attvalues>
+     <attvalue for="latin_name" value="Choi Hung">
+     </attvalue>
+     <attvalue for="local_name" value="彩虹">
+     </attvalue>
+     <attvalue for="location" value="Wong Tai Sin">
+     </attvalue>
+     <attvalue for="lat" value="22.3348">
+     </attvalue>
+     <attvalue for="lng" value="114.2089">
+     </attvalue>
+     <attvalue for="eccentricity" value="17.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.10556844547563805">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.14441180452815863">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="781.3333333333334">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="314.44806" y="-6.284665">
+    </viz:position>
+    <viz:color b="19" g="71" r="119">
+    </viz:color>
+   </node>
+   <node id="CHW">
+    <attvalues>
+     <attvalue for="latin_name" value="Chai Wan">
+     </attvalue>
+     <attvalue for="local_name" value="柴灣">
+     </attvalue>
+     <attvalue for="location" value="Eastern">
+     </attvalue>
+     <attvalue for="lat" value="22.2644">
+     </attvalue>
+     <attvalue for="lng" value="114.2368">
+     </attvalue>
+     <attvalue for="eccentricity" value="27.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.061653116531165314">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.08960020750521">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="675.7559" y="-608.6804">
+    </viz:position>
+    <viz:color b="0" g="222" r="38">
+    </viz:color>
+   </node>
+   <node id="CIO">
+    <attvalues>
+     <attvalue for="latin_name" value="City One">
+     </attvalue>
+     <attvalue for="local_name" value="第一城">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.3828">
+     </attvalue>
+     <attvalue for="lng" value="114.2035">
+     </attvalue>
+     <attvalue for="eccentricity" value="19.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09518828451882845">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.13761198377220893">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="430.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="238.069" y="433.04227">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="CKT">
+    <attvalues>
+     <attvalue for="latin_name" value="Che Kung Temple">
+     </attvalue>
+     <attvalue for="local_name" value="車公廟">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.3748">
+     </attvalue>
+     <attvalue for="lng" value="114.1861">
+     </attvalue>
+     <attvalue for="eccentricity" value="17.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11403508771929824">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.16372525969326227">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="588.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="141.69696" y="356.0624">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="CSW">
+    <attvalues>
+     <attvalue for="latin_name" value="Cheung Sha Wan">
+     </attvalue>
+     <attvalue for="local_name" value="長沙灣">
+     </attvalue>
+     <attvalue for="location" value="Sham Shui Po">
+     </attvalue>
+     <attvalue for="lat" value="22.3354">
+     </attvalue>
+     <attvalue for="lng" value="114.1563">
+     </attvalue>
+     <attvalue for="eccentricity" value="18.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.12198391420911528">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.17263974713069724">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="864.4999999999999">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-233.0003" y="89.12835">
+    </viz:position>
+    <viz:color b="255" g="133" r="255">
+    </viz:color>
+   </node>
+   <node id="DIH">
+    <attvalues>
+     <attvalue for="latin_name" value="Diamond Hill">
+     </attvalue>
+     <attvalue for="local_name" value="鑽石山">
+     </attvalue>
+     <attvalue for="location" value="Wong Tai Sin">
+     </attvalue>
+     <attvalue for="lat" value="22.3401">
+     </attvalue>
+     <attvalue for="lng" value="114.2016">
+     </attvalue>
+     <attvalue for="eccentricity" value="16.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11193111931119311">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.15098105496457137">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="830.3333333333334">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="253.8645" y="43.477688">
+    </viz:position>
+    <viz:color b="19" g="71" r="119">
+    </viz:color>
+   </node>
+   <node id="DIS">
+    <attvalues>
+     <attvalue for="latin_name" value="Disneyland Resort">
+     </attvalue>
+     <attvalue for="local_name" value="迪士尼">
+     </attvalue>
+     <attvalue for="location" value="Tsuen Wan">
+     </attvalue>
+     <attvalue for="lat" value="22.3155">
+     </attvalue>
+     <attvalue for="lng" value="114.0451">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08272727272727273">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.12572937868050274">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="-661.7844" y="-64.185074">
+    </viz:position>
+    <viz:color b="193" g="90" r="255">
+    </viz:color>
+   </node>
+   <node id="ETS">
+    <attvalues>
+     <attvalue for="latin_name" value="East Tsim Sha Tsui">
+     </attvalue>
+     <attvalue for="local_name" value="尖東">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.2955">
+     </attvalue>
+     <attvalue for="lng" value="114.1754">
+     </attvalue>
+     <attvalue for="eccentricity" value="18.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11666666666666667">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.16727285678481532">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="761.5">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-205.33287" y="132.32254">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="FAN">
+    <attvalues>
+     <attvalue for="latin_name" value="Fanling">
+     </attvalue>
+     <attvalue for="local_name" value="粉嶺">
+     </attvalue>
+     <attvalue for="location" value="North">
+     </attvalue>
+     <attvalue for="lat" value="22.4921">
+     </attvalue>
+     <attvalue for="lng" value="114.1387">
+     </attvalue>
+     <attvalue for="eccentricity" value="22.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07608695652173914">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.11695110775546591">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="264.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="42.387424" y="711.4397">
+    </viz:position>
+    <viz:color b="197" g="205" r="0">
+    </viz:color>
+   </node>
+   <node id="FOH">
+    <attvalues>
+     <attvalue for="latin_name" value="Fortress Hill">
+     </attvalue>
+     <attvalue for="local_name" value="炮台山">
+     </attvalue>
+     <attvalue for="location" value="Eastern">
+     </attvalue>
+     <attvalue for="lat" value="22.2881">
+     </attvalue>
+     <attvalue for="lng" value="114.1936">
+     </attvalue>
+     <attvalue for="eccentricity" value="20.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0893909626719057">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.14073754767329763">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="471.6666666666668">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="376.06107" y="-443.67233">
+    </viz:position>
+    <viz:color b="0" g="222" r="38">
+    </viz:color>
+   </node>
+   <node id="FOT">
+    <attvalues>
+     <attvalue for="latin_name" value="Fo Tan">
+     </attvalue>
+     <attvalue for="local_name" value="火炭">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.3953">
+     </attvalue>
+     <attvalue for="lng" value="114.1982">
+     </attvalue>
+     <attvalue for="eccentricity" value="18.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.10435779816513761">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1494569882821337">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="588.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="63.78374" y="470.53983">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="HAH">
+    <attvalues>
+     <attvalue for="latin_name" value="Hang Hau">
+     </attvalue>
+     <attvalue for="local_name" value="坑口">
+     </attvalue>
+     <attvalue for="location" value="Sai Kung">
+     </attvalue>
+     <attvalue for="lat" value="22.3156">
+     </attvalue>
+     <attvalue for="lng" value="114.2644">
+     </attvalue>
+     <attvalue for="eccentricity" value="25.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07142857142857142">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.11457189663386341">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="90.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="767.682" y="-295.54446">
+    </viz:position>
+    <viz:color b="77" g="87" r="0">
+    </viz:color>
+   </node>
+   <node id="HEO">
+    <attvalues>
+     <attvalue for="latin_name" value="Heng On">
+     </attvalue>
+     <attvalue for="local_name" value="恆安">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.4174">
+     </attvalue>
+     <attvalue for="lng" value="114.2258">
+     </attvalue>
+     <attvalue for="eccentricity" value="22.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07533112582781457">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.11224153161731835">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="178.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="357.41937" y="530.16516">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="HFC">
+    <attvalues>
+     <attvalue for="latin_name" value="Heng Fa Chuen">
+     </attvalue>
+     <attvalue for="local_name" value="杏花邨">
+     </attvalue>
+     <attvalue for="location" value="Eastern">
+     </attvalue>
+     <attvalue for="lat" value="22.2769">
+     </attvalue>
+     <attvalue for="lng" value="114.2398">
+     </attvalue>
+     <attvalue for="eccentricity" value="26.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.06565656565656566">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.10427035906977147">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="90.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="657.6736" y="-584.3208">
+    </viz:position>
+    <viz:color b="0" g="222" r="38">
+    </viz:color>
+   </node>
+   <node id="HKU">
+    <attvalues>
+     <attvalue for="latin_name" value="HKU">
+     </attvalue>
+     <attvalue for="local_name" value="香港大學">
+     </attvalue>
+     <attvalue for="location" value="Central and Western">
+     </attvalue>
+     <attvalue for="lat" value="22.2841">
+     </attvalue>
+     <attvalue for="lng" value="114.1356">
+     </attvalue>
+     <attvalue for="eccentricity" value="20.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0783132530120482">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.11334994748349961">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="90.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-93.246506" y="-620.5709">
+    </viz:position>
+    <viz:color b="146" g="193" r="210">
+    </viz:color>
+   </node>
+   <node id="HOK">
+    <attvalues>
+     <attvalue for="latin_name" value="Hong Kong">
+     </attvalue>
+     <attvalue for="local_name" value="香港">
+     </attvalue>
+     <attvalue for="location" value="Central and Western">
+     </attvalue>
+     <attvalue for="lat" value="22.285">
+     </attvalue>
+     <attvalue for="lng" value="114.158">
+     </attvalue>
+     <attvalue for="eccentricity" value="23.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08617424242424243">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1302064842080284">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-490.26117" y="-110.91186">
+    </viz:position>
+    <viz:color b="146" g="193" r="210">
+    </viz:color>
+   </node>
+   <node id="HOM">
+    <attvalues>
+     <attvalue for="latin_name" value="Ho Man Tin">
+     </attvalue>
+     <attvalue for="local_name" value="何文田">
+     </attvalue>
+     <attvalue for="location" value="Kowloon City">
+     </attvalue>
+     <attvalue for="lat" value="22.3093">
+     </attvalue>
+     <attvalue for="lng" value="114.1829">
+     </attvalue>
+     <attvalue for="eccentricity" value="15.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11138310893512852">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.15024084584524144">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="90.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="59.033123" y="-162.82254">
+    </viz:position>
+    <viz:color b="217" g="168" r="231">
+    </viz:color>
+   </node>
+   <node id="HUH">
+    <attvalues>
+     <attvalue for="latin_name" value="Hung Hom">
+     </attvalue>
+     <attvalue for="local_name" value="紅磡">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.3029">
+     </attvalue>
+     <attvalue for="lng" value="114.1816">
+     </attvalue>
+     <attvalue for="eccentricity" value="17.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.12264150943396226">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1698349009677387">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="799.5">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-127.05746" y="157.24509">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="JOR">
+    <attvalues>
+     <attvalue for="latin_name" value="Jordan">
+     </attvalue>
+     <attvalue for="local_name" value="佐敦">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.3049">
+     </attvalue>
+     <attvalue for="lng" value="114.1718">
+     </attvalue>
+     <attvalue for="eccentricity" value="14.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11973684210526316">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.16636281911007184">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="1089.6666666666665">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="17.900305" y="-251.90172">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="KET">
+    <attvalues>
+     <attvalue for="latin_name" value="Kennedy Town">
+     </attvalue>
+     <attvalue for="local_name" value="堅尼地城">
+     </attvalue>
+     <attvalue for="location" value="Central and Western">
+     </attvalue>
+     <attvalue for="lat" value="22.2812">
+     </attvalue>
+     <attvalue for="lng" value="114.1285">
+     </attvalue>
+     <attvalue for="eccentricity" value="21.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07268370607028754">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.09753126277171108">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="-112.34089" y="-644.01666">
+    </viz:position>
+    <viz:color b="146" g="193" r="210">
+    </viz:color>
+   </node>
+   <node id="KOB">
+    <attvalues>
+     <attvalue for="latin_name" value="Kowloon Bay">
+     </attvalue>
+     <attvalue for="local_name" value="九龍灣">
+     </attvalue>
+     <attvalue for="location" value="Kwun Tong">
+     </attvalue>
+     <attvalue for="lat" value="22.3235">
+     </attvalue>
+     <attvalue for="lng" value="114.2141">
+     </attvalue>
+     <attvalue for="eccentricity" value="18.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.1008869179600887">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.14059208944470733">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="741.3333333333334">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="370.66272" y="-58.577732">
+    </viz:position>
+    <viz:color b="123" g="209" r="0">
+    </viz:color>
+   </node>
+   <node id="KOT">
+    <attvalues>
+     <attvalue for="latin_name" value="Kowloon Tong">
+     </attvalue>
+     <attvalue for="local_name" value="九龍塘">
+     </attvalue>
+     <attvalue for="location" value="Sham Shui Po">
+     </attvalue>
+     <attvalue for="lat" value="22.337">
+     </attvalue>
+     <attvalue for="lng" value="114.1762">
+     </attvalue>
+     <attvalue for="eccentricity" value="15.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.13663663663663664">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.20556503935624815">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="1996.9999999999995">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="39.018528" y="186.0334">
+    </viz:position>
+    <viz:color b="255" g="133" r="255">
+    </viz:color>
+   </node>
+   <node id="KOW">
+    <attvalues>
+     <attvalue for="latin_name" value="Kowloon">
+     </attvalue>
+     <attvalue for="local_name" value="九龍">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.3049">
+     </attvalue>
+     <attvalue for="lng" value="114.1615">
+     </attvalue>
+     <attvalue for="eccentricity" value="22.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09420289855072464">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.16361160315885925">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="96.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="-479.71848" y="-47.765568">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="KSR">
+    <attvalues>
+     <attvalue for="latin_name" value="Kam Sheung Road">
+     </attvalue>
+     <attvalue for="local_name" value="錦上路">
+     </attvalue>
+     <attvalue for="location" value="Yuen Long">
+     </attvalue>
+     <attvalue for="lat" value="22.4348">
+     </attvalue>
+     <attvalue for="lng" value="114.0634">
+     </attvalue>
+     <attvalue for="eccentricity" value="22.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09285714285714286">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.14761872336677553">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="430.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-510.57474" y="269.50092">
+    </viz:position>
+    <viz:color b="101" g="60" r="112">
+    </viz:color>
+   </node>
+   <node id="KWF">
+    <attvalues>
+     <attvalue for="latin_name" value="Kwai Fong">
+     </attvalue>
+     <attvalue for="local_name" value="葵芳">
+     </attvalue>
+     <attvalue for="location" value="Kwai Tsing">
+     </attvalue>
+     <attvalue for="lat" value="22.3569">
+     </attvalue>
+     <attvalue for="lng" value="114.1279">
+     </attvalue>
+     <attvalue for="eccentricity" value="22.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09753483386923902">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.16333224899295049">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="264.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-549.0763" y="119.30397">
+    </viz:position>
+    <viz:color b="255" g="176" r="64">
+    </viz:color>
+   </node>
+   <node id="KWH">
+    <attvalues>
+     <attvalue for="latin_name" value="Kwai Hing">
+     </attvalue>
+     <attvalue for="local_name" value="葵興">
+     </attvalue>
+     <attvalue for="location" value="Kwai Tsing">
+     </attvalue>
+     <attvalue for="lat" value="22.3708">
+     </attvalue>
+     <attvalue for="lng" value="114.125">
+     </attvalue>
+     <attvalue for="eccentricity" value="23.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08930323846908735">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1426317681103647">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="178.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-594.2524" y="139.79082">
+    </viz:position>
+    <viz:color b="255" g="176" r="64">
+    </viz:color>
+   </node>
+   <node id="KWT">
+    <attvalues>
+     <attvalue for="latin_name" value="Kwun Tong">
+     </attvalue>
+     <attvalue for="local_name" value="觀塘">
+     </attvalue>
+     <attvalue for="location" value="Kwun Tong">
+     </attvalue>
+     <attvalue for="lat" value="22.3121">
+     </attvalue>
+     <attvalue for="lng" value="114.2265">
+     </attvalue>
+     <attvalue for="eccentricity" value="20.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09439834024896265">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1400470899645873">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="679.3333333333334">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="469.8587" y="-171.4991">
+    </viz:position>
+    <viz:color b="123" g="209" r="0">
+    </viz:color>
+   </node>
+   <node id="LAK">
+    <attvalues>
+     <attvalue for="latin_name" value="Lai King">
+     </attvalue>
+     <attvalue for="local_name" value="茘景">
+     </attvalue>
+     <attvalue for="location" value="Kwai Tsing">
+     </attvalue>
+     <attvalue for="lat" value="22.3484">
+     </attvalue>
+     <attvalue for="lng" value="114.1261">
+     </attvalue>
+     <attvalue for="eccentricity" value="21.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.1071849234393404">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.19953931677896555">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="849.6666666666666">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="-483.78278" y="84.11277">
+    </viz:position>
+    <viz:color b="255" g="176" r="64">
+    </viz:color>
+   </node>
+   <node id="LAT">
+    <attvalues>
+     <attvalue for="latin_name" value="Lam Tin">
+     </attvalue>
+     <attvalue for="local_name" value="藍田">
+     </attvalue>
+     <attvalue for="location" value="Kwun Tong">
+     </attvalue>
+     <attvalue for="lat" value="22.3068">
+     </attvalue>
+     <attvalue for="lng" value="114.233">
+     </attvalue>
+     <attvalue for="eccentricity" value="21.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09164149043303121">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.14425614044868626">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="650.3333333333334">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="513.31665" y="-233.15146">
+    </viz:position>
+    <viz:color b="123" g="209" r="0">
+    </viz:color>
+   </node>
+   <node id="LCK">
+    <attvalues>
+     <attvalue for="latin_name" value="Lai Chi Kok">
+     </attvalue>
+     <attvalue for="local_name" value="茘枝角">
+     </attvalue>
+     <attvalue for="location" value="Sham Shui Po">
+     </attvalue>
+     <attvalue for="lat" value="22.3373">
+     </attvalue>
+     <attvalue for="lng" value="114.1482">
+     </attvalue>
+     <attvalue for="eccentricity" value="19.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11607142857142858">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1769366548276492">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="826.5">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-319.3149" y="130.84207">
+    </viz:position>
+    <viz:color b="255" g="133" r="255">
+    </viz:color>
+   </node>
+   <node id="LET">
+    <attvalues>
+     <attvalue for="latin_name" value="Lei Tung">
+     </attvalue>
+     <attvalue for="local_name" value="利東">
+     </attvalue>
+     <attvalue for="location" value="Southern">
+     </attvalue>
+     <attvalue for="lat" value="22.2421">
+     </attvalue>
+     <attvalue for="lng" value="114.1562">
+     </attvalue>
+     <attvalue for="eccentricity" value="19.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08425925925925926">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1209027191182806">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="90.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="103.133766" y="-620.1306">
+    </viz:position>
+    <viz:color b="0" g="157" r="241">
+    </viz:color>
+   </node>
+   <node id="LHP">
+    <attvalues>
+     <attvalue for="latin_name" value="LOHAS Park">
+     </attvalue>
+     <attvalue for="local_name" value="康城">
+     </attvalue>
+     <attvalue for="location" value="Sai Kung">
+     </attvalue>
+     <attvalue for="lat" value="22.2957">
+     </attvalue>
+     <attvalue for="lng" value="114.2689">
+     </attvalue>
+     <attvalue for="eccentricity" value="25.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0713166144200627">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.10724588930785611">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="740.23615" y="-334.41995">
+    </viz:position>
+    <viz:color b="77" g="87" r="0">
+    </viz:color>
+   </node>
+   <node id="LMC">
+    <attvalues>
+     <attvalue for="latin_name" value="Lok Ma Chau">
+     </attvalue>
+     <attvalue for="local_name" value="落馬洲">
+     </attvalue>
+     <attvalue for="location" value="Yuen Long">
+     </attvalue>
+     <attvalue for="lat" value="22.5144">
+     </attvalue>
+     <attvalue for="lng" value="114.0657">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0663265306122449">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.09390299444580702">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="16.354267" y="808.2331">
+    </viz:position>
+    <viz:color b="101" g="60" r="112">
+    </viz:color>
+   </node>
+   <node id="LOF">
+    <attvalues>
+     <attvalue for="latin_name" value="Lok Fu">
+     </attvalue>
+     <attvalue for="local_name" value="樂富">
+     </attvalue>
+     <attvalue for="location" value="Wong Tai Sin">
+     </attvalue>
+     <attvalue for="lat" value="22.338">
+     </attvalue>
+     <attvalue for="lng" value="114.1871">
+     </attvalue>
+     <attvalue for="eccentricity" value="14.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.12727272727272726">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.17602196338460072">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="928.3333333333334">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="118.80377" y="137.62622">
+    </viz:position>
+    <viz:color b="19" g="71" r="119">
+    </viz:color>
+   </node>
+   <node id="LOP">
+    <attvalues>
+     <attvalue for="latin_name" value="Long Ping">
+     </attvalue>
+     <attvalue for="local_name" value="朗屏">
+     </attvalue>
+     <attvalue for="location" value="Yuen Long">
+     </attvalue>
+     <attvalue for="lat" value="22.4477">
+     </attvalue>
+     <attvalue for="lng" value="114.0253">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07940663176265271">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.12496984436425056">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="264.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-597.38574" y="346.30008">
+    </viz:position>
+    <viz:color b="101" g="60" r="112">
+    </viz:color>
+   </node>
+   <node id="LOW">
+    <attvalues>
+     <attvalue for="latin_name" value="Lo Wu">
+     </attvalue>
+     <attvalue for="local_name" value="羅湖">
+     </attvalue>
+     <attvalue for="location" value="North">
+     </attvalue>
+     <attvalue for="lat" value="22.5283">
+     </attvalue>
+     <attvalue for="lng" value="114.1134">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0663265306122449">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.09390299444580702">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="47.038773" y="812.04987">
+    </viz:position>
+    <viz:color b="197" g="205" r="0">
+    </viz:color>
+   </node>
+   <node id="MEF">
+    <attvalues>
+     <attvalue for="latin_name" value="Mei Foo">
+     </attvalue>
+     <attvalue for="local_name" value="美孚">
+     </attvalue>
+     <attvalue for="location" value="Sham Shui Po">
+     </attvalue>
+     <attvalue for="lat" value="22.3381">
+     </attvalue>
+     <attvalue for="lng" value="114.1376">
+     </attvalue>
+     <attvalue for="eccentricity" value="20.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11070559610705596">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.19757263266942443">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="1053.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="-409.31424" y="151.05898">
+    </viz:position>
+    <viz:color b="255" g="133" r="255">
+    </viz:color>
+   </node>
+   <node id="MKK">
+    <attvalues>
+     <attvalue for="latin_name" value="Mong Kok East">
+     </attvalue>
+     <attvalue for="local_name" value="旺角東">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.3222">
+     </attvalue>
+     <attvalue for="lng" value="114.1728">
+     </attvalue>
+     <attvalue for="eccentricity" value="16.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.12926136363636365">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1800472268878862">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="837.5000000000001">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-48.291355" y="174.7682">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="MOK">
+    <attvalues>
+     <attvalue for="latin_name" value="Mong Kok">
+     </attvalue>
+     <attvalue for="local_name" value="旺角">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.3245">
+     </attvalue>
+     <attvalue for="lng" value="114.1683">
+     </attvalue>
+     <attvalue for="eccentricity" value="15.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.12962962962962962">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1776436323139619">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="1205.6666666666667">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="-34.647385" y="-64.2781">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="MOS">
+    <attvalues>
+     <attvalue for="latin_name" value="Ma On Shan">
+     </attvalue>
+     <attvalue for="local_name" value="馬鞍山">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.4247">
+     </attvalue>
+     <attvalue for="lng" value="114.2316">
+     </attvalue>
+     <attvalue for="eccentricity" value="23.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07021604938271606">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.10312524350322087">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="90.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="392.6208" y="558.507">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="NAC">
+    <attvalues>
+     <attvalue for="latin_name" value="Nam Cheong">
+     </attvalue>
+     <attvalue for="local_name" value="南昌">
+     </attvalue>
+     <attvalue for="location" value="Sham Shui Po">
+     </attvalue>
+     <attvalue for="lat" value="22.3268">
+     </attvalue>
+     <attvalue for="lng" value="114.1533">
+     </attvalue>
+     <attvalue for="eccentricity" value="20.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.1116564417177914">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.19698220756550958">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="798.6666666666667">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="-384.1699" y="61.300076">
+    </viz:position>
+    <viz:color b="255" g="133" r="255">
+    </viz:color>
+   </node>
+   <node id="NOP">
+    <attvalues>
+     <attvalue for="latin_name" value="North Point">
+     </attvalue>
+     <attvalue for="local_name" value="北角">
+     </attvalue>
+     <attvalue for="location" value="Eastern">
+     </attvalue>
+     <attvalue for="lat" value="22.2909">
+     </attvalue>
+     <attvalue for="lng" value="114.2007">
+     </attvalue>
+     <attvalue for="eccentricity" value="21.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08708133971291866">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.14358028395809497">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="444.6666666666668">
+     </attvalue>
+    </attvalues>
+    <viz:size value="27.5">
+    </viz:size>
+    <viz:position x="446.8704" y="-429.75">
+    </viz:position>
+    <viz:color b="0" g="222" r="38">
+    </viz:color>
+   </node>
+   <node id="NTK">
+    <attvalues>
+     <attvalue for="latin_name" value="Ngau Tau Kok">
+     </attvalue>
+     <attvalue for="local_name" value="牛頭角">
+     </attvalue>
+     <attvalue for="location" value="Kwun Tong">
+     </attvalue>
+     <attvalue for="lat" value="22.3154">
+     </attvalue>
+     <attvalue for="lng" value="114.2193">
+     </attvalue>
+     <attvalue for="eccentricity" value="19.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09753483386923902">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.13923100595522597">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="710.3333333333334">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="422.4216" y="-113.5149">
+    </viz:position>
+    <viz:color b="123" g="209" r="0">
+    </viz:color>
+   </node>
+   <node id="OCP">
+    <attvalues>
+     <attvalue for="latin_name" value="Ocean Park">
+     </attvalue>
+     <attvalue for="local_name" value="海洋公園">
+     </attvalue>
+     <attvalue for="location" value="Southern">
+     </attvalue>
+     <attvalue for="lat" value="22.2486">
+     </attvalue>
+     <attvalue for="lng" value="114.1743">
+     </attvalue>
+     <attvalue for="eccentricity" value="17.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.10044150110375276">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.15134468974966706">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="264.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="94.57635" y="-524.8176">
+    </viz:position>
+    <viz:color b="0" g="157" r="241">
+    </viz:color>
+   </node>
+   <node id="OLY">
+    <attvalues>
+     <attvalue for="latin_name" value="Olympic">
+     </attvalue>
+     <attvalue for="local_name" value="奧運">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.3178">
+     </attvalue>
+     <attvalue for="lng" value="114.1602">
+     </attvalue>
+     <attvalue for="eccentricity" value="21.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.10167597765363129">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.16681569119819717">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="122.33333333333334">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-425.24115" y="0.10508638">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="POA">
+    <attvalues>
+     <attvalue for="latin_name" value="Po Lam">
+     </attvalue>
+     <attvalue for="local_name" value="寶琳">
+     </attvalue>
+     <attvalue for="location" value="Sai Kung">
+     </attvalue>
+     <attvalue for="lat" value="22.3224">
+     </attvalue>
+     <attvalue for="lng" value="114.258">
+     </attvalue>
+     <attvalue for="eccentricity" value="26.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.06671554252199413">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.09712141397541942">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="798.15106" y="-294.85886">
+    </viz:position>
+    <viz:color b="77" g="87" r="0">
+    </viz:color>
+   </node>
+   <node id="PRE">
+    <attvalues>
+     <attvalue for="latin_name" value="Prince Edward">
+     </attvalue>
+     <attvalue for="local_name" value="太子">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.3245">
+     </attvalue>
+     <attvalue for="lng" value="114.1683">
+     </attvalue>
+     <attvalue for="eccentricity" value="16.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.13582089552238805">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.19252458469491426">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="1497.5000000000002">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="-61.100346" y="25.522688">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="QUB">
+    <attvalues>
+     <attvalue for="latin_name" value="Quarry Bay">
+     </attvalue>
+     <attvalue for="local_name" value="鰂魚涌">
+     </attvalue>
+     <attvalue for="location" value="Eastern">
+     </attvalue>
+     <attvalue for="lat" value="22.2878">
+     </attvalue>
+     <attvalue for="lng" value="114.2096">
+     </attvalue>
+     <attvalue for="eccentricity" value="22.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0869980879541109">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.15538304518036083">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="661.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="522.07294" y="-405.3164">
+    </viz:position>
+    <viz:color b="0" g="222" r="38">
+    </viz:color>
+   </node>
+   <node id="SHM">
+    <attvalues>
+     <attvalue for="latin_name" value="Shek Mun">
+     </attvalue>
+     <attvalue for="local_name" value="石門">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.3877">
+     </attvalue>
+     <attvalue for="lng" value="114.2083">
+     </attvalue>
+     <attvalue for="eccentricity" value="20.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08766859344894026">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1284735731632101">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="348.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="280.58383" y="467.64938">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="SHS">
+    <attvalues>
+     <attvalue for="latin_name" value="Sheung Shui">
+     </attvalue>
+     <attvalue for="local_name" value="上水">
+     </attvalue>
+     <attvalue for="location" value="North">
+     </attvalue>
+     <attvalue for="lat" value="22.5012">
+     </attvalue>
+     <attvalue for="lng" value="114.128">
+     </attvalue>
+     <attvalue for="eccentricity" value="23.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07098283931357255">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.11338165375963113">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="179.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="27.5">
+    </viz:size>
+    <viz:position x="36.556637" y="770.8864">
+    </viz:position>
+    <viz:color b="197" g="205" r="0">
+    </viz:color>
+   </node>
+   <node id="SHT">
+    <attvalues>
+     <attvalue for="latin_name" value="Sha Tin">
+     </attvalue>
+     <attvalue for="local_name" value="沙田">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.3825">
+     </attvalue>
+     <attvalue for="lng" value="114.1875">
+     </attvalue>
+     <attvalue for="eccentricity" value="17.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.114321608040201">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.16407411718497691">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="664.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="71.47931" y="395.68457">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="SHW">
+    <attvalues>
+     <attvalue for="latin_name" value="Sheung Wan">
+     </attvalue>
+     <attvalue for="local_name" value="上環">
+     </attvalue>
+     <attvalue for="location" value="Central and Western">
+     </attvalue>
+     <attvalue for="lat" value="22.2862">
+     </attvalue>
+     <attvalue for="lng" value="114.1518">
+     </attvalue>
+     <attvalue for="eccentricity" value="18.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09210526315789473">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.13703445337252698">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="264.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-32.161358" y="-547.43835">
+    </viz:position>
+    <viz:color b="146" g="193" r="210">
+    </viz:color>
+   </node>
+   <node id="SIH">
+    <attvalues>
+     <attvalue for="latin_name" value="Siu Hong">
+     </attvalue>
+     <attvalue for="local_name" value="兆康">
+     </attvalue>
+     <attvalue for="location" value="Tuen Mun">
+     </attvalue>
+     <attvalue for="lat" value="22.412">
+     </attvalue>
+     <attvalue for="lng" value="113.9786">
+     </attvalue>
+     <attvalue for="eccentricity" value="26.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.06893939393939394">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.10569812450259432">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="90.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-675.0695" y="401.92587">
+    </viz:position>
+    <viz:color b="203" g="162" r="0">
+    </viz:color>
+   </node>
+   <node id="SKM">
+    <attvalues>
+     <attvalue for="latin_name" value="Shek Kip Mei">
+     </attvalue>
+     <attvalue for="local_name" value="石硤尾">
+     </attvalue>
+     <attvalue for="location" value="Sham Shui Po">
+     </attvalue>
+     <attvalue for="lat" value="22.332">
+     </attvalue>
+     <attvalue for="lng" value="114.1687">
+     </attvalue>
+     <attvalue for="eccentricity" value="16.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.1338235294117647">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1874825266308782">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="808.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-8.919795" y="104.74061">
+    </viz:position>
+    <viz:color b="255" g="133" r="255">
+    </viz:color>
+   </node>
+   <node id="SKW">
+    <attvalues>
+     <attvalue for="latin_name" value="Shau Kei Wan">
+     </attvalue>
+     <attvalue for="local_name" value="筲箕灣">
+     </attvalue>
+     <attvalue for="location" value="Eastern">
+     </attvalue>
+     <attvalue for="lat" value="22.2789">
+     </attvalue>
+     <attvalue for="lng" value="114.2289">
+     </attvalue>
+     <attvalue for="eccentricity" value="25.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07010785824345146">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.11445136729438367">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="178.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="630.28076" y="-548.025">
+    </viz:position>
+    <viz:color b="0" g="222" r="38">
+    </viz:color>
+   </node>
+   <node id="SOH">
+    <attvalues>
+     <attvalue for="latin_name" value="South Horizons">
+     </attvalue>
+     <attvalue for="local_name" value="海怡半島">
+     </attvalue>
+     <attvalue for="location" value="Southern">
+     </attvalue>
+     <attvalue for="lat" value="22.2425">
+     </attvalue>
+     <attvalue for="lng" value="114.1491">
+     </attvalue>
+     <attvalue for="eccentricity" value="20.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07777777777777778">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.10358193771548983">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="103.71471" y="-650.49817">
+    </viz:position>
+    <viz:color b="0" g="157" r="241">
+    </viz:color>
+   </node>
+   <node id="SSP">
+    <attvalues>
+     <attvalue for="latin_name" value="Sham Shui Po">
+     </attvalue>
+     <attvalue for="local_name" value="深水埗">
+     </attvalue>
+     <attvalue for="location" value="Sham Shui Po">
+     </attvalue>
+     <attvalue for="lat" value="22.3307">
+     </attvalue>
+     <attvalue for="lng" value="114.1623">
+     </attvalue>
+     <attvalue for="eccentricity" value="17.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.1285310734463277">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.17703812204458608">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="902.4999999999999">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-149.51808" y="56.68295">
+    </viz:position>
+    <viz:color b="255" g="133" r="255">
+    </viz:color>
+   </node>
+   <node id="STW">
+    <attvalues>
+     <attvalue for="latin_name" value="Sha Tin Wai">
+     </attvalue>
+     <attvalue for="local_name" value="沙田圍">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.3771">
+     </attvalue>
+     <attvalue for="lng" value="114.195">
+     </attvalue>
+     <attvalue for="eccentricity" value="18.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.10388127853881278">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1487243875495329">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="510.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="192.0193" y="395.8845">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="SUN">
+    <attvalues>
+     <attvalue for="latin_name" value="Sunny Bay">
+     </attvalue>
+     <attvalue for="local_name" value="欣澳">
+     </attvalue>
+     <attvalue for="location" value="Tsuen Wan">
+     </attvalue>
+     <attvalue for="lat" value="22.3318">
+     </attvalue>
+     <attvalue for="lng" value="114.0288">
+     </attvalue>
+     <attvalue for="eccentricity" value="23.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0900990099009901">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.15710063257922915">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="179.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="27.5">
+    </viz:size>
+    <viz:position x="-620.73425" y="-52.24285">
+    </viz:position>
+    <viz:color b="193" g="90" r="255">
+    </viz:color>
+   </node>
+   <node id="SWH">
+    <attvalues>
+     <attvalue for="latin_name" value="Sai Wan Ho">
+     </attvalue>
+     <attvalue for="local_name" value="西灣河">
+     </attvalue>
+     <attvalue for="location" value="Eastern">
+     </attvalue>
+     <attvalue for="lat" value="22.2816">
+     </attvalue>
+     <attvalue for="lng" value="114.2224">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07508250825082509">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.12439310716935965">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="264.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="600.81726" y="-509.03583">
+    </viz:position>
+    <viz:color b="0" g="222" r="38">
+    </viz:color>
+   </node>
+   <node id="SYP">
+    <attvalues>
+     <attvalue for="latin_name" value="Sai Ying Pun">
+     </attvalue>
+     <attvalue for="local_name" value="西營盤">
+     </attvalue>
+     <attvalue for="location" value="Central and Western">
+     </attvalue>
+     <attvalue for="lat" value="22.2856">
+     </attvalue>
+     <attvalue for="lng" value="114.1427">
+     </attvalue>
+     <attvalue for="eccentricity" value="19.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08472998137802606">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.12502359823915968">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="178.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-64.15675" y="-585.11145">
+    </viz:position>
+    <viz:color b="146" g="193" r="210">
+    </viz:color>
+   </node>
+   <node id="TAK">
+    <attvalues>
+     <attvalue for="latin_name" value="Tai Koo">
+     </attvalue>
+     <attvalue for="local_name" value="太古">
+     </attvalue>
+     <attvalue for="location" value="Eastern">
+     </attvalue>
+     <attvalue for="lat" value="22.2846">
+     </attvalue>
+     <attvalue for="lng" value="114.2161">
+     </attvalue>
+     <attvalue for="eccentricity" value="23.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08067375886524823">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.13635333750216172">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="348.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="568.36" y="-466.07852">
+    </viz:position>
+    <viz:color b="0" g="222" r="38">
+    </viz:color>
+   </node>
+   <node id="TAP">
+    <attvalues>
+     <attvalue for="latin_name" value="Tai Po Market">
+     </attvalue>
+     <attvalue for="local_name" value="大埔墟">
+     </attvalue>
+     <attvalue for="location" value="Tai Po">
+     </attvalue>
+     <attvalue for="lat" value="22.4446">
+     </attvalue>
+     <attvalue for="lng" value="114.1706">
+     </attvalue>
+     <attvalue for="eccentricity" value="20.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0883495145631068">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.13030507499471194">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="430.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="52.155746" y="601.52234">
+    </viz:position>
+    <viz:color b="47" g="144" r="71">
+    </viz:color>
+   </node>
+   <node id="TAW">
+    <attvalues>
+     <attvalue for="latin_name" value="Tai Wai">
+     </attvalue>
+     <attvalue for="local_name" value="大圍">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.3731">
+     </attvalue>
+     <attvalue for="lng" value="114.1786">
+     </attvalue>
+     <attvalue for="eccentricity" value="16.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.1260387811634349">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.18845005726873862">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="1330.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="27.5">
+    </viz:size>
+    <viz:position x="82.807144" y="311.99582">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="TIH">
+    <attvalues>
+     <attvalue for="latin_name" value="Tin Hau">
+     </attvalue>
+     <attvalue for="local_name" value="天后">
+     </attvalue>
+     <attvalue for="location" value="Wan Chai">
+     </attvalue>
+     <attvalue for="lat" value="22.2827">
+     </attvalue>
+     <attvalue for="lng" value="114.1917">
+     </attvalue>
+     <attvalue for="eccentricity" value="19.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09391124871001032">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.14254316658290386">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="520.6666666666667">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="309.743" y="-450.49658">
+    </viz:position>
+    <viz:color b="109" g="98" r="255">
+    </viz:color>
+   </node>
+   <node id="TIK">
+    <attvalues>
+     <attvalue for="latin_name" value="Tiu Keng Leng">
+     </attvalue>
+     <attvalue for="local_name" value="調景嶺">
+     </attvalue>
+     <attvalue for="location" value="Sai Kung">
+     </attvalue>
+     <attvalue for="lat" value="22.3042">
+     </attvalue>
+     <attvalue for="lng" value="114.2524">
+     </attvalue>
+     <attvalue for="eccentricity" value="23.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08257713248638839">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1389486195963891">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="348.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="27.5">
+    </viz:size>
+    <viz:position x="636.4599" y="-303.23874">
+    </viz:position>
+    <viz:color b="77" g="87" r="0">
+    </viz:color>
+   </node>
+   <node id="TIS">
+    <attvalues>
+     <attvalue for="latin_name" value="Tin Shui Wai">
+     </attvalue>
+     <attvalue for="local_name" value="天水圍">
+     </attvalue>
+     <attvalue for="location" value="Yuen Long">
+     </attvalue>
+     <attvalue for="lat" value="22.4481">
+     </attvalue>
+     <attvalue for="lng" value="114.0046">
+     </attvalue>
+     <attvalue for="eccentricity" value="25.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07386363636363637">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.11566182107151633">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="178.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-637.22955" y="376.05054">
+    </viz:position>
+    <viz:color b="101" g="60" r="112">
+    </viz:color>
+   </node>
+   <node id="TKO">
+    <attvalues>
+     <attvalue for="latin_name" value="Tseung Kwan O">
+     </attvalue>
+     <attvalue for="local_name" value="將軍澳">
+     </attvalue>
+     <attvalue for="location" value="Sai Kung">
+     </attvalue>
+     <attvalue for="lat" value="22.3074">
+     </attvalue>
+     <attvalue for="lng" value="114.26">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07672849915682968">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1317409779447472">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="266.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="27.5">
+    </viz:size>
+    <viz:position x="710.53033" y="-304.3759">
+    </viz:position>
+    <viz:color b="77" g="87" r="0">
+    </viz:color>
+   </node>
+   <node id="TSH">
+    <attvalues>
+     <attvalue for="latin_name" value="Tai Shui Hang">
+     </attvalue>
+     <attvalue for="local_name" value="大水坑">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.4088">
+     </attvalue>
+     <attvalue for="lng" value="114.223">
+     </attvalue>
+     <attvalue for="eccentricity" value="21.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08110516934046345">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.12029197837511034">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="264.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="320.19452" y="499.96497">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="TST">
+    <attvalues>
+     <attvalue for="latin_name" value="Tsim Sha Tsui">
+     </attvalue>
+     <attvalue for="local_name" value="尖沙咀">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.2973">
+     </attvalue>
+     <attvalue for="lng" value="114.1722">
+     </attvalue>
+     <attvalue for="eccentricity" value="15.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11504424778761062">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1658968930946953">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="1058.6666666666665">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="45.798405" y="-342.37918">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="TSW">
+    <attvalues>
+     <attvalue for="latin_name" value="Tsuen Wan">
+     </attvalue>
+     <attvalue for="local_name" value="荃灣">
+     </attvalue>
+     <attvalue for="location" value="Tsuen Wan">
+     </attvalue>
+     <attvalue for="lat" value="22.3736">
+     </attvalue>
+     <attvalue for="lng" value="114.1178">
+     </attvalue>
+     <attvalue for="eccentricity" value="25.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.07602339181286549">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.10735811286587937">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="-664.615" y="165.6244">
+    </viz:position>
+    <viz:color b="193" g="90" r="255">
+    </viz:color>
+   </node>
+   <node id="TSY">
+    <attvalues>
+     <attvalue for="latin_name" value="Tsing Yi">
+     </attvalue>
+     <attvalue for="local_name" value="青衣">
+     </attvalue>
+     <attvalue for="location" value="Kwai Tsing">
+     </attvalue>
+     <attvalue for="lat" value="22.3584">
+     </attvalue>
+     <attvalue for="lng" value="114.107">
+     </attvalue>
+     <attvalue for="eccentricity" value="22.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09848484848484848">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.18659232225302366">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="479.66666666666663">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="-557.9159" y="7.642773">
+    </viz:position>
+    <viz:color b="255" g="176" r="64">
+    </viz:color>
+   </node>
+   <node id="TUC">
+    <attvalues>
+     <attvalue for="latin_name" value="Tung Chung">
+     </attvalue>
+     <attvalue for="local_name" value="東涌">
+     </attvalue>
+     <attvalue for="location" value="Islands">
+     </attvalue>
+     <attvalue for="lat" value="22.2893">
+     </attvalue>
+     <attvalue for="lng" value="113.9416">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08272727272727273">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.12572937868050274">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="-644.77325" y="-87.53699">
+    </viz:position>
+    <viz:color b="0" g="186" r="167">
+    </viz:color>
+   </node>
+   <node id="TUM">
+    <attvalues>
+     <attvalue for="latin_name" value="Tuen Mun">
+     </attvalue>
+     <attvalue for="local_name" value="屯門">
+     </attvalue>
+     <attvalue for="location" value="Tuen Mun">
+     </attvalue>
+     <attvalue for="lat" value="22.3952">
+     </attvalue>
+     <attvalue for="lng" value="113.9731">
+     </attvalue>
+     <attvalue for="eccentricity" value="27.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.06453900709219858">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.09107346548233092">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="-701.30664" y="417.51678">
+    </viz:position>
+    <viz:color b="203" g="162" r="0">
+    </viz:color>
+   </node>
+   <node id="TWH">
+    <attvalues>
+     <attvalue for="latin_name" value="Tai Wo Hau">
+     </attvalue>
+     <attvalue for="local_name" value="大窩口">
+     </attvalue>
+     <attvalue for="location" value="Kwai Tsing">
+     </attvalue>
+     <attvalue for="lat" value="22.3708">
+     </attvalue>
+     <attvalue for="lng" value="114.125">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08220415537488708">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1261741719824389">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="90.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-636.4641" y="156.08415">
+    </viz:position>
+    <viz:color b="255" g="176" r="64">
+    </viz:color>
+   </node>
+   <node id="TWO">
+    <attvalues>
+     <attvalue for="latin_name" value="Tai Wo">
+     </attvalue>
+     <attvalue for="local_name" value="太和">
+     </attvalue>
+     <attvalue for="location" value="Tai Po">
+     </attvalue>
+     <attvalue for="lat" value="22.4511">
+     </attvalue>
+     <attvalue for="lng" value="114.1611">
+     </attvalue>
+     <attvalue for="eccentricity" value="21.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.08183453237410072">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.12310967350049776">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="348.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="47.18647" y="658.6907">
+    </viz:position>
+    <viz:color b="47" g="144" r="71">
+    </viz:color>
+   </node>
+   <node id="TWW">
+    <attvalues>
+     <attvalue for="latin_name" value="Tsuen Wan West">
+     </attvalue>
+     <attvalue for="local_name" value="荃灣西">
+     </attvalue>
+     <attvalue for="location" value="Tsuen Wan">
+     </attvalue>
+     <attvalue for="lat" value="22.3686">
+     </attvalue>
+     <attvalue for="lng" value="114.1098">
+     </attvalue>
+     <attvalue for="eccentricity" value="21.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.10111111111111111">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.16527772415271136">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="510.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-463.281" y="219.05518">
+    </viz:position>
+    <viz:color b="193" g="90" r="255">
+    </viz:color>
+   </node>
+   <node id="UNI">
+    <attvalues>
+     <attvalue for="latin_name" value="University">
+     </attvalue>
+     <attvalue for="local_name" value="大學">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.4134">
+     </attvalue>
+     <attvalue for="lng" value="114.2102">
+     </attvalue>
+     <attvalue for="eccentricity" value="19.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09578947368421052">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.13881078497101013">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="510.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="57.56967" y="539.0198">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="WAC">
+    <attvalues>
+     <attvalue for="latin_name" value="Wan Chai">
+     </attvalue>
+     <attvalue for="local_name" value="灣仔">
+     </attvalue>
+     <attvalue for="location" value="Wan Chai">
+     </attvalue>
+     <attvalue for="lat" value="22.2773">
+     </attvalue>
+     <attvalue for="lng" value="114.1728">
+     </attvalue>
+     <attvalue for="eccentricity" value="17.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.1044776119402985">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1571955848862764">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="618.6666666666665">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="171.29413" y="-448.49756">
+    </viz:position>
+    <viz:color b="109" g="98" r="255">
+    </viz:color>
+   </node>
+   <node id="WCH">
+    <attvalues>
+     <attvalue for="latin_name" value="Wong Chuk Hang">
+     </attvalue>
+     <attvalue for="local_name" value="黃竹坑">
+     </attvalue>
+     <attvalue for="location" value="Southern">
+     </attvalue>
+     <attvalue for="lat" value="22.248">
+     </attvalue>
+     <attvalue for="lng" value="114.1681">
+     </attvalue>
+     <attvalue for="eccentricity" value="18.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.09173387096774194">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.1349413084222392">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="178.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="100.12283" y="-574.5211">
+    </viz:position>
+    <viz:color b="0" g="157" r="241">
+    </viz:color>
+   </node>
+   <node id="WHA">
+    <attvalues>
+     <attvalue for="latin_name" value="Whampo">
+     </attvalue>
+     <attvalue for="local_name" value="黃埔">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.305">
+     </attvalue>
+     <attvalue for="lng" value="114.1896">
+     </attvalue>
+     <attvalue for="eccentricity" value="16.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.10033076074972437">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.12648520588081025">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="88.43877" y="-166.37415">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="WKS">
+    <attvalues>
+     <attvalue for="latin_name" value="Wu Kai Sha">
+     </attvalue>
+     <attvalue for="local_name" value="烏溪沙">
+     </attvalue>
+     <attvalue for="location" value="Sha Tin">
+     </attvalue>
+     <attvalue for="lat" value="22.4291">
+     </attvalue>
+     <attvalue for="lng" value="114.2438">
+     </attvalue>
+     <attvalue for="eccentricity" value="24.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.06565656565656566">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.08909530213811469">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="0.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="5.0">
+    </viz:size>
+    <viz:position x="416.37137" y="577.29346">
+    </viz:position>
+    <viz:color b="26" g="114" r="255">
+    </viz:color>
+   </node>
+   <node id="WTS">
+    <attvalues>
+     <attvalue for="latin_name" value="Wong Tai Sin">
+     </attvalue>
+     <attvalue for="local_name" value="黃大仙">
+     </attvalue>
+     <attvalue for="location" value="Wong Tai Sin">
+     </attvalue>
+     <attvalue for="lat" value="22.3417">
+     </attvalue>
+     <attvalue for="lng" value="114.1939">
+     </attvalue>
+     <attvalue for="eccentricity" value="15.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.11910994764397906">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.16072587363796154">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="879.3333333333334">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="188.78662" y="91.23575">
+    </viz:position>
+    <viz:color b="19" g="71" r="119">
+    </viz:color>
+   </node>
+   <node id="YAT">
+    <attvalues>
+     <attvalue for="latin_name" value="Yau Tong">
+     </attvalue>
+     <attvalue for="local_name" value="油塘">
+     </attvalue>
+     <attvalue for="location" value="Kwun Tong">
+     </attvalue>
+     <attvalue for="lat" value="22.2979">
+     </attvalue>
+     <attvalue for="lng" value="114.2371">
+     </attvalue>
+     <attvalue for="eccentricity" value="22.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0892156862745098">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.15637784562783705">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="758.3333333333335">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="557.9603" y="-306.54">
+    </viz:position>
+    <viz:color b="123" g="209" r="0">
+    </viz:color>
+   </node>
+   <node id="YMT">
+    <attvalues>
+     <attvalue for="latin_name" value="Yau Ma Tei">
+     </attvalue>
+     <attvalue for="local_name" value="油麻地">
+     </attvalue>
+     <attvalue for="location" value="Yau Tsim Mong">
+     </attvalue>
+     <attvalue for="lat" value="22.3129">
+     </attvalue>
+     <attvalue for="lng" value="114.1707">
+     </attvalue>
+     <attvalue for="eccentricity" value="14.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.12482853223593965">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.17678200919959156">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="1238.666666666667">
+     </attvalue>
+    </attvalues>
+    <viz:size value="38.75">
+    </viz:size>
+    <viz:position x="-8.322341" y="-154.25029">
+    </viz:position>
+    <viz:color b="255" g="222" r="0">
+    </viz:color>
+   </node>
+   <node id="YUL">
+    <attvalues>
+     <attvalue for="latin_name" value="Yuen Long">
+     </attvalue>
+     <attvalue for="local_name" value="元朗">
+     </attvalue>
+     <attvalue for="location" value="Yuen Long">
+     </attvalue>
+     <attvalue for="lat" value="22.4461">
+     </attvalue>
+     <attvalue for="lng" value="114.0352">
+     </attvalue>
+     <attvalue for="eccentricity" value="23.0">
+     </attvalue>
+     <attvalue for="closnesscentrality" value="0.0856873822975518">
+     </attvalue>
+     <attvalue for="harmonicclosnesscentrality" value="0.13512396312356814">
+     </attvalue>
+     <attvalue for="betweenesscentrality" value="348.0">
+     </attvalue>
+    </attvalues>
+    <viz:size value="16.25">
+    </viz:size>
+    <viz:position x="-555.2829" y="311.34262">
+    </viz:position>
+    <viz:color b="101" g="60" r="112">
+    </viz:color>
+   </node>
+  </nodes>
+  <edges>
+   <edge id="517" kind="MTR\Airport Express" source="AWE" target="AIR">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Airport Express">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="518" kind="MTR\Airport Express" source="AIR" target="TSY">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Airport Express">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="519" kind="MTR\Airport Express" source="TSY" target="KOW">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Airport Express">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="520" kind="MTR\Airport Express" source="KOW" target="HOK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Airport Express">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="521" kind="MTR\Disneyland line" source="SUN" target="DIS">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Disneyland line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="522" kind="MTR\East Rail line" source="LOW" target="SHS">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="523" kind="MTR\East Rail line" source="SHS" target="FAN">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="524" kind="MTR\East Rail line" source="FAN" target="TWO">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="525" kind="MTR\East Rail line" source="TWO" target="TAP">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="526" kind="MTR\East Rail line" source="TAP" target="UNI">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="527" kind="MTR\East Rail line" source="UNI" target="FOT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="528" kind="MTR\East Rail line" source="FOT" target="SHT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="529" kind="MTR\East Rail line" source="SHT" target="TAW">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="530" kind="MTR\East Rail line" source="TAW" target="KOT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="531" kind="MTR\East Rail line" source="KOT" target="MKK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="532" kind="MTR\East Rail line" source="MKK" target="HUH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="533" kind="MTR\East Rail line" source="LMC" target="SHS">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\East Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="534" kind="MTR\Island line" source="CHW" target="HFC">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="535" kind="MTR\Island line" source="HFC" target="SKW">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="536" kind="MTR\Island line" source="SKW" target="SWH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="537" kind="MTR\Island line" source="SWH" target="TAK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="538" kind="MTR\Island line" source="TAK" target="QUB">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="539" kind="MTR\Island line" source="QUB" target="NOP">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="540" kind="MTR\Island line" source="NOP" target="FOH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="541" kind="MTR\Island line" source="FOH" target="TIH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="542" kind="MTR\Island line" source="TIH" target="CAB">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="543" kind="MTR\Island line" source="CAB" target="WAC">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="544" kind="MTR\Island line" source="WAC" target="ADM">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="545" kind="MTR\Island line" source="ADM" target="CEN">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="546" kind="MTR\Island line" source="CEN" target="SHW">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="547" kind="MTR\Island line" source="SHW" target="SYP">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="548" kind="MTR\Island line" source="SYP" target="HKU">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="549" kind="MTR\Island line" source="HKU" target="KET">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="550" kind="MTR\Kwun Tong line" source="WHA" target="HOM">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="551" kind="MTR\Kwun Tong line" source="HOM" target="YMT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="552" kind="MTR\Kwun Tong line" source="YMT" target="MOK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="553" kind="MTR\Kwun Tong line" source="MOK" target="PRE">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="554" kind="MTR\Kwun Tong line" source="PRE" target="SKM">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="555" kind="MTR\Kwun Tong line" source="SKM" target="KOT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="556" kind="MTR\Kwun Tong line" source="KOT" target="LOF">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="557" kind="MTR\Kwun Tong line" source="LOF" target="WTS">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="558" kind="MTR\Kwun Tong line" source="WTS" target="DIH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="559" kind="MTR\Kwun Tong line" source="DIH" target="CHH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="560" kind="MTR\Kwun Tong line" source="CHH" target="KOB">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="561" kind="MTR\Kwun Tong line" source="KOB" target="NTK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="562" kind="MTR\Kwun Tong line" source="NTK" target="KWT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="563" kind="MTR\Kwun Tong line" source="KWT" target="LAT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="564" kind="MTR\Kwun Tong line" source="LAT" target="YAT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="565" kind="MTR\Kwun Tong line" source="YAT" target="TIK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Kwun Tong line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="566" kind="MTR\Ma On Shan line" source="WKS" target="MOS">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Ma On Shan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="567" kind="MTR\Ma On Shan line" source="MOS" target="HEO">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Ma On Shan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="568" kind="MTR\Ma On Shan line" source="HEO" target="TSH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Ma On Shan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="569" kind="MTR\Ma On Shan line" source="TSH" target="SHM">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Ma On Shan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="570" kind="MTR\Ma On Shan line" source="SHM" target="CIO">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Ma On Shan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="571" kind="MTR\Ma On Shan line" source="CIO" target="STW">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Ma On Shan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="572" kind="MTR\Ma On Shan line" source="STW" target="CKT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Ma On Shan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="573" kind="MTR\Ma On Shan line" source="CKT" target="TAW">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Ma On Shan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="574" kind="MTR\South Island line" source="SOH" target="LET">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\South Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="575" kind="MTR\South Island line" source="LET" target="WCH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\South Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="576" kind="MTR\South Island line" source="WCH" target="OCP">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\South Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="577" kind="MTR\South Island line" source="OCP" target="ADM">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\South Island line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="578" kind="MTR\Tseung Kwan O line" source="POA" target="HAH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tseung Kwan O line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="579" kind="MTR\Tseung Kwan O line" source="HAH" target="TKO">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tseung Kwan O line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="580" kind="MTR\Tseung Kwan O line" source="TKO" target="TIK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tseung Kwan O line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="581" kind="MTR\Tseung Kwan O line" source="TIK" target="YAT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tseung Kwan O line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="582" kind="MTR\Tseung Kwan O line" source="YAT" target="QUB">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tseung Kwan O line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="583" kind="MTR\Tseung Kwan O line" source="QUB" target="NOP">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tseung Kwan O line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="584" kind="MTR\Tseung Kwan O line" source="LHP" target="TKO">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tseung Kwan O line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="585" kind="MTR\Tsuen Wan line" source="TSW" target="TWH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="586" kind="MTR\Tsuen Wan line" source="TWH" target="KWH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="587" kind="MTR\Tsuen Wan line" source="KWH" target="KWF">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="588" kind="MTR\Tsuen Wan line" source="KWF" target="LAK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="589" kind="MTR\Tsuen Wan line" source="LAK" target="MEF">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="590" kind="MTR\Tsuen Wan line" source="MEF" target="LCK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="591" kind="MTR\Tsuen Wan line" source="LCK" target="CSW">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="592" kind="MTR\Tsuen Wan line" source="CSW" target="SSP">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="593" kind="MTR\Tsuen Wan line" source="SSP" target="PRE">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="594" kind="MTR\Tsuen Wan line" source="PRE" target="MOK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="595" kind="MTR\Tsuen Wan line" source="MOK" target="YMT">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="596" kind="MTR\Tsuen Wan line" source="YMT" target="JOR">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="597" kind="MTR\Tsuen Wan line" source="JOR" target="TST">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="598" kind="MTR\Tsuen Wan line" source="TST" target="ADM">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="599" kind="MTR\Tsuen Wan line" source="ADM" target="CEN">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tsuen Wan line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="600" kind="MTR\Tung Chung line" source="TUC" target="SUN">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tung Chung line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="601" kind="MTR\Tung Chung line" source="SUN" target="TSY">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tung Chung line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="602" kind="MTR\Tung Chung line" source="TSY" target="LAK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tung Chung line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="603" kind="MTR\Tung Chung line" source="LAK" target="NAC">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tung Chung line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="604" kind="MTR\Tung Chung line" source="NAC" target="OLY">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tung Chung line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="605" kind="MTR\Tung Chung line" source="OLY" target="KOW">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tung Chung line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="606" kind="MTR\Tung Chung line" source="KOW" target="HOK">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\Tung Chung line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="607" kind="MTR\West Rail line" source="TUM" target="SIH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="608" kind="MTR\West Rail line" source="SIH" target="TIS">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="609" kind="MTR\West Rail line" source="TIS" target="LOP">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="610" kind="MTR\West Rail line" source="LOP" target="YUL">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="611" kind="MTR\West Rail line" source="YUL" target="KSR">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="612" kind="MTR\West Rail line" source="KSR" target="TWW">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="613" kind="MTR\West Rail line" source="TWW" target="MEF">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="614" kind="MTR\West Rail line" source="MEF" target="NAC">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="615" kind="MTR\West Rail line" source="NAC" target="AUS">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="616" kind="MTR\West Rail line" source="AUS" target="ETS">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+   <edge id="617" kind="MTR\West Rail line" source="ETS" target="HUH">
+    <attvalues>
+
+     <attvalue for="kind" value="MTR\West Rail line">
+     </attvalue>
+    </attvalues>
+   </edge>
+  </edges>
+ </graph>
+</gexf>
